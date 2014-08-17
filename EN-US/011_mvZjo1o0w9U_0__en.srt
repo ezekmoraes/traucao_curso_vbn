@@ -1,0 +1,466 @@
+﻿1
+00:00:01,649 --> 00:00:04,459
+hell YouTube same here from you to dot
+com slash
+
+2
+00:00:04,459 --> 00:00:08,960
+on live gamer for the New Boston and the
+situation will be talking about getting
+
+3
+00:00:08,960 --> 00:00:10,719
+user input from the Consul
+
+4
+00:00:10,718 --> 00:00:14,000
+now this is very useful when you can
+console applications
+
+5
+00:00:14,000 --> 00:00:17,240
+because what's the point in making an
+application
+
+6
+00:00:17,239 --> 00:00:20,939
+if the user can it imply anything so
+it's going to get started
+
+7
+00:00:20,939 --> 00:00:24,879
+go ahead aid creator Bob variables here
+
+8
+00:00:24,879 --> 00:00:28,379
+so use diem wishes to you
+
+9
+00:00:28,379 --> 00:00:34,119
+user name as string I'll start off by
+setting
+
+10
+00:00:34,119 --> 00:00:37,968
+setting equal to nothing now this is
+just
+
+11
+00:00:37,969 --> 00:00:41,000
+a safety precautions here because if the
+user
+
+12
+00:00:41,000 --> 00:00:44,179
+does not input anything as they re
+
+13
+00:00:44,179 --> 00:00:48,340
+name did stream would not be equal to a
+value
+
+14
+00:00:48,340 --> 00:00:51,579
+and we're getting a reef which I print
+that out on the console
+
+15
+00:00:51,579 --> 00:00:55,140
+says go ahead and clear another
+
+16
+00:00:55,140 --> 00:00:59,549
+value so user age as integer
+
+17
+00:00:59,549 --> 00:01:02,738
+in said that people are nothing just in
+case they don't imply anything
+
+18
+00:01:02,738 --> 00:01:06,590
+because they will get an area of which I
+print out something that's not equal to
+
+19
+00:01:06,590 --> 00:01:07,118
+anything
+
+20
+00:01:07,118 --> 00:01:10,799
+so they will do diem
+
+21
+00:01:10,799 --> 00:01:14,689
+users salary has
+
+22
+00:01:14,688 --> 00:01:17,699
+double I'll go ahead and take that
+
+23
+00:01:17,700 --> 00:01:22,689
+said that equal to nothing as well so
+now what we're going to do you
+
+24
+00:01:22,688 --> 00:01:25,750
+is real prompt the user to input some
+information
+
+25
+00:01:25,750 --> 00:01:29,430
+soul just create a string it out over
+arguments
+
+26
+00:01:29,430 --> 00:01:33,360
+and will type what is your name
+
+27
+00:01:33,359 --> 00:01:37,310
+now we want to do
+
+28
+00:01:37,310 --> 00:01:40,320
+is ruining it wait for them to you
+
+29
+00:01:40,319 --> 00:01:44,408
+I'm putting their name so what we gonna
+do
+
+30
+00:01:44,409 --> 00:01:47,719
+to do this is going to type username
+
+31
+00:01:47,719 --> 00:01:51,170
+equals consul
+
+32
+00:01:51,170 --> 00:01:56,290
+dot read lines so what this does
+
+33
+00:01:56,290 --> 00:01:59,469
+is whenever the user types in
+
+34
+00:01:59,468 --> 00:02:04,649
+a string of characters and presses enter
+its gonna read that by Darren story in
+
+35
+00:02:04,649 --> 00:02:06,140
+the variable username
+
+36
+00:02:06,140 --> 00:02:09,270
+the wicked go I'm
+
+37
+00:02:09,270 --> 00:02:13,180
+and prompted to type something else so
+the console dot
+
+38
+00:02:13,180 --> 00:02:17,480
+right line what
+
+39
+00:02:17,479 --> 00:02:22,799
+is your age and it will type
+
+40
+00:02:22,800 --> 00:02:26,209
+user age equals
+
+41
+00:02:26,209 --> 00:02:33,209
+time so dot read by
+
+42
+00:02:34,590 --> 00:02:38,319
+and we'll just do that again and get
+their salary civil type
+
+43
+00:02:38,318 --> 00:02:42,128
+console dot right line
+
+44
+00:02:42,128 --> 00:02:45,199
+what is yours salary
+
+45
+00:02:45,199 --> 00:02:50,798
+and we use disappear again
+
+46
+00:02:50,799 --> 00:02:54,400
+to get their salary from the council so
+tight user
+
+47
+00:02:54,400 --> 00:02:58,280
+salary equals console died
+
+48
+00:02:58,280 --> 00:03:01,289
+read line
+
+49
+00:03:01,289 --> 00:03:05,139
+snap a good run this
+
+50
+00:03:05,139 --> 00:03:09,929
+you see is going to say what is your
+name it's about have been Sam
+
+51
+00:03:09,930 --> 00:03:13,450
+press Enter what it does is its stores
+same
+
+52
+00:03:13,449 --> 00:03:17,318
+in stride inside username him free
+
+53
+00:03:17,318 --> 00:03:20,328
+typing aids sauce a 15
+
+54
+00:03:20,329 --> 00:03:23,450
+out at my salary so it's a
+
+55
+00:03:23,449 --> 00:03:26,780
+I know I am a millionaire's so five
+hundred dollars
+
+56
+00:03:26,780 --> 00:03:31,459
+our for 550 insisted that and I
+
+57
+00:03:31,459 --> 00:03:34,569
+see it didn't do anything so we
+basically did
+
+58
+00:03:34,568 --> 00:03:38,449
+was we prompted the user to type in
+something
+
+59
+00:03:38,449 --> 00:03:41,878
+it we got that from the console and
+historian username
+
+60
+00:03:41,878 --> 00:03:45,098
+but we need to do something with using
+so we're gonna do
+
+61
+00:03:45,098 --> 00:03:48,268
+is we're going to print that out
+
+62
+00:03:48,269 --> 00:03:52,289
+so to cancel dot right line
+
+63
+00:03:52,289 --> 00:03:56,209
+you make
+
+64
+00:03:56,209 --> 00:03:59,329
+or hola
+
+65
+00:03:59,329 --> 00:04:05,939
+your name is and they will just add
+their name
+
+66
+00:04:05,939 --> 00:04:12,180
+so user name as go ahead and take
+outlined here
+
+67
+00:04:12,180 --> 00:04:16,530
+and they will do
+
+68
+00:04:16,529 --> 00:04:23,529
+console dot right shit at a space your
+core spaces
+
+69
+00:04:24,288 --> 00:04:29,490
+you were age is it will just
+
+70
+00:04:29,490 --> 00:04:36,490
+add user age in console that right again
+
+71
+00:04:39,519 --> 00:04:46,519
+your salary is
+
+72
+00:04:48,949 --> 00:04:52,519
+okay so what this test is it's going to
+you
+
+73
+00:04:52,519 --> 00:04:57,219
+right out your name is but he says
+instead of using right mind we use right
+
+74
+00:04:57,220 --> 00:05:00,310
+so what this does is once it's done
+writing this text right here is not
+
+75
+00:05:00,310 --> 00:05:01,829
+gonna go down to the next line
+
+76
+00:05:01,829 --> 00:05:06,389
+and its gonna pre your age is on the
+same minus that is can also bring your
+
+77
+00:05:06,389 --> 00:05:07,240
+salary is
+
+78
+00:05:07,240 --> 00:05:11,069
+on the same ones that so then this go
+ahead
+
+79
+00:05:11,069 --> 00:05:15,920
+and just you consul dot right mind
+
+80
+00:05:15,920 --> 00:05:18,980
+to go ahead in the wind so that we can
+read
+
+81
+00:05:18,980 --> 00:05:22,420
+what's on the Consul his go-ahead run
+this
+
+82
+00:05:22,420 --> 00:05:26,090
+say what is your name I type in same
+
+83
+00:05:26,089 --> 00:05:30,369
+say what is your age I did fifteen was
+your salary
+
+84
+00:05:30,370 --> 00:05:33,649
+five hundred dollars and fifty cents an
+hour you know say
+
+85
+00:05:33,649 --> 00:05:38,370
+your name is Sam you were ages 15 the
+salary is 505
+
+86
+00:05:38,370 --> 00:05:41,420
+now whenever you type in a
+
+87
+00:05:41,420 --> 00:05:46,530
+a number value into the Consul so sad
+type in five hundred-point 50
+
+88
+00:05:46,529 --> 00:05:49,799
+0 is not needed so it is taken out when
+I print that
+
+89
+00:05:49,800 --> 00:05:53,050
+so say I typed 00 500
+
+90
+00:05:53,050 --> 00:05:56,810
+it's gonna take that I just gimme five
+hundred now I'll give you an example
+
+91
+00:05:56,810 --> 00:05:57,240
+this
+
+92
+00:05:57,240 --> 00:06:00,699
+socket type you say what is your name
+
+93
+00:06:00,699 --> 00:06:04,769
+types ambush a I type 000 15
+
+94
+00:06:04,769 --> 00:06:08,509
+what is your salary as 000
+
+95
+00:06:08,509 --> 00:06:12,659
+miss you eight dollars time eight
+dollars 34 cents an hour
+
+96
+00:06:12,660 --> 00:06:17,130
+say your name is Sam you were ages 15
+and your salary is 834
+
+97
+00:06:17,129 --> 00:06:21,319
+so what this does is it takes out all
+the unnecessary
+
+98
+00:06:21,319 --> 00:06:25,439
+zeros in there because 0000 or however
+many zeros are
+
+99
+00:06:25,439 --> 00:06:28,439
+15 is just equal to the value 15
+
+100
+00:06:28,439 --> 00:06:31,449
+so Visual Basic is going to take out the
+zeros for E
+
+101
+00:06:31,449 --> 00:06:35,500
+you could if you wanted to you could
+change that to a string
+
+102
+00:06:35,500 --> 00:06:38,889
+and it would print out all these numbers
+together and not take out those zeros
+
+103
+00:06:38,889 --> 00:06:42,029
+if you want to so I'm extorted
+
+104
+00:06:42,029 --> 00:06:43,869
+and stay tuned for the next tutorial
+

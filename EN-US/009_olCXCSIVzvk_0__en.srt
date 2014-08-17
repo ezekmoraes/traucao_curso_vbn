@@ -1,0 +1,429 @@
+﻿1
+00:00:02,330 --> 00:00:03,080
+hello youtube
+
+2
+00:00:03,080 --> 00:00:06,349
+same from you to die com slash OnLive
+game here
+
+3
+00:00:06,349 --> 00:00:09,638
+for the New Boston in this tutorial
+we'll be taking a look
+
+4
+00:00:09,638 --> 00:00:13,539
+at simple math operators so that's good
+decided
+
+5
+00:00:13,539 --> 00:00:18,299
+we're gonna come up here into our code
+I'm going to start off by declaring a
+
+6
+00:00:18,300 --> 00:00:18,960
+variable
+
+7
+00:00:18,960 --> 00:00:22,070
+now we're gonna make it integer so do II
+
+8
+00:00:22,070 --> 00:00:27,210
+as integer will go ahead and said that
+he qualified
+
+9
+00:00:27,210 --> 00:00:30,750
+or here was not that said that he could
+anything yet
+
+10
+00:00:30,750 --> 00:00:34,219
+so did not mind equals side
+
+11
+00:00:34,219 --> 00:00:38,420
+plus by snafu come down here
+
+12
+00:00:38,420 --> 00:00:42,789
+and print out number one on the console
+
+13
+00:00:42,789 --> 00:00:49,789
+it's going to give us the output 10
+where we can also do
+
+14
+00:00:49,820 --> 00:00:53,558
+is used the parameters a bright line
+
+15
+00:00:53,558 --> 00:00:57,649
+cue add numbers 2.1 so we're be by this
+
+16
+00:00:57,649 --> 00:01:00,820
+is that say we have no blood we want to
+print out dumb one
+
+17
+00:01:00,820 --> 00:01:04,868
+plus 5 so we read this
+
+18
+00:01:04,868 --> 00:01:09,719
+we should get 15 now if we come here
+
+19
+00:01:09,719 --> 00:01:14,519
+we can also subtract five so nobody
+conspired -5
+
+20
+00:01:14,519 --> 00:01:17,728
+that's going to give us the value of 0
+and now
+
+21
+00:01:17,728 --> 00:01:21,868
+we print that out it's going to take
+this out we put that up
+
+22
+00:01:21,868 --> 00:01:26,769
+here we get 0 we can also do
+
+23
+00:01:26,769 --> 00:01:30,209
+division so to divide is a basic
+
+24
+00:01:30,209 --> 00:01:34,679
+this is the same throughout mostly all
+languages you use the forward slash
+
+25
+00:01:34,680 --> 00:01:38,170
+so if we divide time by 5 we're going to
+get the value
+
+26
+00:01:38,170 --> 00:01:41,469
+wide and to multiply
+
+27
+00:01:41,469 --> 00:01:45,048
+use use the asterisk so fight outside
+
+28
+00:01:45,049 --> 00:01:48,649
+is equal to 25 right there
+
+29
+00:01:48,649 --> 00:01:52,310
+and now we can also do
+
+30
+00:01:52,310 --> 00:01:55,780
+the powers so 5 to power
+
+31
+00:01:55,780 --> 00:02:00,700
+to is going to equal 25
+
+32
+00:02:00,700 --> 00:02:03,930
+every five to the power 3
+
+33
+00:02:03,930 --> 00:02:09,950
+we're gonna get what is 125 so here we
+go 125 right there
+
+34
+00:02:09,949 --> 00:02:13,458
+now what we can also do
+
+35
+00:02:13,459 --> 00:02:16,878
+is what's called module is now this is a
+little
+
+36
+00:02:16,878 --> 00:02:20,530
+to keep for some people to understand
+about how to explain it the best I can
+
+37
+00:02:20,530 --> 00:02:24,750
+well by julos does is it will divide two
+integers for you
+
+38
+00:02:24,750 --> 00:02:28,239
+and they give you the remainder so if we
+do five
+
+39
+00:02:28,239 --> 00:02:32,409
+mod to so so what happens when you bite
+by bite you
+
+40
+00:02:32,409 --> 00:02:37,189
+you can get to with the remainder have
+one as his reason it is we can't get
+
+41
+00:02:37,189 --> 00:02:38,969
+decibel so we're going to get a
+remainder
+
+42
+00:02:38,969 --> 00:02:42,699
+so now if we run this you can see that
+it prints out
+
+43
+00:02:42,699 --> 00:02:47,209
+one we can also
+
+44
+00:02:47,209 --> 00:02:50,530
+at variables to each other so
+
+45
+00:02:50,530 --> 00:02:54,409
+if we declared them one as integer and
+we said equal to 4
+
+46
+00:02:54,409 --> 00:02:57,900
+we can declare second variable scholars
+on
+
+47
+00:02:57,900 --> 00:03:03,610
+to okay did Jer and we'll set it equal
+to
+
+48
+00:03:03,610 --> 00:03:07,180
+8 it now if we print out
+
+49
+00:03:07,180 --> 00:03:10,349
+number one place no
+
+50
+00:03:10,348 --> 00:03:13,530
+to is gonna give us the value have
+
+51
+00:03:13,530 --> 00:03:17,209
+12 this also works
+
+52
+00:03:17,209 --> 00:03:21,330
+for all the other operators that we've
+seen we can multiply them together
+
+53
+00:03:21,330 --> 00:03:28,330
+which will give us the value 32 and what
+we can do
+
+54
+00:03:30,370 --> 00:03:33,430
+is written create a third able here
+let's just do that
+
+55
+00:03:33,430 --> 00:03:36,510
+creative able to answer on
+
+56
+00:03:36,509 --> 00:03:39,818
+make it integer you know said equal to
+
+57
+00:03:39,818 --> 00:03:43,359
+or personal said equal to
+
+58
+00:03:43,360 --> 00:03:47,140
+nothing basically what nothing is is if
+you've learned
+
+59
+00:03:47,139 --> 00:03:50,689
+any other languages its equivalent to
+dole so
+
+60
+00:03:50,689 --> 00:03:54,658
+answer instead a not assigning answer
+value
+
+61
+00:03:54,658 --> 00:03:57,669
+was himself equal than nothing you can
+see that
+
+62
+00:03:57,669 --> 00:04:00,969
+it won't give us a a warning here so
+
+63
+00:04:00,969 --> 00:04:04,158
+if we take this out we get a warning
+
+64
+00:04:04,158 --> 00:04:07,650
+but since we assign it to nothing
+
+65
+00:04:07,650 --> 00:04:11,930
+which is equivalent to no we don't get
+one here and that will
+
+66
+00:04:11,930 --> 00:04:17,699
+prevent airs from possibly happen in the
+future so that down here
+
+67
+00:04:17,699 --> 00:04:21,370
+was typed answer equals
+
+68
+00:04:21,370 --> 00:04:24,490
+no mind divided by them
+
+69
+00:04:24,490 --> 00:04:29,280
+to now in our case in this program we
+didn't have to
+
+70
+00:04:29,279 --> 00:04:32,719
+set is equal to nothing that's when
+mister that in there so you guys and
+
+71
+00:04:32,720 --> 00:04:33,460
+know what it is
+
+72
+00:04:33,459 --> 00:04:37,209
+be able to use a weight on your programs
+so answer equals
+
+73
+00:04:37,209 --> 00:04:40,430
+number one divided by dumped you so
+
+74
+00:04:40,430 --> 00:04:43,579
+if we right out answer
+
+75
+00:04:43,579 --> 00:04:48,228
+we are going to get 0
+
+76
+00:04:48,228 --> 00:04:51,859
+so if you for divided by
+
+77
+00:04:51,860 --> 00:04:55,290
+8 you get a decimal number
+
+78
+00:04:55,290 --> 00:05:00,379
+and since integers can't can't
+
+79
+00:05:00,379 --> 00:05:03,418
+im they can implicitly convert
+themselves to
+
+80
+00:05:03,418 --> 00:05:06,459
+decibels is just gonna give you zero so
+
+81
+00:05:06,459 --> 00:05:11,719
+let's go ahead and change this to you
+multiply
+
+82
+00:05:11,720 --> 00:05:14,870
+and we're going to get 32
+
+83
+00:05:14,870 --> 00:05:18,228
+now since before we got zero by dividing
+them
+
+84
+00:05:18,228 --> 00:05:21,579
+by two other I'm William a show you how
+to fix this
+
+85
+00:05:21,579 --> 00:05:24,668
+what we're gonna do instead of making
+the integers
+
+86
+00:05:24,668 --> 00:05:29,008
+we're gonna make them doubles here
+
+87
+00:05:29,009 --> 00:05:33,210
+we don't have to make those doubles we
+can make the answer
+
+88
+00:05:33,209 --> 00:05:36,430
+a double so
+
+89
+00:05:36,430 --> 00:05:41,449
+now since I answer can have decimal
+numbers if we divide number my name to
+
+90
+00:05:41,449 --> 00:05:45,889
+we will get 0.5
+
+91
+00:05:45,889 --> 00:05:50,129
+so take a look at some these math
+operators and play around them with
+
+92
+00:05:50,129 --> 00:05:54,079
+doubles integers you can use a by you
+can use along can is
+
+93
+00:05:54,079 --> 00:05:57,609
+anything just play around with his math
+operators get used to them
+
+94
+00:05:57,610 --> 00:06:00,979
+in what you got that down go ahead and
+move on to the next tutorial
+
+95
+00:06:00,978 --> 00:06:03,120
+and thanks for watching don't forget to
+comment like and subscribe
+

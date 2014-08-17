@@ -1,0 +1,356 @@
+﻿1
+00:00:00,710 --> 00:00:04,040
+hello you do and welcome to your first
+microsoft visual basic tutorial
+
+2
+00:00:04,040 --> 00:00:08,300
+editorial I'm gonna be introducing
+myself letting us know what a
+
+3
+00:00:08,300 --> 00:00:11,280
+programming language is probably
+beginners out there who are just looking
+
+4
+00:00:11,279 --> 00:00:12,279
+to learn a language
+
+5
+00:00:12,279 --> 00:00:15,678
+let you know that about about the dotnet
+framework and
+
+6
+00:00:15,679 --> 00:00:19,679
+about what we're gonna be doing in these
+tutorials now that's good you started
+
+7
+00:00:19,679 --> 00:00:23,608
+my name is Sam and I run the YouTube
+channel YouTube dot com slash
+
+8
+00:00:23,609 --> 00:00:26,930
+on my came in I'm currently have about
+80 videos
+
+9
+00:00:26,929 --> 00:00:30,469
+and they're over Visual Basic Java
+
+10
+00:00:30,469 --> 00:00:34,429
+visual c plus plus and C sharp so you
+can go ahead and go check that out if
+
+11
+00:00:34,429 --> 00:00:34,939
+you want
+
+12
+00:00:34,939 --> 00:00:38,210
+how they make a lot more césar videos
+
+13
+00:00:38,210 --> 00:00:41,590
+in the future so you want to go and
+subscribe
+
+14
+00:00:41,590 --> 00:00:45,469
+and another man advertised his over what
+is
+
+15
+00:00:45,469 --> 00:00:48,539
+a programming language what a
+programming language does
+
+16
+00:00:48,539 --> 00:00:51,640
+is aid uses code that the
+
+17
+00:00:51,640 --> 00:00:55,410
+developer rights and it makes the
+decision what I mean by this
+
+18
+00:00:55,409 --> 00:00:58,509
+is that it can solve a problem make a
+decision
+
+19
+00:00:58,509 --> 00:01:02,039
+for the user and to do this it uses
+
+20
+00:01:02,039 --> 00:01:06,349
+data and algorithms all programming
+language use data and algorithms
+
+21
+00:01:06,349 --> 00:01:09,408
+it takes that data push it through an
+algorithm
+
+22
+00:01:09,409 --> 00:01:14,010
+and did you get it output so now that
+you know a little bit about
+
+23
+00:01:14,010 --> 00:01:18,460
+what any programming languages but I
+signed you what the dotnet framework is
+
+24
+00:01:18,459 --> 00:01:22,809
+now the dotnet framework was a made by
+Microsoft
+
+25
+00:01:22,810 --> 00:01:26,189
+and a what they wanted to do
+
+26
+00:01:26,188 --> 00:01:29,649
+what they wanted to create a programming
+language or not language don't agree
+
+27
+00:01:29,650 --> 00:01:33,210
+a framework that was independent the
+Windows
+
+28
+00:01:33,209 --> 00:01:36,618
+and what I mean by this is that when you
+create a program that runs on the dotnet
+
+29
+00:01:36,618 --> 00:01:37,319
+framework
+
+30
+00:01:37,319 --> 00:01:40,639
+it is not dependent on the system it
+runs
+
+31
+00:01:40,640 --> 00:01:44,868
+on the framework itself which is kind of
+like a virtual machine if you've ever
+
+32
+00:01:44,868 --> 00:01:45,319
+used
+
+33
+00:01:45,319 --> 00:01:49,438
+used a virtual machine or a free Java
+programmers
+
+34
+00:01:49,438 --> 00:01:53,529
+it's like the Java Virtual Machine he
+keeps independent have the computer that
+
+35
+00:01:53,530 --> 00:01:54,280
+is running on
+
+36
+00:01:54,280 --> 00:01:58,649
+but in my opinion is a lot more
+effective in the Java Virtual Machine
+
+37
+00:01:58,649 --> 00:02:03,280
+in as a lot better job now I'm may vary
+to this but
+
+38
+00:02:03,280 --> 00:02:07,640
+Visual Basic is a very high level
+language what I mean by this is that
+
+39
+00:02:07,640 --> 00:02:12,150
+is easy to understand is very much like
+English
+
+40
+00:02:12,150 --> 00:02:15,700
+and is when the highest program highest
+level languages that
+
+41
+00:02:15,699 --> 00:02:19,318
+I know and an example the low-level
+language would be
+
+42
+00:02:19,318 --> 00:02:23,219
+c plus plus or something similar that
+now I am
+
+43
+00:02:23,219 --> 00:02:26,530
+what we gonna be doing this tutorial
+well
+
+44
+00:02:26,530 --> 00:02:30,300
+will not listen to all the tutorials
+will start off by covering
+
+45
+00:02:30,300 --> 00:02:33,439
+data types variables were gonna do some
+math
+
+46
+00:02:33,439 --> 00:02:38,259
+we're gonna work on I'm simple steps to
+begin with Justin the Consul
+
+47
+00:02:38,259 --> 00:02:41,579
+in there were gonna move on to Windows
+Forms now this is one of the things I
+
+48
+00:02:41,580 --> 00:02:42,910
+love about Visual Basic
+
+49
+00:02:42,909 --> 00:02:45,939
+is that its easy to make windows in and
+Mike
+
+50
+00:02:45,939 --> 00:02:50,009
+and c plus plus or Python or
+
+51
+00:02:50,009 --> 00:02:54,399
+other problem there's a job there you
+don't have to use the code to make your
+
+52
+00:02:54,400 --> 00:02:57,590
+Windows in
+
+53
+00:02:57,590 --> 00:03:02,110
+the Visual Basic I D E you can just drag
+and drop objects on the winners
+
+54
+00:03:02,110 --> 00:03:05,909
+and the I D E will automatically
+generate code for you
+
+55
+00:03:05,908 --> 00:03:09,079
+that creates that window so that when
+you run the program
+
+56
+00:03:09,080 --> 00:03:13,680
+it looks exactly like you want and now
+if you do it by yourself such as the
+
+57
+00:03:13,680 --> 00:03:14,790
+language like Java
+
+58
+00:03:14,789 --> 00:03:19,120
+sometimes it's hard to see to visualize
+what you wind is going to look like
+
+59
+00:03:19,120 --> 00:03:23,599
+by just by typing the conies important
+so this is one the reasons I like Visual
+
+60
+00:03:23,598 --> 00:03:24,158
+Basic
+
+61
+00:03:24,158 --> 00:03:28,139
+and all the visual are going which is in
+Visual Studio
+
+62
+00:03:28,139 --> 00:03:31,219
+so I'm you guys have any questions
+
+63
+00:03:31,219 --> 00:03:34,870
+in guiding them in the comments I I'll
+be monitoring
+
+64
+00:03:34,870 --> 00:03:39,250
+these videos on the New Boston and I'm
+I'll try to answer as many questions as
+
+65
+00:03:39,250 --> 00:03:40,848
+I can I know they're going to be a lot
+
+66
+00:03:40,848 --> 00:03:44,810
+as he has a lot to subscribers and have
+your stay tuned
+
+67
+00:03:44,810 --> 00:03:49,989
+for the next tutorial also
+
+68
+00:03:49,989 --> 00:03:53,459
+one more thing is that you guys will
+learn more about
+
+69
+00:03:53,459 --> 00:03:57,830
+the languages in that run on the dotnet
+framework or just other stuff
+
+70
+00:03:57,830 --> 00:04:01,830
+about development with this you can go
+ahead and head over to the
+
+71
+00:04:01,830 --> 00:04:06,110
+Microsoft developers website at
+investing in da Microsoft com
+
+72
+00:04:06,110 --> 00:04:09,909
+to read up about their languages they
+have and I'm
+
+73
+00:04:09,908 --> 00:04:13,429
+the new stuff and the new releases that
+they come out with so I'll
+
+74
+00:04:13,430 --> 00:04:17,590
+that's about it thanks for watching and
+don't forget to comment like and
+
+75
+00:04:17,589 --> 00:04:17,839
+subscribe
+

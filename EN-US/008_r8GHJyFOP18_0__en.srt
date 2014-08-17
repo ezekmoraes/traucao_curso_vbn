@@ -1,0 +1,481 @@
+﻿1
+00:00:01,659 --> 00:00:04,160
+hello youtube Sam from you to dot com
+slash
+
+2
+00:00:04,160 --> 00:00:07,589
+on I came here for the New Boston in
+this tutorial
+
+3
+00:00:07,589 --> 00:00:12,150
+will be talked about variables now
+variables are the most important parts a
+
+4
+00:00:12,150 --> 00:00:12,839
+programming
+
+5
+00:00:12,839 --> 00:00:15,919
+there's no possible way to make a
+program without variables
+
+6
+00:00:15,919 --> 00:00:19,649
+so understood started and will create a
+variable here
+
+7
+00:00:19,649 --> 00:00:24,198
+now to create a variable in Visual Basic
+you can start off with the keyword
+
+8
+00:00:24,199 --> 00:00:28,070
+diem now what this tells the compiler is
+that you're going to declare
+
+9
+00:00:28,070 --> 00:00:31,300
+a variable so you read this
+
+10
+00:00:31,300 --> 00:00:36,259
+right here from intelligent says that
+the dim statement declares and allocates
+
+11
+00:00:36,259 --> 00:00:42,849
+here declares allocates new storage
+space for one or more variables
+
+12
+00:00:42,850 --> 00:00:46,350
+so or gonna do israeli type did
+
+13
+00:00:46,350 --> 00:00:50,320
+it after this you can type whatever name
+you want as long as it contains bad
+
+14
+00:00:50,320 --> 00:00:51,100
+characters
+
+15
+00:00:51,100 --> 00:00:54,179
+now as those that you could buy it was
+about characters
+
+16
+00:00:54,179 --> 00:00:58,289
+online or invalid characters some was
+just %ah
+
+17
+00:00:58,289 --> 00:01:02,600
+by calling it by them he condemned this
+whatever you feel like
+
+18
+00:01:02,600 --> 00:01:06,189
+and now after we tell the compiler
+
+19
+00:01:06,188 --> 00:01:09,929
+I'll what the neighbors are variables
+gonna be we're gonna type
+
+20
+00:01:09,930 --> 00:01:13,880
+has services says specifies the data
+type in the Dec
+
+21
+00:01:13,879 --> 00:01:17,129
+declaration statements that was gonna
+tell the compiler what kinda data type
+
+22
+00:01:17,129 --> 00:01:17,839
+is gonna be
+
+23
+00:01:17,840 --> 00:01:24,840
+as a way to make ours and integer and so
+you can see that little green line comes
+
+24
+00:01:25,290 --> 00:01:25,859
+into that
+
+25
+00:01:25,859 --> 00:01:29,269
+and is a warning here says a news local
+variable not
+
+26
+00:01:29,269 --> 00:01:32,319
+by now so would have a kid programs
+
+27
+00:01:32,319 --> 00:01:36,978
+if you never use a variable the careless
+is going to tell you the warning so that
+
+28
+00:01:36,978 --> 00:01:37,798
+you can take that out
+
+29
+00:01:37,799 --> 00:01:41,570
+the program more efficient or using my
+dance or just ignore that
+
+30
+00:01:41,569 --> 00:01:45,648
+warning for right now so now we're going
+to do is win a signed by
+
+31
+00:01:45,649 --> 00:01:49,540
+sort i mind equals by
+
+32
+00:01:49,540 --> 00:01:52,549
+now if we do cancel
+
+33
+00:01:52,549 --> 00:01:55,810
+dot right line
+
+34
+00:01:55,810 --> 00:02:01,649
+my nom and they'll do console dot
+
+35
+00:02:01,649 --> 00:02:05,909
+read line we go ahead run this
+
+36
+00:02:05,909 --> 00:02:08,950
+its gonna say 5 right there
+
+37
+00:02:08,949 --> 00:02:12,619
+now what we can do is wicked
+
+38
+00:02:12,620 --> 00:02:16,569
+instead of putting this into lines we
+can go ahead and set the value
+
+39
+00:02:16,568 --> 00:02:19,689
+are variable in the declaration I'm
+
+40
+00:02:19,689 --> 00:02:23,669
+so it is a sequel to 5 there now the
+reason I showed you
+
+41
+00:02:23,669 --> 00:02:28,098
+the 2i bet they'd before that is because
+sometimes you to be declaring a variable
+
+42
+00:02:28,098 --> 00:02:32,219
+wanna be ourselves and later on he said
+she gonna be a sign that another value
+
+43
+00:02:32,219 --> 00:02:33,098
+now that would be
+
+44
+00:02:33,098 --> 00:02:36,409
+a way you wouldn't do that so for
+example
+
+45
+00:02:36,409 --> 00:02:39,750
+if I read this good read this you know
+say
+
+46
+00:02:39,750 --> 00:02:43,500
+5 now come down here
+
+47
+00:02:43,500 --> 00:02:46,900
+set minor equal to something else such
+as seven
+
+48
+00:02:46,900 --> 00:02:50,430
+to go and read this is going to print
+out seven
+
+49
+00:02:50,430 --> 00:02:53,840
+because even though we decide lies my
+debit 5
+
+50
+00:02:53,840 --> 00:02:57,709
+after we do that its gonna re
+
+51
+00:02:57,709 --> 00:03:01,920
+its gonna change the value my dad 27 and
+its gonna write the
+
+52
+00:03:01,919 --> 00:03:06,189
+most recent value by them now doesn't
+save the old values it just updated
+
+53
+00:03:06,189 --> 00:03:09,289
+so it's gonna start at five which ended
+
+54
+00:03:09,289 --> 00:03:13,289
+7 and it prints out the seven which is
+the what it's completely equal to
+
+55
+00:03:13,289 --> 00:03:16,669
+so let's go ahead and
+
+56
+00:03:16,669 --> 00:03:20,908
+work with a another time QB Taylor
+
+57
+00:03:20,908 --> 00:03:25,669
+I want to not caps lock tap okay
+
+58
+00:03:25,669 --> 00:03:30,289
+says go ahead and get rid of my
+government here and will the Clearstream
+
+59
+00:03:30,289 --> 00:03:33,378
+sodium my string as
+
+60
+00:03:33,378 --> 00:03:38,750
+string and we're going to set it equal
+to hello
+
+61
+00:03:38,750 --> 00:03:41,900
+do Boston
+
+62
+00:03:41,900 --> 00:03:45,700
+sands so now if we come back here
+
+63
+00:03:45,699 --> 00:03:49,399
+and we've cancelled outright mine we're
+just gonna put my string
+
+64
+00:03:49,400 --> 00:03:54,709
+as the arguments and you can see that it
+prints out
+
+65
+00:03:54,709 --> 00:04:00,310
+hello the New Boston fans now if you
+wanna do a character
+
+66
+00:04:00,310 --> 00:04:04,759
+we can just do Tim my
+
+67
+00:04:04,759 --> 00:04:08,568
+character as Carey Rs
+
+68
+00:04:08,568 --> 00:04:13,579
+char elsa equal to a for him a
+
+69
+00:04:13,580 --> 00:04:18,359
+every type out my
+
+70
+00:04:18,358 --> 00:04:21,728
+character you can see that in Oprah now
+
+71
+00:04:21,728 --> 00:04:25,189
+a for us now let's go ahead and do
+
+72
+00:04:25,189 --> 00:04:29,319
+a double really quick simply to double
+
+73
+00:04:29,319 --> 00:04:34,269
+the Eagle said Eagle 25.4 go-ahead run
+this
+
+74
+00:04:34,269 --> 00:04:39,728
+your say 5.4 for us now this work with
+able in real quick
+
+75
+00:04:39,728 --> 00:04:43,019
+would create a bullied variable said
+
+76
+00:04:43,019 --> 00:04:48,629
+equal to you either true or false so so
+you go to
+
+77
+00:04:48,629 --> 00:04:52,000
+and will pronounce my character
+
+78
+00:04:52,000 --> 00:04:55,500
+or hear those changes to my
+
+79
+00:04:55,500 --> 00:05:01,980
+pool
+
+80
+00:05:01,980 --> 00:05:06,220
+now you can see here that it prints out
+true now can also set this to
+
+81
+00:05:06,220 --> 00:05:09,730
+false if we
+
+82
+00:05:09,730 --> 00:05:15,100
+run this is going to bring up false now
+here's something that I was going to
+
+83
+00:05:15,100 --> 00:05:16,740
+teach you guys in a related to real
+
+84
+00:05:16,740 --> 00:05:20,490
+but I figured that you guys a smart so
+
+85
+00:05:20,490 --> 00:05:24,660
+I'll go and teach it to you in this
+tutorial now whenever you
+
+86
+00:05:24,660 --> 00:05:29,370
+create in a variable and let's just do
+
+87
+00:05:29,370 --> 00:05:32,649
+escape integer now said he qualified
+
+88
+00:05:32,649 --> 00:05:36,669
+what we want to do is in our Casa not
+right line
+
+89
+00:05:36,670 --> 00:05:40,460
+what we want to take mine and we want to
+convert it
+
+90
+00:05:40,459 --> 00:05:45,419
+to a string now you may not notice any
+difference
+
+91
+00:05:45,420 --> 00:05:48,710
+any differences in this but I'll I was
+taught
+
+92
+00:05:48,709 --> 00:05:52,289
+that whenever you its good coding
+practice to convert
+
+93
+00:05:52,290 --> 00:05:55,490
+numbers two strings when you gonna be
+printing about anywhere on the screen
+
+94
+00:05:55,490 --> 00:05:56,730
+such as the label
+
+95
+00:05:56,730 --> 00:06:00,170
+or text box or console which is what
+we're we are working in
+
+96
+00:06:00,170 --> 00:06:04,759
+so to convert a string you just do the
+variable that you want
+
+97
+00:06:04,759 --> 00:06:08,240
+dot to string with empty parameters
+
+98
+00:06:08,240 --> 00:06:12,269
+in this is going to convert your integer
+to string now clear on this
+
+99
+00:06:12,269 --> 00:06:15,699
+you can see it puts out by but instead
+of putting out a number this is actually
+
+100
+00:06:15,699 --> 00:06:16,339
+a string
+
+101
+00:06:16,339 --> 00:06:19,459
+so
+
+102
+00:06:19,459 --> 00:06:22,719
+that's about all I will recover in the
+variables tutorial
+
+103
+00:06:22,720 --> 00:06:26,430
+so I'm passes and variables I'm
+
+104
+00:06:26,430 --> 00:06:29,959
+make some your own printing out and get
+used to what they are
+
+105
+00:06:29,959 --> 00:06:33,409
+and then once you've got that now down
+move on to the next tutorial and don't
+
+106
+00:06:33,410 --> 00:06:34,510
+forget to comment like and subscribe
+

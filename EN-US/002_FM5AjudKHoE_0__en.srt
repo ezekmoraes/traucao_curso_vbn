@@ -1,0 +1,210 @@
+﻿1
+00:00:00,880 --> 00:00:04,000
+hello youtube and welcome to your second
+visual basic tutorial
+
+2
+00:00:04,000 --> 00:00:07,330
+in this tutorial I'm recovering how to
+install the
+
+3
+00:00:07,330 --> 00:00:11,949
+Visual Basic 2010 Express I D E does
+have nobody to go
+
+4
+00:00:11,949 --> 00:00:16,019
+and we'll just searched visual Basic
+2010
+
+5
+00:00:16,019 --> 00:00:20,539
+exit the first thing that comes up is
+max after Comp Sci us
+
+6
+00:00:20,539 --> 00:00:23,789
+expressed slash downloads when you go
+ahead click that
+
+7
+00:00:23,789 --> 00:00:28,109
+here's the Dallas Page when it come over
+here to
+
+8
+00:00:28,109 --> 00:00:31,349
+Visual Basic 2010 Express click on that
+
+9
+00:00:31,349 --> 00:00:35,320
+and select the language that you can be
+using I'm you using English
+
+10
+00:00:35,320 --> 00:00:42,320
+so good 6a and now open it up
+
+11
+00:00:42,460 --> 00:00:45,469
+you know ask you to allowed to make
+
+12
+00:00:45,469 --> 00:00:49,270
+changes squeaky s you extract the files
+
+13
+00:00:49,270 --> 00:00:55,030
+you know
+
+14
+00:00:55,030 --> 00:00:59,009
+take a little bit to set up the
+insulation components and when you start
+
+15
+00:00:59,009 --> 00:01:01,820
+this you may need to install a dotnet
+framework 4.0
+
+16
+00:01:01,820 --> 00:01:05,319
+and I if that's the case I'll take a
+little bit longer then I'll take me
+
+17
+00:01:05,319 --> 00:01:12,319
+so this is with us to finish to take a
+second here
+
+18
+00:01:33,329 --> 00:01:37,049
+okay here's our setup window get this
+out of the way
+
+19
+00:01:37,049 --> 00:01:41,409
+care when you can choose whatever you
+want to do with this yes any information
+
+20
+00:01:41,409 --> 00:01:42,289
+about my sex
+
+21
+00:01:42,290 --> 00:01:45,760
+setup experience Microsoft obviously
+that sectors yes
+
+22
+00:01:45,760 --> 00:01:49,329
+then click Next yet nobody ever reaches
+the way
+
+23
+00:01:49,329 --> 00:01:53,179
+click Next and it says that's
+
+24
+00:01:53,180 --> 00:01:58,000
+are ready to start is Visual Basic now
+you made since I'll be done it for me
+
+25
+00:01:58,000 --> 00:01:58,780
+because I said
+
+26
+00:01:58,780 --> 00:02:02,090
+and to downsize fifty four megabytes
+
+27
+00:02:02,090 --> 00:02:08,379
+says go and it's all this now
+
+28
+00:02:08,379 --> 00:02:13,379
+I'm gonna go ahead and pas the video
+here and I'll come back once it's done
+
+29
+00:02:13,379 --> 00:02:18,560
+and you can see the download is almost
+finished
+
+30
+00:02:18,560 --> 00:02:25,560
+now it will start installing
+
+31
+00:02:26,979 --> 00:02:33,979
+the Visual Basic I D E souls go ahead
+let that run
+
+32
+00:02:38,610 --> 00:02:40,040
+and deposit here
+
+33
+00:02:40,039 --> 00:02:43,699
+and come back which is finished with
+that as finished
+
+34
+00:02:43,699 --> 00:02:48,679
+you should see a Windows like this
+that's go ahead and click Exit
+
+35
+00:02:48,680 --> 00:02:52,030
+and now
+
+36
+00:02:52,030 --> 00:02:56,810
+we wait for this can adhere to your
+start menu
+
+37
+00:02:56,810 --> 00:03:03,810
+and they can see it burden catch
+
+38
+00:03:15,039 --> 00:03:19,590
+you can open up Visual Basic 2010
+Express and mine says this part is I
+
+39
+00:03:19,590 --> 00:03:21,150
+since years will not say that
+
+40
+00:03:21,150 --> 00:03:25,349
+if you just your justice on this for the
+first time but you need to do
+
+41
+00:03:25,348 --> 00:03:28,389
+is an ego up to help and research
+products
+
+42
+00:03:28,389 --> 00:03:32,809
+this is a preprocess I'm used to give
+them your email in like your name
+
+43
+00:03:32,810 --> 00:03:36,800
+and what you're interested in developing
+and I'll give you just a free license
+
+44
+00:03:36,800 --> 00:03:39,060
+key and you can use that to register
+your product
+
+45
+00:03:39,060 --> 00:03:42,110
+so I thanks for watchin and don't forget
+to comment like and subscribe
+

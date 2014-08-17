@@ -1,0 +1,474 @@
+﻿1
+00:00:02,529 --> 00:00:04,879
+hello youtube same from you to dot com
+slash
+
+2
+00:00:04,879 --> 00:00:08,960
+on that game here for the New Boston in
+this tutorial we'll be talking about
+
+3
+00:00:08,960 --> 00:00:12,860
+airs a good to hear that the project we
+had opened the last 20
+
+4
+00:00:12,859 --> 00:00:16,250
+so in Visual Basic and
+
+5
+00:00:16,250 --> 00:00:20,368
+a lot mostly are other programming
+languages you got three types appears
+
+6
+00:00:20,368 --> 00:00:24,289
+yes syntax errors you got your runtime
+errors
+
+7
+00:00:24,289 --> 00:00:28,529
+and get your logic errors now I'll take
+you through
+
+8
+00:00:28,528 --> 00:00:32,520
+these three types airs and then I'll
+show you how to use the airless down
+
+9
+00:00:32,520 --> 00:00:32,950
+here
+
+10
+00:00:32,950 --> 00:00:36,899
+with airs warnings and messages so
+
+11
+00:00:36,899 --> 00:00:40,859
+appears we have a program and sit at a
+%uh the code correctly
+
+12
+00:00:40,859 --> 00:00:44,320
+if we run it is going to open up and
+runs perfectly fine
+
+13
+00:00:44,320 --> 00:00:48,460
+is gonna put out hello world this is an
+example
+
+14
+00:00:48,460 --> 00:00:53,230
+a program that has no airs and now want
+to do is a mini create there
+
+15
+00:00:53,229 --> 00:00:56,419
+this as can be said tax air so you can
+see
+
+16
+00:00:56,420 --> 00:00:59,620
+that when I type when I remove this
+
+17
+00:00:59,619 --> 00:01:02,820
+print disease here existing air down
+here in the
+
+18
+00:01:02,820 --> 00:01:06,079
+airless it tells us X expression
+expected
+
+19
+00:01:06,079 --> 00:01:10,569
+it has the power it said so over you
+know Solution Explorer
+
+20
+00:01:10,569 --> 00:01:13,959
+we've got our comments project got my
+projects within
+
+21
+00:01:13,959 --> 00:01:18,688
+wittoled other settings and set for it
+we got are filed module 1.0 BB
+
+22
+00:01:18,688 --> 00:01:22,519
+now projects you have a whole bunch
+about you know a buncha bottles about
+
+23
+00:01:22,519 --> 00:01:23,438
+two classes
+
+24
+00:01:23,438 --> 00:01:27,139
+or forbes and other stuff so
+
+25
+00:01:27,140 --> 00:01:30,409
+this is very useful when you make bigger
+programs does ill let you know
+
+26
+00:01:30,409 --> 00:01:34,400
+which file in it'd it also lets you know
+which slide it is
+
+27
+00:01:34,400 --> 00:01:38,240
+and that is why we che we show the lines
+by coming up here
+
+28
+00:01:38,239 --> 00:01:42,759
+to go to tools options text editor
+
+29
+00:01:42,759 --> 00:01:46,290
+general all languages and
+
+30
+00:01:46,290 --> 00:01:49,960
+click checked line numbers now we did
+that so that
+
+31
+00:01:49,959 --> 00:01:53,029
+whenever we get airs we can see the
+wider but that's it here
+
+32
+00:01:53,030 --> 00:01:56,200
+come over to our file and we could
+
+33
+00:01:56,200 --> 00:02:01,129
+come down here to identify where it is
+college 26 now called 26 just means that
+
+34
+00:02:01,129 --> 00:02:01,718
+it is
+
+35
+00:02:01,718 --> 00:02:05,209
+16 spaces over for the left
+
+36
+00:02:05,209 --> 00:02:09,299
+right here they see that whenever you
+have a syntax air
+
+37
+00:02:09,300 --> 00:02:13,230
+it's got a little squiggly line under it
+just let you know it is
+
+38
+00:02:13,229 --> 00:02:16,639
+now if we go ahead and try to read this
+it won't run in to say that
+
+39
+00:02:16,639 --> 00:02:20,429
+there were built airs ever go ahead
+
+40
+00:02:20,430 --> 00:02:25,230
+Texas it should run perfectly fine it
+says another world right there
+
+41
+00:02:25,229 --> 00:02:30,909
+and now let's go ahead and talk a little
+bit about runtime: airs
+
+42
+00:02:30,909 --> 00:02:34,780
+I can say example the runtime area
+simple program like this
+
+43
+00:02:34,780 --> 00:02:38,729
+but I'll try to explain to you as best I
+can now see you making
+
+44
+00:02:38,729 --> 00:02:43,628
+a I an FTP dollar which is what we're
+going to make
+
+45
+00:02:43,628 --> 00:02:47,818
+later I'd the close the in the tutorials
+what we covered everything I'm teach you
+
+46
+00:02:47,818 --> 00:02:49,378
+how to build specific programs
+
+47
+00:02:49,378 --> 00:02:52,590
+and I'm a ticket to the steps I used to
+builders
+
+48
+00:02:52,590 --> 00:02:56,840
+so that they were creating an FTP
+download we would open a file
+
+49
+00:02:56,840 --> 00:03:00,789
+to uploaded to the FTP server
+
+50
+00:03:00,789 --> 00:03:03,859
+so we try to open a file and it works
+fine
+
+51
+00:03:03,860 --> 00:03:07,459
+and the ones which are uploaded to the
+server its gonna give us a air because
+
+52
+00:03:07,459 --> 00:03:12,908
+say the user doesn't have access to that
+now because the user doesn't have
+
+53
+00:03:12,908 --> 00:03:15,929
+write permissions when they try to
+upload it is gonna give the
+
+54
+00:03:15,930 --> 00:03:19,469
+air the program's going to freeze up as
+can stop working and
+
+55
+00:03:19,469 --> 00:03:23,568
+you had force close it so basically what
+you need to do
+
+56
+00:03:23,568 --> 00:03:28,318
+to handle this is to you go ahead
+
+57
+00:03:28,318 --> 00:03:32,098
+and in close all that cause it was
+college try catch statement
+
+58
+00:03:32,098 --> 00:03:36,848
+now what this does is it ties about good
+catches in the areas that are thrown
+
+59
+00:03:36,848 --> 00:03:40,298
+ended want to catch those decides what
+to do with them
+
+60
+00:03:40,299 --> 00:03:43,900
+now all the programs that we're going to
+be riding or those muscle
+
+61
+00:03:43,900 --> 00:03:47,900
+over to the cause in we not gonna need
+it I catch statements so will be learned
+
+62
+00:03:47,900 --> 00:03:48,650
+that later on
+
+63
+00:03:48,650 --> 00:03:52,000
+so that's pretty much what
+
+64
+00:03:52,000 --> 00:03:55,889
+a runtime: areas now I'll tell you what
+a
+
+65
+00:03:55,889 --> 00:03:59,658
+logic area is a logic air is something
+
+66
+00:03:59,658 --> 00:04:03,169
+debt most the every programmer hates
+
+67
+00:04:03,169 --> 00:04:07,048
+what it means is that you program to
+pass by erodes find
+
+68
+00:04:07,049 --> 00:04:11,580
+but then the results for the outcome
+that you get from using a program is not
+
+69
+00:04:11,580 --> 00:04:12,739
+what you expected
+
+70
+00:04:12,739 --> 00:04:15,849
+so others too
+
+71
+00:04:15,848 --> 00:04:19,298
+an example a logic here this will be
+really simple logic here
+
+72
+00:04:19,298 --> 00:04:22,560
+so say I forget to the Dukan so that
+really bad
+
+73
+00:04:22,560 --> 00:04:26,199
+and when I read this it just flashes
+encloses really quick
+
+74
+00:04:26,199 --> 00:04:30,000
+so that's just a a basic
+
+75
+00:04:30,000 --> 00:04:33,168
+logic here but an example
+
+76
+00:04:33,168 --> 00:04:37,099
+have a major allies would be let's say
+
+77
+00:04:37,100 --> 00:04:41,030
+somebody makes a calculator and they
+build on these classes for it
+
+78
+00:04:41,029 --> 00:04:44,969
+and it went to go the calculated values
+it the calculations are wrong
+
+79
+00:04:44,970 --> 00:04:48,449
+and that makes it really hard because it
+doesn't tell you where the heirs are
+
+80
+00:04:48,449 --> 00:04:52,610
+because they're taking the day is it air
+this is an area in what you did
+
+81
+00:04:52,610 --> 00:04:55,710
+and the outcome is not what you expected
+
+82
+00:04:55,709 --> 00:04:59,258
+so the doubt that covered the
+
+83
+00:04:59,259 --> 00:05:02,590
+three types of hairs we could not hear
+and taken
+
+84
+00:05:02,589 --> 00:05:06,529
+closer look at a realist now you see
+that we have 0 errors
+
+85
+00:05:06,529 --> 00:05:09,589
+in 0 warnings now in a warning is
+
+86
+00:05:09,589 --> 00:05:13,529
+is pretty much the compiler trying to
+protect you from
+
+87
+00:05:13,529 --> 00:05:17,219
+areas possibly happening when you run
+your code so it's a
+
+88
+00:05:17,220 --> 00:05:20,360
+me understand this let's say you create
+it very well
+
+89
+00:05:20,360 --> 00:05:23,840
+and the variable is dole and
+
+90
+00:05:23,839 --> 00:05:27,689
+you try to do something but the the
+variable is never signed
+
+91
+00:05:27,689 --> 00:05:31,209
+the jar call that variable you gonna get
+no and you gonna get
+
+92
+00:05:31,209 --> 00:05:34,839
+and airs that so always
+
+93
+00:05:34,839 --> 00:05:38,529
+always look at your warnings don't
+ignore them and I'm
+
+94
+00:05:38,529 --> 00:05:41,809
+other messages it's just gives the
+possible things
+
+95
+00:05:41,810 --> 00:05:46,639
+that you may well okay so that you
+taking a look at some of the heirs
+
+96
+00:05:46,639 --> 00:05:50,139
+an airtight you can get anybody today
+released and how to
+
+97
+00:05:50,139 --> 00:05:54,250
+find those errors and fix them and go
+ahead and
+
+98
+00:05:54,250 --> 00:05:57,769
+just play around a little bit more maybe
+washes again just to get that stuck in
+
+99
+00:05:57,769 --> 00:05:58,698
+your head
+
+100
+00:05:58,699 --> 00:06:01,910
+and I was done with that go ahead and
+move on to the next tutorial and don't
+
+101
+00:06:01,910 --> 00:06:02,900
+forget to comment like and subscribe
+

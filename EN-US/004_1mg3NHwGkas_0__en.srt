@@ -1,0 +1,375 @@
+﻿1
+00:00:01,750 --> 00:00:03,649
+hello youtube and welcome to your fourth
+
+2
+00:00:03,649 --> 00:00:07,290
+microsoft visual basic tutorial in this
+tutorial we can actually start
+
+3
+00:00:07,290 --> 00:00:08,028
+programming
+
+4
+00:00:08,028 --> 00:00:11,820
+now to start of we're gonna go ahead and
+click new project
+
+5
+00:00:11,820 --> 00:00:15,609
+and this will open up our new project
+
+6
+00:00:15,609 --> 00:00:19,948
+window now here you have to try to get
+this in the frame
+
+7
+00:00:19,949 --> 00:00:24,960
+we're gonna go ahead and use it started
+place and Visual Basic in a select a
+
+8
+00:00:24,960 --> 00:00:26,580
+console application
+
+9
+00:00:26,579 --> 00:00:30,209
+now to do with this one's applications
+that has a little a lot occurred at
+
+10
+00:00:30,210 --> 00:00:33,590
+are already pre made for you and this
+could confuse you even more
+
+11
+00:00:33,590 --> 00:00:38,020
+if you're a beginner program and you've
+never going to language so I'm
+
+12
+00:00:38,020 --> 00:00:42,609
+I was going to go ahead and name this
+wide VB
+
+13
+00:00:42,609 --> 00:00:46,659
+hello world and now
+
+14
+00:00:46,659 --> 00:00:50,519
+go ahead and click okay and start
+loading
+
+15
+00:00:50,520 --> 00:00:54,920
+our project here's a module that we
+created
+
+16
+00:00:54,920 --> 00:00:59,120
+they could see inside our module it
+starts with module module one
+
+17
+00:00:59,119 --> 00:01:02,390
+that's the name of the file and it
+started and
+
+18
+00:01:02,390 --> 00:01:05,448
+into the in module that everything going
+to make
+
+19
+00:01:05,448 --> 00:01:08,929
+is gonna have to start with the type
+that is
+
+20
+00:01:08,930 --> 00:01:13,080
+like a class is a class MyClass as
+always it had to end with
+
+21
+00:01:13,079 --> 00:01:16,170
+in Dubai class and for instance years
+are
+
+22
+00:01:16,170 --> 00:01:19,509
+main so here said main
+
+23
+00:01:19,509 --> 00:01:22,540
+and ends with inset now and I said
+
+24
+00:01:22,540 --> 00:01:26,380
+class MyClass in my class AB class
+MyClass
+
+25
+00:01:26,379 --> 00:01:29,750
+the and class so I screwed up a bit but
+a
+
+26
+00:01:29,750 --> 00:01:33,250
+going to start in every program
+
+27
+00:01:33,250 --> 00:01:36,310
+there has to be what's called a made sub
+
+28
+00:01:36,310 --> 00:01:40,079
+now what this does is it's the first
+step that runs no matter what
+
+29
+00:01:40,078 --> 00:01:44,419
+the program has to have a starting point
+you can still create about two sides and
+
+30
+00:01:44,420 --> 00:01:47,239
+running expected to know what to do it
+won't know what to do
+
+31
+00:01:47,239 --> 00:01:51,459
+so you have to create meter this case it
+has been created for us
+
+32
+00:01:51,459 --> 00:01:55,438
+so let's go ahead and start typing code
+inside
+
+33
+00:01:55,438 --> 00:02:01,919
+so we can start by typing console they
+can see that there's a window that pops
+
+34
+00:02:01,920 --> 00:02:02,590
+up right here
+
+35
+00:02:02,590 --> 00:02:07,399
+now it has about a where is it here that
+you may or may not know what they do
+
+36
+00:02:07,399 --> 00:02:10,500
+now with this is called is his car into
+Houston's
+
+37
+00:02:10,500 --> 00:02:13,520
+is what most helpful things that has
+built a GUID
+
+38
+00:02:13,520 --> 00:02:17,500
+the looks at what you party written
+gives suggestions based on that
+
+39
+00:02:17,500 --> 00:02:21,039
+so you can see here that the first one
+is consul
+
+40
+00:02:21,039 --> 00:02:24,539
+which is what we want so what's next
+type consul dot
+
+41
+00:02:24,539 --> 00:02:29,579
+they will do right acres here there is
+that right can write my
+
+42
+00:02:29,580 --> 00:02:32,969
+was a row down and so it's right by
+press tab
+
+43
+00:02:32,969 --> 00:02:36,689
+are back in style boris now
+
+44
+00:02:36,689 --> 00:02:41,430
+week alright my this is a said and
+
+45
+00:02:41,430 --> 00:02:44,709
+inside it inside at these for this is
+right here
+
+46
+00:02:44,709 --> 00:02:48,539
+is what's called arguments now the
+arguments for writing allied to the
+
+47
+00:02:48,539 --> 00:02:49,189
+console
+
+48
+00:02:49,189 --> 00:02:53,439
+is a string what a string is is it's a
+budget characters put together
+
+49
+00:02:53,439 --> 00:02:57,189
+they're stored inside a have to
+
+50
+00:02:57,189 --> 00:03:03,090
+quotation marks so this type hello world
+now this is our hello world string
+
+51
+00:03:03,090 --> 00:03:08,170
+it is not stored as a variable or a data
+type
+
+52
+00:03:08,169 --> 00:03:11,479
+it's just there's for the time when the
+in its gone now
+
+53
+00:03:11,479 --> 00:03:14,658
+it something just discard a literal
+string
+
+54
+00:03:14,658 --> 00:03:18,750
+I don't know if it's the same Visual
+Basic have that but I apps could cause a
+
+55
+00:03:18,750 --> 00:03:19,340
+little strip
+
+56
+00:03:19,340 --> 00:03:23,810
+a literal string because the same thing
+so
+
+57
+00:03:23,810 --> 00:03:27,810
+down below that we're gonna have to do
+is type consoles
+
+58
+00:03:27,810 --> 00:03:31,530
+dot read line and will leave
+
+59
+00:03:31,530 --> 00:03:34,370
+empty arguments for that because we
+don't have to tell it to do anything
+
+60
+00:03:34,370 --> 00:03:35,009
+specific
+
+61
+00:03:35,009 --> 00:03:38,039
+now we come up here
+
+62
+00:03:38,039 --> 00:03:41,818
+you can see the start debugging hairy a
+row but this does
+
+63
+00:03:41,818 --> 00:03:45,439
+is a it runs a program and debug mode
+
+64
+00:03:45,439 --> 00:03:49,430
+which will show us the air stand air
+this so you can
+
+65
+00:03:49,430 --> 00:03:52,780
+clicked this or you can just press a 5
+
+66
+00:03:52,780 --> 00:03:57,049
+they can see that is star save a console
+window
+
+67
+00:03:57,049 --> 00:04:00,349
+or a cmd window if that's too that's
+what you might call it
+
+68
+00:04:00,348 --> 00:04:04,389
+and it says hello world you can see that
+it stopped right here it is
+
+69
+00:04:04,389 --> 00:04:08,458
+stopping to let us read the line that's
+why we called consul top Rehbein
+
+70
+00:04:08,459 --> 00:04:13,280
+now if we take out this line of code
+
+71
+00:04:13,280 --> 00:04:16,370
+and run it yes the
+
+72
+00:04:16,370 --> 00:04:19,870
+the window is going to pop up in a
+disappearing fast
+
+73
+00:04:19,870 --> 00:04:24,810
+you know that over time
+
+74
+00:04:24,810 --> 00:04:28,089
+so
+
+75
+00:04:28,089 --> 00:04:31,779
+in order for us to be able to see what's
+actually going on before close
+
+76
+00:04:31,779 --> 00:04:38,000
+gonna have to do canceled at redline we
+run this
+
+77
+00:04:38,000 --> 00:04:43,269
+you CSS hello world so congratulations
+guys you've successfully created your
+
+78
+00:04:43,269 --> 00:04:44,859
+first hello world program
+
+79
+00:04:44,860 --> 00:04:48,139
+and I stay tuned for the next tutorial
+and extortion
+
+80
+00:04:48,139 --> 00:04:49,228
+don't forget to comment like and
+subscribe
+

@@ -1,0 +1,404 @@
+﻿1
+00:00:01,520 --> 00:00:04,439
+hello youtube same here from YouTube dot
+com slash
+
+2
+00:00:04,440 --> 00:00:07,819
+OnLive gaming for the New Boston and
+this tutorial
+
+3
+00:00:07,819 --> 00:00:11,330
+we're gonna be wearing the if statement
+now the if statement
+
+4
+00:00:11,330 --> 00:00:14,660
+is one of the most useful tools for
+beginners
+
+5
+00:00:14,660 --> 00:00:17,859
+in Visual Basic because there's so much
+that you could do with it
+
+6
+00:00:17,859 --> 00:00:22,230
+is very easy to pick up is very
+intuitive says go ahead get started
+
+7
+00:00:22,230 --> 00:00:26,460
+the first up we are going to make a
+program
+
+8
+00:00:26,460 --> 00:00:29,910
+that we're asking users for their
+username and password
+
+9
+00:00:29,910 --> 00:00:33,609
+this may be a little bit different than
+what you'd expect for a username
+
+10
+00:00:33,609 --> 00:00:35,058
+password login to be
+
+11
+00:00:35,058 --> 00:00:39,959
+bud it will give you the concept the if
+statement and that you'll be able to go
+
+12
+00:00:39,960 --> 00:00:43,039
+make some programs using the if
+statement and get used to it so that you
+
+13
+00:00:43,039 --> 00:00:44,640
+can move on to the next tutorials
+
+14
+00:00:44,640 --> 00:00:48,509
+so is going to get started with a
+console
+
+15
+00:00:48,509 --> 00:00:54,780
+dot right mind what is
+
+16
+00:00:54,780 --> 00:00:59,049
+your name now or gonna do
+
+17
+00:00:59,049 --> 00:01:02,409
+is we're going to declare Street so used
+to did he were to let
+
+18
+00:01:02,409 --> 00:01:05,989
+Visual Basic know that we're going to
+make a very able so
+
+19
+00:01:05,989 --> 00:01:10,079
+will DM username as
+
+20
+00:01:10,079 --> 00:01:13,798
+string and we'll set it equal to cart so
+
+21
+00:01:13,799 --> 00:01:18,640
+dot read line now or gonna do
+
+22
+00:01:18,640 --> 00:01:21,640
+is really do console
+
+23
+00:01:21,640 --> 00:01:26,069
+da right line which can ask them for
+their password
+
+24
+00:01:26,069 --> 00:01:29,078
+so white is your
+
+25
+00:01:29,078 --> 00:01:35,289
+password in will declare another
+variable
+
+26
+00:01:35,290 --> 00:01:39,850
+and it'll be password so damn password
+
+27
+00:01:39,849 --> 00:01:43,780
+as a string we're going to equal to
+
+28
+00:01:43,780 --> 00:01:47,310
+consul dot redline
+
+29
+00:01:47,310 --> 00:01:51,659
+soldiers getting whatever the user type
+did so now we're gonna create
+
+30
+00:01:51,659 --> 00:01:57,130
+are if statement so to start off in a
+statement using use the keyword
+
+31
+00:01:57,129 --> 00:02:01,649
+yes wheat added it's going to highlight
+it blew its gonna showed up in
+
+32
+00:02:01,649 --> 00:02:02,519
+intellisense
+
+33
+00:02:02,519 --> 00:02:07,868
+now the the definition for the if
+statement this is
+
+34
+00:02:07,868 --> 00:02:13,250
+conditionally conditionally excuse a
+group statements depending on the value
+
+35
+00:02:13,250 --> 00:02:14,139
+of an expression
+
+36
+00:02:14,139 --> 00:02:17,559
+so basically what that says is is a
+certain
+
+37
+00:02:17,560 --> 00:02:21,310
+I condition is true the go ahead and do
+whatever is inside this
+
+38
+00:02:21,310 --> 00:02:25,479
+if statement so is username
+
+39
+00:02:25,479 --> 00:02:30,659
+equals same did what we wanted to do
+
+40
+00:02:30,659 --> 00:02:33,870
+and if you press enter you can see there
+are automatically add
+
+41
+00:02:33,870 --> 00:02:37,120
+in if for you olives Davis have in
+
+42
+00:02:37,120 --> 00:02:40,159
+within in if or else you'll get a syntax
+error
+
+43
+00:02:40,159 --> 00:02:43,489
+so do if using a pic of sam
+
+44
+00:02:43,489 --> 00:02:47,099
+then consul dot right
+
+45
+00:02:47,098 --> 00:02:54,098
+line welcome Sam
+
+46
+00:02:55,729 --> 00:03:00,810
+in our dish can you create a second its
+statement so if password
+
+47
+00:03:00,810 --> 00:03:04,140
+equals the New Boston
+
+48
+00:03:04,139 --> 00:03:07,299
+did well what we wanted to do
+
+49
+00:03:07,300 --> 00:03:11,020
+we will just type consul dot
+
+50
+00:03:11,020 --> 00:03:15,880
+right line insider there
+
+51
+00:03:15,879 --> 00:03:22,879
+what type you have enter the correct
+password
+
+52
+00:03:28,479 --> 00:03:32,030
+okay so now if we run this you see we
+have a little bit of a problem here
+
+53
+00:03:32,030 --> 00:03:36,240
+so we type what is your name that axiom
+what is your password
+
+54
+00:03:36,240 --> 00:03:40,400
+the New Boston his era close out right
+after we're done with that
+
+55
+00:03:40,400 --> 00:03:43,680
+so which can add a redline right here
+
+56
+00:03:43,680 --> 00:03:46,969
+so consul dot read
+
+57
+00:03:46,969 --> 00:03:50,240
+line its initial deposit program
+
+58
+00:03:50,240 --> 00:03:54,570
+and let us see you what we have done so
+what is your name
+
+59
+00:03:54,569 --> 00:03:58,139
+same and what is your password the New
+Boston
+
+60
+00:03:58,139 --> 00:04:02,029
+so because name is equal to Sam
+
+61
+00:04:02,030 --> 00:04:05,409
+is going to bring out welcome Sam and
+because
+
+62
+00:04:05,409 --> 00:04:09,060
+the new boss in the past so that we have
+typed in is equal to
+
+63
+00:04:09,060 --> 00:04:12,650
+the New Boston in our code right here
+its gonna say
+
+64
+00:04:12,650 --> 00:04:15,939
+you enter the correct password so
+
+65
+00:04:15,939 --> 00:04:20,779
+let's go ahead and with separate this a
+bit here just to make the
+
+66
+00:04:20,779 --> 00:04:25,119
+over it a little bit more readable so
+we'll just
+
+67
+00:04:25,120 --> 00:04:28,800
+write another line which is just give us
+a blank line in separate these
+
+68
+00:04:28,800 --> 00:04:32,740
+self-awareness again say what is your
+name and if I type
+
+69
+00:04:32,740 --> 00:04:36,960
+said Gerald and say what is a pastor at
+had the New Boston
+
+70
+00:04:36,959 --> 00:04:40,069
+is going to say you have enter the
+correct password
+
+71
+00:04:40,069 --> 00:04:43,310
+but didn't say welcome Sam because
+gerald
+
+72
+00:04:43,310 --> 00:04:47,550
+is not equal to Sam so username
+
+73
+00:04:47,550 --> 00:04:51,879
+whatever they have tidied is jailed and
+is not able to say I am so it will not
+
+74
+00:04:51,879 --> 00:04:53,228
+do the coincided here
+
+75
+00:04:53,228 --> 00:04:57,589
+and suit since we typed in the New
+Boston as a password
+
+76
+00:04:57,589 --> 00:05:00,918
+it's going to tell us that we have into
+the crack password
+
+77
+00:05:00,918 --> 00:05:05,000
+and it's also work the other way around
+so if we do
+
+78
+00:05:05,000 --> 00:05:09,040
+what is your name Sam and say what is
+your password
+
+79
+00:05:09,040 --> 00:05:15,229
+assay OnLive gaming ivs say welcome Sam
+but it won't tell us that we have into
+
+80
+00:05:15,228 --> 00:05:16,310
+the correct password
+
+81
+00:05:16,310 --> 00:05:20,139
+so here
+
+82
+00:05:20,139 --> 00:05:24,689
+is basic example the if statement
+they're very fun to use when you first
+
+83
+00:05:24,689 --> 00:05:25,680
+begin programming
+
+84
+00:05:25,680 --> 00:05:29,590
+you can do a lot with them a lot more
+than that you think you could and I so
+
+85
+00:05:29,589 --> 00:05:30,329
+go ahead
+
+86
+00:05:30,329 --> 00:05:34,620
+look at this coat over again go ahead
+and use a in statements and make some
+
+87
+00:05:34,620 --> 00:05:35,620
+programs yourself
+
+88
+00:05:35,620 --> 00:05:40,220
+and what you got if there is no doubt go
+ahead and move on to the next tutorial
+

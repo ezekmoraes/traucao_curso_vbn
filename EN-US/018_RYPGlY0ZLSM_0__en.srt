@@ -1,0 +1,335 @@
+﻿1
+00:00:01,730 --> 00:00:04,480
+hello youtube same here from you to dot
+com slash
+
+2
+00:00:04,480 --> 00:00:07,540
+on live gamer for the New Boston ends
+2/2
+
+3
+00:00:07,540 --> 00:00:10,939
+will be taking a look at what's called
+concatenating strings
+
+4
+00:00:10,939 --> 00:00:14,209
+basically what this means is taking one
+string
+
+5
+00:00:14,210 --> 00:00:17,250
+in adding another string to a and
+
+6
+00:00:17,250 --> 00:00:21,028
+when you do this is stored in another
+variable says going to get started
+
+7
+00:00:21,028 --> 00:00:24,948
+we're going to create concatenate demo
+so go ahead
+
+8
+00:00:24,949 --> 00:00:28,849
+got a new project we will name this
+
+9
+00:00:28,849 --> 00:00:35,009
+string concatenate and they will go
+ahead and click
+
+10
+00:00:35,009 --> 00:00:38,609
+okay make sure you have selected a
+
+11
+00:00:38,609 --> 00:00:42,628
+consul application now here is my jewel
+1
+
+12
+00:00:42,628 --> 00:00:49,039
+let's go ahead and zoom in here a bit
+okay so now we're going to do
+
+13
+00:00:49,039 --> 00:00:52,829
+is we are going to create a string so
+
+14
+00:00:52,829 --> 00:00:56,910
+diem users sharing as stream
+
+15
+00:00:56,909 --> 00:00:59,869
+it will go ahead and said that you could
+do nothing because we can have then type
+
+16
+00:00:59,869 --> 00:01:00,299
+in
+
+17
+00:01:00,299 --> 00:01:03,608
+a string now or gonna do
+
+18
+00:01:03,609 --> 00:01:07,019
+is we're going to create another string
+that will be stored in our program
+
+19
+00:01:07,019 --> 00:01:10,759
+so im programs during
+
+20
+00:01:10,760 --> 00:01:17,430
+as stream and order said that it was
+something right I'm
+
+21
+00:01:17,430 --> 00:01:22,060
+catfish now or gonna do
+
+22
+00:01:22,060 --> 00:01:26,019
+is real prompt the user to enter
+industry so the console
+
+23
+00:01:26,019 --> 00:01:32,938
+dot right line type anything you want
+
+24
+00:01:32,938 --> 00:01:38,008
+so now we're going to do
+
+25
+00:01:38,009 --> 00:01:42,700
+is really get with a tight so users tree
+equals
+
+26
+00:01:42,700 --> 00:01:49,700
+console dot redline now what we're gonna
+do
+
+27
+00:01:50,040 --> 00:01:54,000
+is we're going to take their users chain
+and add programs trying to it
+
+28
+00:01:54,000 --> 00:01:58,228
+so but first we're gonna print out with
+a tight
+
+29
+00:01:58,228 --> 00:02:03,658
+so can so that right line users chain
+
+30
+00:02:03,659 --> 00:02:09,289
+an hour into Israel had programs chain
+to it so
+
+31
+00:02:09,288 --> 00:02:12,659
+users chain equals
+
+32
+00:02:12,659 --> 00:02:15,848
+is chain plus
+
+33
+00:02:15,848 --> 00:02:19,500
+programs tree so basically what this
+does
+
+34
+00:02:19,500 --> 00:02:22,620
+is it takes users chain in as program
+shame to it
+
+35
+00:02:22,620 --> 00:02:25,620
+and makes all one word that's good
+
+36
+00:02:25,620 --> 00:02:30,659
+not one word one stream so it's good at
+it a space in catfish so it will you
+
+37
+00:02:30,659 --> 00:02:32,109
+will be able to see the space in there
+
+38
+00:02:32,110 --> 00:02:35,550
+in or going to you is run a printout
+users change
+
+39
+00:02:35,550 --> 00:02:42,550
+again and a modest
+
+40
+00:02:42,650 --> 00:02:46,709
+have the program pas away first to press
+Enter
+
+41
+00:02:46,709 --> 00:02:51,159
+by using consul that read mine now or
+just run it
+
+42
+00:02:51,159 --> 00:02:55,229
+endorse a type anything you want Sophie
+type in
+
+43
+00:02:55,229 --> 00:02:59,449
+snowboarding go ahead and
+
+44
+00:02:59,449 --> 00:03:04,068
+press ENTER Irsay snowboarding in the
+row se snowboarding which is what the
+
+45
+00:03:04,068 --> 00:03:04,869
+user entered
+
+46
+00:03:04,870 --> 00:03:10,370
+in the ads program showing to that now
+we can you
+
+47
+00:03:10,370 --> 00:03:14,019
+is we can come back in here and we can
+add
+
+48
+00:03:14,019 --> 00:03:17,959
+morse changed to this now the strange
+don't have to be very because we can go
+
+49
+00:03:17,959 --> 00:03:18,878
+ahead and add
+
+50
+00:03:18,878 --> 00:03:24,500
+I'm anything we want by in closing in
+quotes so this tie
+
+51
+00:03:24,500 --> 00:03:27,750
+I'm fishing
+
+52
+00:03:27,750 --> 00:03:31,500
+so now it's gonna do is going to take
+what they typed
+
+53
+00:03:31,500 --> 00:03:37,400
+at catfish the add fishing now we can
+also use this which is what we've used
+
+54
+00:03:37,400 --> 00:03:40,709
+in several other tutorials we can use
+the ensign
+
+55
+00:03:40,709 --> 00:03:44,479
+inside a concert outright 9 statement to
+add another string to it
+
+56
+00:03:44,479 --> 00:03:48,548
+so decide hello YouTube what this does
+
+57
+00:03:48,549 --> 00:03:53,299
+is it takes you string and as hell
+YouTube to it for the time being
+
+58
+00:03:53,299 --> 00:03:57,849
+and then it doesn't save had hella
+YouTube it's just there when this class
+
+59
+00:03:57,848 --> 00:03:59,048
+is not right on his car
+
+60
+00:03:59,049 --> 00:04:02,959
+and it disappears so let's go ahead and
+run this
+
+61
+00:04:02,959 --> 00:04:07,810
+now to say type anything you want
+substance am
+
+62
+00:04:07,810 --> 00:04:11,188
+it shows as well we originally typed
+ssam
+
+63
+00:04:11,188 --> 00:04:15,259
+same catfish fishing hello youtube so
+you can do this
+
+64
+00:04:15,259 --> 00:04:18,858
+anywhere you want you can even add
+administering a here
+
+65
+00:04:18,858 --> 00:04:22,909
+and I'm
+
+66
+00:04:22,910 --> 00:04:26,910
+can get me as much as you want in the
+string remember if you
+
+67
+00:04:26,910 --> 00:04:30,800
+use the ensign inside are you mister
+talks about right line
+
+68
+00:04:30,800 --> 00:04:34,199
+this is going to be discarded as soon as
+you're done with this statement or since
+
+69
+00:04:34,199 --> 00:04:36,050
+the programs that this statement
+
+70
+00:04:36,050 --> 00:04:39,470
+so and this is very simple concept
+donated you guys that
+
+71
+00:04:39,470 --> 00:04:43,680
+and I'm it should be easy for you to
+understand once you understand that
+
+72
+00:04:43,680 --> 00:04:45,370
+go ahead and move on to the next
+tutorial
+

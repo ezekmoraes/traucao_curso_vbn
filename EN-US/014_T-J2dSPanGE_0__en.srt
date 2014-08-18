@@ -1,0 +1,427 @@
+﻿1
+00:00:01,699 --> 00:00:04,419
+hello youtube same here from you to dot
+com slash
+
+2
+00:00:04,419 --> 00:00:07,580
+on I came in for the New Boston and this
+tutorial
+
+3
+00:00:07,580 --> 00:00:11,870
+organ becoming the else if else
+statement so the last 20
+
+4
+00:00:11,869 --> 00:00:15,629
+we covered the if statement now this go
+ahead and get started
+
+5
+00:00:15,630 --> 00:00:19,740
+we're gonna start of by
+
+6
+00:00:19,739 --> 00:00:25,169
+using cancelled outright by and we'll
+just type
+
+7
+00:00:25,170 --> 00:00:28,310
+what is your name
+
+8
+00:00:28,309 --> 00:00:32,329
+now we're going to create a variable
+
+9
+00:00:32,329 --> 00:00:37,270
+call username ever getting store the
+information that a user types in
+
+10
+00:00:37,270 --> 00:00:41,079
+as username so declare using sodium
+
+11
+00:00:41,079 --> 00:00:44,149
+username as string
+
+12
+00:00:44,149 --> 00:00:47,609
+and what city equal to you consul dot
+read
+
+13
+00:00:47,609 --> 00:00:50,939
+line now we want to do
+
+14
+00:00:50,939 --> 00:00:54,329
+is what I asked him for the password so
+
+15
+00:00:54,329 --> 00:00:58,480
+will just type cancelled I right mind
+
+16
+00:00:58,479 --> 00:01:01,988
+what is your password
+
+17
+00:01:01,988 --> 00:01:06,170
+and will declare the password
+
+18
+00:01:06,170 --> 00:01:09,600
+SODIMM password as string as
+
+19
+00:01:09,599 --> 00:01:12,728
+equal to you consul dot redline
+
+20
+00:01:12,728 --> 00:01:18,000
+okay so now we want to do is we want to
+create an if statement
+
+21
+00:01:18,000 --> 00:01:21,299
+see if they typed in and name that is in
+let's say
+
+22
+00:01:21,299 --> 00:01:25,159
+a list the possible names that can be
+
+23
+00:01:25,159 --> 00:01:31,320
+logged in so is username
+
+24
+00:01:31,319 --> 00:01:34,758
+equals same
+
+25
+00:01:34,759 --> 00:01:38,310
+or that same said that same same
+
+26
+00:01:38,310 --> 00:01:41,469
+dead do something so if username
+
+27
+00:01:41,469 --> 00:01:45,368
+is equal the same they will do console
+died
+
+28
+00:01:45,368 --> 00:01:52,368
+right mind welcome same
+
+29
+00:01:54,629 --> 00:01:58,759
+now we want to cover any other cases
+that could happen now I could do this
+
+30
+00:01:58,760 --> 00:02:02,329
+with a budget is statements that's not
+very efficient
+
+31
+00:02:02,329 --> 00:02:06,140
+we can use what's called in else if
+statement so
+
+32
+00:02:06,140 --> 00:02:10,439
+we just do this but having else's
+username
+
+33
+00:02:10,439 --> 00:02:16,009
+equals Tim so views may be caused him
+
+34
+00:02:16,009 --> 00:02:19,859
+if we want to do something so
+
+35
+00:02:19,860 --> 00:02:22,920
+will decide console dodd right
+
+36
+00:02:22,919 --> 00:02:29,919
+line welcomed him
+
+37
+00:02:32,449 --> 00:02:36,549
+so basically basically what we've done
+is if user name is equal to Sam
+
+38
+00:02:36,550 --> 00:02:41,110
+go ahead and say welcome same but if you
+use an ABC quality and
+
+39
+00:02:41,110 --> 00:02:45,099
+it's a welcome Tim and this is all in
+one a statement by using
+
+40
+00:02:45,098 --> 00:02:49,419
+else it in case somebody else tries to
+log in and we don't know who they are
+
+41
+00:02:49,419 --> 00:02:52,809
+which can tell them that they have
+tightening down name
+
+42
+00:02:52,810 --> 00:02:55,890
+now to do this we're gonna type
+
+43
+00:02:55,889 --> 00:02:59,259
+else so else
+
+44
+00:02:59,259 --> 00:03:03,689
+go ahead and do the code that is inside
+in between else in India
+
+45
+00:03:03,689 --> 00:03:07,169
+what else does is it covers anything
+else that you did not cover
+
+46
+00:03:07,169 --> 00:03:10,298
+so it is an equal say in this can go
+ahead do this
+
+47
+00:03:10,299 --> 00:03:14,769
+but else if use in the people's ten you
+know do this infusion Eagles
+
+48
+00:03:14,769 --> 00:03:18,189
+anything else other than to him or to
+him the go-ahead
+
+49
+00:03:18,189 --> 00:03:22,359
+and do whatever we tied inside here
+soldiers type consul
+
+50
+00:03:22,360 --> 00:03:26,459
+died right line you are not
+
+51
+00:03:26,459 --> 00:03:33,459
+a valid user added after in if
+
+52
+00:03:33,530 --> 00:03:37,150
+we'll just do consul dot redline
+
+53
+00:03:37,150 --> 00:03:40,319
+said so that the user has time to
+
+54
+00:03:40,318 --> 00:03:43,818
+see if they've been accepted receive
+that have been the right name
+
+55
+00:03:43,818 --> 00:03:47,379
+so if we do what is your name night I
+pinned Sam
+
+56
+00:03:47,379 --> 00:03:52,039
+just a what is your password are just
+type in
+
+57
+00:03:52,039 --> 00:03:55,888
+the New Boston you know say welcome Sam
+
+58
+00:03:55,889 --> 00:03:58,969
+and then it won't say anything else
+after that because we haven't added
+
+59
+00:03:58,969 --> 00:04:03,930
+anything that will handle the password
+so now here and there again
+
+60
+00:04:03,930 --> 00:04:07,379
+your say what is your name what I did
+
+61
+00:04:07,379 --> 00:04:10,650
+10 or see
+
+62
+00:04:10,650 --> 00:04:14,180
+this is case sensitive so Tim
+
+63
+00:04:14,180 --> 00:04:17,199
+and say what is your password I've been
+about stuff right there
+
+64
+00:04:17,199 --> 00:04:21,029
+says welcomed him now type anything else
+
+65
+00:04:21,029 --> 00:04:24,719
+other that same or 10 its gon say
+
+66
+00:04:24,720 --> 00:04:29,030
+you are not a valid user so we can do
+the same thing
+
+67
+00:04:29,029 --> 00:04:34,228
+with our I'm password so
+
+68
+00:04:34,228 --> 00:04:38,310
+if password equals
+
+69
+00:04:38,310 --> 00:04:44,598
+the New Boston then
+
+70
+00:04:44,598 --> 00:04:48,519
+go ahead and let the user know that they
+have been granted access
+
+71
+00:04:48,519 --> 00:04:53,149
+so will decide console dot
+
+72
+00:04:53,149 --> 00:05:00,149
+right line and will say
+
+73
+00:05:03,538 --> 00:05:07,399
+congratz and then we'll just add their
+usernames so
+
+74
+00:05:07,399 --> 00:05:12,779
+congratz username and they will say
+
+75
+00:05:12,779 --> 00:05:17,568
+you have been
+
+76
+00:05:17,569 --> 00:05:23,460
+granted access now
+
+77
+00:05:23,459 --> 00:05:28,409
+this is a very secure but is just for
+the sake this tutorial I say
+
+78
+00:05:28,410 --> 00:05:32,009
+instead if you are not a valid user as
+you say
+
+79
+00:05:32,009 --> 00:05:35,538
+I don't know who you are so that way
+
+80
+00:05:35,538 --> 00:05:39,158
+the person doesn't have to have the
+right username but if they have the
+
+81
+00:05:39,158 --> 00:05:42,959
+I say the administrator password they
+can go ahead and login
+
+82
+00:05:42,959 --> 00:05:48,418
+so I don't know who you are so we go
+into this
+
+83
+00:05:48,418 --> 00:05:51,448
+say what is your name let's just say
+same
+
+84
+00:05:51,449 --> 00:05:55,038
+what is your password typed in New
+Boston
+
+85
+00:05:55,038 --> 00:06:00,348
+to say welcome Sam graduation same you
+have been granted access
+
+86
+00:06:00,348 --> 00:06:04,158
+now all we need to do he is
+
+87
+00:06:04,158 --> 00:06:08,180
+as space right here so that Sam is right
+next to that
+
+88
+00:06:08,180 --> 00:06:13,500
+so now if we type an invalid username
+
+89
+00:06:13,500 --> 00:06:16,639
+you know say should do this
+
+90
+00:06:16,639 --> 00:06:20,389
+in for type in the New Boston you see
+that will
+
+91
+00:06:20,389 --> 00:06:23,900
+get out the I don't know you are you
+know say congrat
+
+92
+00:06:23,899 --> 00:06:29,769
+a Dafa you have been granted access so
+
+93
+00:06:29,769 --> 00:06:33,478
+go ahead and practice some else if
+statements and smell statements
+
+94
+00:06:33,478 --> 00:06:37,629
+get familiar with that and then once you
+that no doubt go ahead and move on to
+
+95
+00:06:37,629 --> 00:06:38,389
+the next tutorial
+

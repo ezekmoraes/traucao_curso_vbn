@@ -1,0 +1,475 @@
+﻿1
+00:00:01,370 --> 00:00:04,089
+hello youtube same here from you to dot
+com slash
+
+2
+00:00:04,089 --> 00:00:07,960
+on life came in for the New Boston in
+this tutorial we'll be taking a look at
+
+3
+00:00:07,960 --> 00:00:09,269
+logical operators
+
+4
+00:00:09,269 --> 00:00:12,679
+now basically a logical operators are is
+
+5
+00:00:12,679 --> 00:00:16,219
+that's a year using if statement so you
+wanna do you
+
+6
+00:00:16,219 --> 00:00:19,949
+if this number is equal to a certain
+value
+
+7
+00:00:19,949 --> 00:00:23,340
+or this number is equal to a different
+value
+
+8
+00:00:23,339 --> 00:00:26,448
+the go ahead and do everything if
+statement now
+
+9
+00:00:26,449 --> 00:00:29,599
+the or in that would be considered a
+logical operator
+
+10
+00:00:29,599 --> 00:00:33,380
+you can also use the and operators so
+let's say
+
+11
+00:00:33,380 --> 00:00:36,380
+if this number
+
+12
+00:00:36,380 --> 00:00:41,790
+is less than a certain value
+
+13
+00:00:41,789 --> 00:00:45,649
+and another number is less than a
+certain value go ahead do whatever's in
+
+14
+00:00:45,649 --> 00:00:46,170
+Echo
+
+15
+00:00:46,170 --> 00:00:50,000
+so I'm let's go ahead and make a little
+demo program for this
+
+16
+00:00:50,000 --> 00:00:53,929
+eyes could be similar to the log in one
+third done before solace going to
+
+17
+00:00:53,929 --> 00:00:54,439
+stardom
+
+18
+00:00:54,439 --> 00:00:58,320
+we're gonna go ahead and declare our
+username and password
+
+19
+00:00:58,320 --> 00:01:02,079
+sodium username as string
+
+20
+00:01:02,079 --> 00:01:06,118
+answer it with nothing in our gonna make
+a password
+
+21
+00:01:06,118 --> 00:01:09,170
+so Tim password
+
+22
+00:01:09,170 --> 00:01:14,349
+as a stream we're going to set that
+equal nothing to say just in case they
+
+23
+00:01:14,349 --> 00:01:14,679
+don't
+
+24
+00:01:14,680 --> 00:01:18,990
+type anything okay so now we're going to
+do is going to prompt the user to enter
+
+25
+00:01:18,989 --> 00:01:19,938
+their username
+
+26
+00:01:19,938 --> 00:01:25,258
+soda right mind what
+
+27
+00:01:25,259 --> 00:01:31,728
+is your name now we want to do is worst
+or their names of course
+
+28
+00:01:31,728 --> 00:01:35,259
+so username because time sold out
+redline
+
+29
+00:01:35,259 --> 00:01:41,478
+now which can ask them for their
+password so
+
+30
+00:01:41,478 --> 00:01:48,478
+will be cancelled outright by what is
+your password
+
+31
+00:01:48,649 --> 00:01:53,049
+and with you
+
+32
+00:01:53,049 --> 00:01:57,290
+password equals console dot get mine
+
+33
+00:01:57,290 --> 00:02:03,320
+or die redline sorry okay so now that
+
+34
+00:02:03,319 --> 00:02:06,688
+with prompt the user to enter the name
+and password we have stored both their
+
+35
+00:02:06,688 --> 00:02:08,579
+name in the password in variables
+
+36
+00:02:08,580 --> 00:02:13,940
+we want s those to see if we're going to
+let the user in so we're going to start
+
+37
+00:02:13,939 --> 00:02:15,489
+off by creating an if statement
+
+38
+00:02:15,489 --> 00:02:19,890
+you type if username equals
+
+39
+00:02:19,889 --> 00:02:23,409
+same game go ahead
+
+40
+00:02:23,409 --> 00:02:26,579
+do this now or gonna do Israel at
+
+41
+00:02:26,580 --> 00:02:30,180
+in or operators who this now added or
+operator
+
+42
+00:02:30,180 --> 00:02:33,230
+you gonna go ahead and just type the
+keyword or
+
+43
+00:02:33,229 --> 00:02:37,169
+capital lower case are so if username
+people seem
+
+44
+00:02:37,169 --> 00:02:40,458
+or username equals
+
+45
+00:02:40,459 --> 00:02:43,830
+10 now time 10
+
+46
+00:02:43,830 --> 00:02:48,870
+the go-ahead do this so let's go ahead
+in print that out
+
+47
+00:02:48,870 --> 00:02:52,459
+so we can see what happens so cancelled
+outright mind
+
+48
+00:02:52,459 --> 00:02:56,580
+hello anywhere just
+
+49
+00:02:56,580 --> 00:03:02,659
+add their username and they will go
+ahead and cancel that read I'm
+
+50
+00:03:02,658 --> 00:03:09,658
+so we have time to read online before it
+close okay to say what is your name
+
+51
+00:03:10,989 --> 00:03:15,849
+if I type in same ill say what is your
+password I can't I do whatever I want
+
+52
+00:03:15,848 --> 00:03:16,238
+here
+
+53
+00:03:16,239 --> 00:03:19,250
+will say hello Sam now by type Tim
+
+54
+00:03:19,250 --> 00:03:23,080
+to say hello to him but about everything
+else did nothing will show up
+
+55
+00:03:23,080 --> 00:03:26,450
+so now we want to do
+
+56
+00:03:26,449 --> 00:03:29,548
+is we won a test to see if the user name
+is correct
+
+57
+00:03:29,549 --> 00:03:32,750
+or the password name it originated is
+correct
+
+58
+00:03:32,750 --> 00:03:36,318
+and the password is correct so to do
+this
+
+59
+00:03:36,318 --> 00:03:39,348
+missus go ahead and close this
+
+60
+00:03:39,348 --> 00:03:42,759
+in parentheses so this is going to be
+its own separate
+
+61
+00:03:42,759 --> 00:03:48,399
+part the the if statement now this may
+be a little confusing to you
+
+62
+00:03:48,400 --> 00:03:52,530
+but if you just go ahead practices after
+this you understand it so
+
+63
+00:03:52,530 --> 00:03:57,509
+if his name because im or use an a
+because team in the and operator is this
+
+64
+00:03:57,509 --> 00:03:58,310
+capital a
+
+65
+00:03:58,310 --> 00:04:02,310
+Indy you'll see that highlights to now
+this is very simple
+
+66
+00:04:02,310 --> 00:04:07,150
+in other languages you got some symbols
+for the and in or operator like the or
+
+67
+00:04:07,150 --> 00:04:09,120
+operator in C bus bus for example
+
+68
+00:04:09,120 --> 00:04:12,860
+will be that right there but in Visual
+Basics is it sits at
+
+69
+00:04:12,860 --> 00:04:16,889
+a high-level language its the existing
+this is very easy to
+
+70
+00:04:16,889 --> 00:04:21,319
+write code in the world best so if using
+a beagle same
+
+71
+00:04:21,319 --> 00:04:24,579
+or username Eagles team and password
+
+72
+00:04:24,579 --> 00:04:31,120
+equals the New Boston
+
+73
+00:04:31,120 --> 00:04:35,139
+then we're gonna go ahead and tell them
+that they have access by this
+
+74
+00:04:35,139 --> 00:04:39,759
+saying hello username basically what
+this does is
+
+75
+00:04:39,759 --> 00:04:43,110
+is anything in here is true so
+
+76
+00:04:43,110 --> 00:04:48,250
+is this part issue and password it was
+the New Boston issue so
+
+77
+00:04:48,250 --> 00:04:51,470
+if username people say missed you or use
+any because Tim issue
+
+78
+00:04:51,470 --> 00:04:55,540
+in this whole part right here soon be
+equal trip to true
+
+79
+00:04:55,540 --> 00:05:00,479
+and then and pass riegle's the New
+Boston so this hope our last equal to
+
+80
+00:05:00,478 --> 00:05:04,329
+and password it was a new boston has
+deport you
+
+81
+00:05:04,329 --> 00:05:09,430
+now this might be a little confusing to
+you but I am just
+
+82
+00:05:09,430 --> 00:05:13,620
+this time try to figure out this again
+if you have any questions in the comment
+
+83
+00:05:13,620 --> 00:05:17,788
+so if these Tuesday if these two
+conditions are true:
+
+84
+00:05:17,788 --> 00:05:21,149
+the go ahead and let them in and ask go
+ahead
+
+85
+00:05:21,149 --> 00:05:27,329
+and tied else will say cancelled
+outright mine
+
+86
+00:05:27,329 --> 00:05:31,990
+access not granted
+
+87
+00:05:31,990 --> 00:05:35,900
+so if we run this program type what is
+your name
+
+88
+00:05:35,899 --> 00:05:39,859
+bosses other say same you know type the
+New Boston
+
+89
+00:05:39,860 --> 00:05:44,060
+it'll say hello Sam now scored once
+again
+
+90
+00:05:44,060 --> 00:05:47,310
+and you can see their work with him to
+you so
+
+91
+00:05:47,310 --> 00:05:50,509
+name is Tim password is the New Boston
+
+92
+00:05:50,509 --> 00:05:55,110
+you know say hello to him we've been
+granted access
+
+93
+00:05:55,110 --> 00:05:58,610
+but anything is
+
+94
+00:05:58,610 --> 00:06:03,270
+not true so it's a we don't I P the same
+or team so we tied
+
+95
+00:06:03,269 --> 00:06:06,870
+Joe and that which had to pass for the
+New Boston
+
+96
+00:06:06,870 --> 00:06:10,810
+even though the password is correct is
+gonna say access not going in
+
+97
+00:06:10,810 --> 00:06:14,728
+because to date has to be great it has
+to be either Sam or Joe
+
+98
+00:06:14,728 --> 00:06:18,068
+and the password has to be good to the
+New Boston
+
+99
+00:06:18,069 --> 00:06:22,810
+so on go ahead and practiced and make
+some programs yourself with some
+
+100
+00:06:22,810 --> 00:06:27,038
+logical operators and once you've got a
+logical operators now down
+
+101
+00:06:27,038 --> 00:06:30,240
+go ahead and move on to the next
+tutorials and
+
+102
+00:06:30,240 --> 00:06:30,780
+thanks for watching
+

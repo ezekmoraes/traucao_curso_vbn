@@ -1,5 +1,9 @@
 /*************************************************
 *
+*  SENDO TRADUZIDO POR HOWAR ROGISKI
+*
+**************************************************
+*
 *  TRADUZIR CADA FAIXA E ORGANIZAR COMO ESTÁ AQUI
 *  NO ARQUIVO DA PASTA PT-BR COM O MESMO NOME
 *  DESTE (001).

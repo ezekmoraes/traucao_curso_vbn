@@ -18,3 +18,4 @@ Colaboradores
 ==============
 Ezequiel - https://www.facebook.com/ezequiel.moraesmello
 Howar Rogiski - https://www.facebook.com/howar.rogiski.9
+Carlos André - https://www.facebook.com/carlos.saraiva.923

@@ -1,0 +1,284 @@
+﻿1
+00:00:01,899 --> 00:00:04,699
+hello youtube same here from you dot com
+slash
+
+2
+00:00:04,700 --> 00:00:08,969
+OnLive game it for the New Boston in
+this tutorial we'll be taking a look
+
+3
+00:00:08,970 --> 00:00:12,880
+at quitting your do loops early dinosaur
+
+4
+00:00:12,880 --> 00:00:16,059
+for do while loops or do want to lose
+
+5
+00:00:16,059 --> 00:00:19,539
+now if you remember back we learned how
+to quit
+
+6
+00:00:19,539 --> 00:00:24,140
+for loops early now the same concept can
+be applied to you
+
+7
+00:00:24,140 --> 00:00:27,839
+do until I do while loops that's right
+get started
+
+8
+00:00:27,839 --> 00:00:33,019
+and make a little devil application so
+go ahead and slight console application
+
+9
+00:00:33,020 --> 00:00:36,140
+and will type this quitting
+
+10
+00:00:36,140 --> 00:00:39,179
+do loops
+
+11
+00:00:39,179 --> 00:00:45,439
+go ahead and click okay so it's humid
+zone here
+
+12
+00:00:45,439 --> 00:00:48,479
+and ass go ahead and add
+
+13
+00:00:48,479 --> 00:00:55,468
+consul dot read line okay so now let's
+create
+
+14
+00:00:55,469 --> 00:00:59,910
+our do and to so this to do
+
+15
+00:00:59,909 --> 00:01:04,018
+until Nam 1 equals
+
+16
+00:01:04,019 --> 00:01:07,180
+10 the go ahead and loop
+
+17
+00:01:07,180 --> 00:01:10,799
+those to appear and create now
+
+18
+00:01:10,799 --> 00:01:14,049
+one so
+
+19
+00:01:14,049 --> 00:01:17,659
+declared a blind as integer and we will
+set it equal to see
+
+20
+00:01:17,659 --> 00:01:21,570
+so
+
+21
+00:01:21,569 --> 00:01:24,758
+I see well as you we're going to do
+until one accosted
+
+22
+00:01:24,759 --> 00:01:29,909
+and wheel console dot right line no
+
+23
+00:01:29,909 --> 00:01:33,299
+1 now we're going to do
+
+24
+00:01:33,299 --> 00:01:40,299
+is we're going to in commit them one so
+if you run this
+
+25
+00:01:41,009 --> 00:01:46,379
+it's going to give us your own two three
+four five six seven eight nine
+
+26
+00:01:46,379 --> 00:01:51,868
+not sad a simple its statement so
+
+27
+00:01:51,868 --> 00:01:57,438
+if numb
+
+28
+00:01:57,438 --> 00:02:00,789
+wind equals 5
+
+29
+00:02:00,790 --> 00:02:05,040
+did exit
+
+30
+00:02:05,040 --> 00:02:08,250
+do so well is gonna do is
+
+31
+00:02:08,250 --> 00:02:13,699
+whenever it comes down actually are due
+until statement each time it loops its
+
+32
+00:02:13,699 --> 00:02:14,488
+gonna hit this
+
+33
+00:02:14,489 --> 00:02:17,969
+if statement right here and then if
+number one is equal to five then
+
+34
+00:02:17,969 --> 00:02:21,539
+exit do so system one such as you
+
+35
+00:02:21,539 --> 00:02:25,439
+is gonna run through this is can be fine
+is can equal to 1
+
+36
+00:02:25,439 --> 00:02:29,719
+in Syria down and the one single spine
+is an exit do
+
+37
+00:02:29,719 --> 00:02:33,769
+so our programs gonna put out 01 234
+
+38
+00:02:33,769 --> 00:02:38,110
+because is gonna exit was equal spy
+let's go and read this
+
+39
+00:02:38,110 --> 00:02:43,310
+you can see here that we have zero one
+two three four
+
+40
+00:02:43,310 --> 00:02:46,650
+now we can also do this
+
+41
+00:02:46,650 --> 00:02:50,469
+with a do while so do while
+
+42
+00:02:50,469 --> 00:02:53,539
+numb one is less than
+
+43
+00:02:53,539 --> 00:02:57,199
+or equal to 10 so
+
+44
+00:02:57,199 --> 00:03:00,598
+if number one is equal to 5% did exit
+
+45
+00:03:00,598 --> 00:03:05,449
+the do it's going to change it will be
+here with you is number one is equal to
+
+46
+00:03:05,449 --> 00:03:05,969
+7%
+
+47
+00:03:05,969 --> 00:03:09,759
+so you can see here that we get zero
+
+48
+00:03:09,759 --> 00:03:13,870
+one 23 456 and then it exits
+
+49
+00:03:13,870 --> 00:03:17,230
+now we can also do
+
+50
+00:03:17,229 --> 00:03:20,329
+is let's say our do while loop is
+
+51
+00:03:20,330 --> 00:03:26,069
+not incrementing by one so what if it
+skips the number five well what we can
+
+52
+00:03:26,068 --> 00:03:27,048
+do it said Oh
+
+53
+00:03:27,049 --> 00:03:30,299
+is number one equals five we can do if
+someone
+
+54
+00:03:30,299 --> 00:03:33,640
+is greater than by so season commit this
+by
+
+55
+00:03:33,639 --> 00:03:36,949
+to you can see here that we're gonna get
+
+56
+00:03:36,949 --> 00:03:40,509
+0 to for and now
+
+57
+00:03:40,509 --> 00:03:44,620
+you can see that stopped before it got
+to fight because number one was verified
+
+58
+00:03:44,620 --> 00:03:48,158
+now if we do it like this then it's
+gonna free now all the way
+
+59
+00:03:48,158 --> 00:03:54,128
+in this if statement is never gonna run
+so go ahead
+
+60
+00:03:54,128 --> 00:03:57,229
+and make a couple doing two loops that
+
+61
+00:03:57,229 --> 00:04:00,919
+exit based on certain conditions you can
+do it differently than I did
+
+62
+00:04:00,919 --> 00:04:04,829
+I encourage you to do that so you can
+learn more about the programming
+
+63
+00:04:04,830 --> 00:04:08,299
+and then once you've got that down go
+ahead and move on to the next tutorial
+
+64
+00:04:08,299 --> 00:04:09,129
+and thanks for watching
+

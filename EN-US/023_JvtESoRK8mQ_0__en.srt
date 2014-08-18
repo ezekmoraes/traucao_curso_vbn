@@ -1,0 +1,258 @@
+﻿1
+00:00:02,189 --> 00:00:06,108
+hello youtube same here from YouTube dot
+com slash on live gamer for the New
+
+2
+00:00:06,108 --> 00:00:06,790
+Boston
+
+3
+00:00:06,790 --> 00:00:10,800
+and this tutorial we'll be taking a look
+at comparing strings
+
+4
+00:00:10,800 --> 00:00:14,450
+says go and get started we're gonna come
+down here
+
+5
+00:00:14,449 --> 00:00:18,608
+under our main cell and we're going to
+create a couple variables
+
+6
+00:00:18,609 --> 00:00:21,660
+we'll start off by creating a string
+
+7
+00:00:21,660 --> 00:00:24,679
+so we'll just call it users stream
+
+8
+00:00:24,679 --> 00:00:29,678
+as string elsa equal to nothing
+
+9
+00:00:29,678 --> 00:00:33,759
+and they will declare another string
+computer string
+
+10
+00:00:33,759 --> 00:00:38,030
+as string they will set that one equal
+to
+
+11
+00:00:38,030 --> 00:00:42,750
+on live gamer now or gonna do
+
+12
+00:00:42,750 --> 00:00:47,609
+is we're going to prompt the user to
+enter in a string so
+
+13
+00:00:47,609 --> 00:00:52,479
+console dot right line please
+
+14
+00:00:52,479 --> 00:00:59,479
+enter a stream so there was shelling get
+what they type in
+
+15
+00:01:06,859 --> 00:01:11,118
+said that we have with it acted we're
+going to use the string doc compare
+
+16
+00:01:11,118 --> 00:01:11,760
+function
+
+17
+00:01:11,760 --> 00:01:15,780
+so we're gonna console dot right wine
+
+18
+00:01:15,780 --> 00:01:19,390
+and which can it typed
+
+19
+00:01:19,390 --> 00:01:25,649
+string dot compare every reply going to
+compare
+
+20
+00:01:25,649 --> 00:01:28,859
+user string to
+
+21
+00:01:28,859 --> 00:01:32,030
+computer string so that is our two
+
+22
+00:01:32,030 --> 00:01:35,820
+arguments for our string to compare the
+first one
+
+23
+00:01:35,819 --> 00:01:41,489
+is the showing that where going to ca
+that we're going to compare to the first
+
+24
+00:01:41,489 --> 00:01:42,009
+ring
+
+25
+00:01:42,009 --> 00:01:46,090
+so here if you understand what that
+means
+
+26
+00:01:46,090 --> 00:01:49,689
+a good show you so they will do console
+to reason I'd
+
+27
+00:01:49,689 --> 00:01:55,890
+now we run this you can see that I type
+
+28
+00:01:55,890 --> 00:01:59,250
+on live gamer
+
+29
+00:01:59,250 --> 00:02:03,000
+it had s is going to give me the value
+of one
+
+30
+00:02:03,000 --> 00:02:07,329
+because it is comparing destroying to
+
+31
+00:02:07,329 --> 00:02:10,340
+the second-string now if we replace
+these
+
+32
+00:02:10,340 --> 00:02:13,989
+input it backwards
+
+33
+00:02:13,989 --> 00:02:20,989
+we're going to get a value have -1
+
+34
+00:02:24,620 --> 00:02:28,650
+you can see out there that gives us -1
+because instead of comparing the string
+
+35
+00:02:28,650 --> 00:02:29,549
+that they gave us
+
+36
+00:02:29,549 --> 00:02:33,950
+to the first ring were comparing the
+first string to string that they gave us
+
+37
+00:02:33,949 --> 00:02:37,169
+there might be a little confusing but
+I'm you can mess around
+
+38
+00:02:37,169 --> 00:02:41,250
+if you want and now we can also make
+this
+
+39
+00:02:41,250 --> 00:02:45,930
+case insensitive so even if they make
+the whole thing in capital letters
+
+40
+00:02:45,930 --> 00:02:50,230
+comparing it to this right here is going
+to give us
+
+41
+00:02:50,229 --> 00:02:53,798
+a value of $0 so all she had to do this
+
+42
+00:02:53,799 --> 00:02:58,650
+which can type use a string and we're
+going to compare that to computer string
+
+43
+00:02:58,650 --> 00:03:02,379
+in for a third argument it's got ignore
+case
+
+44
+00:03:02,378 --> 00:03:05,739
+as boolean right here which can attack
+true
+
+45
+00:03:05,739 --> 00:03:09,780
+so that I can type it anywhere they want
+they can type it
+
+46
+00:03:09,780 --> 00:03:14,049
+all caps all lower case they can switch
+off between cap similar case
+
+47
+00:03:14,049 --> 00:03:17,290
+whatever they want to do and I it %uh
+still
+
+48
+00:03:17,289 --> 00:03:21,719
+give us a correct value so
+
+49
+00:03:21,719 --> 00:03:28,719
+if I type quite a bit like this
+
+50
+00:03:30,180 --> 00:03:34,960
+is going to give us a value of $0
+because it compares a case-insensitive
+
+51
+00:03:34,960 --> 00:03:39,230
+and it just checked to see if these are
+the same
+
+52
+00:03:39,229 --> 00:03:44,289
+as on live gamer so
+
+53
+00:03:44,289 --> 00:03:48,400
+that was a pretty simple tutorial you
+can use this
+
+54
+00:03:48,400 --> 00:03:51,620
+for a bunch of different things in your
+programs
+
+55
+00:03:51,620 --> 00:03:55,259
+and go ahead clear out the I get used to
+it and what you don't that
+
+56
+00:03:55,259 --> 00:03:57,139
+go ahead and move on to the next
+tutorial
+

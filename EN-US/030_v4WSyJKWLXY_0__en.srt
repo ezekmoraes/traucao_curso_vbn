@@ -1,0 +1,303 @@
+﻿1
+00:00:01,360 --> 00:00:05,020
+hello youtube same here from you to dot
+com slash on that game it for the New
+
+2
+00:00:05,019 --> 00:00:05,679
+Boston
+
+3
+00:00:05,679 --> 00:00:09,199
+and this tutorial gonna be taking a look
+at the do
+
+4
+00:00:09,199 --> 00:00:12,859
+until loop so now basically what to do
+until it appears
+
+5
+00:00:12,859 --> 00:00:16,858
+is it similar to the for the in that it
+will do a certain block of code
+
+6
+00:00:16,859 --> 00:00:20,320
+over and over again until a certain
+value is reached
+
+7
+00:00:20,320 --> 00:00:23,350
+but the differences is that when you use
+a for loop
+
+8
+00:00:23,350 --> 00:00:27,289
+the development knows exactly how many
+times that for the is going to run
+
+9
+00:00:27,289 --> 00:00:30,470
+so let's say we did Fortnum one equals 1
+
+10
+00:00:30,469 --> 00:00:35,808
+to 20 we know that that's gonna go
+twenty ties because we specified
+
+11
+00:00:35,808 --> 00:00:40,119
+that it needs to go that many times now
+the do until loop
+
+12
+00:00:40,119 --> 00:00:43,669
+it will run and until
+
+13
+00:00:43,670 --> 00:00:47,679
+a certain value is reached and now
+sometimes this around
+
+14
+00:00:47,679 --> 00:00:50,780
+unless it for example we make it due
+into
+
+15
+00:00:50,780 --> 00:00:53,789
+I do until number one equals
+
+16
+00:00:53,789 --> 00:00:57,750
+10 is good run ten times or it could
+write it thousand times
+
+17
+00:00:57,750 --> 00:01:01,439
+if no more in is equal to let's say
+
+18
+00:01:01,439 --> 00:01:05,118
+negative 990 there around a thousand
+times
+
+19
+00:01:05,118 --> 00:01:08,250
+now let's go ahead and make a do until
+
+20
+00:01:08,250 --> 00:01:11,478
+example so go ahead and select a new
+project
+
+21
+00:01:11,478 --> 00:01:14,789
+will do a console application and will
+type
+
+22
+00:01:14,790 --> 00:01:21,790
+do until now it's humid here
+
+23
+00:01:27,829 --> 00:01:30,969
+okay that's go ahead and add console dot
+
+24
+00:01:30,969 --> 00:01:35,400
+redline so I won't forget that at the
+end and now it's come up here
+
+25
+00:01:35,400 --> 00:01:40,390
+and will declare a variable sodium gnome
+one
+
+26
+00:01:40,390 --> 00:01:44,859
+as integer and we'll set it equal to
+
+27
+00:01:44,859 --> 00:01:48,049
+negative well she said it was 0-2 start
+with
+
+28
+00:01:48,049 --> 00:01:51,780
+a case in our what we're going to do
+
+29
+00:01:51,780 --> 00:01:55,159
+is we are are going to create are do
+until
+
+30
+00:01:55,159 --> 00:02:00,289
+so tight do until numb one is equal to
+
+31
+00:02:00,290 --> 00:02:05,000
+let's do 10 and you can see here that
+create this
+
+32
+00:02:05,000 --> 00:02:08,550
+loop word for us so basically what this
+means is
+
+33
+00:02:08,550 --> 00:02:12,640
+is similar to the next in the for the 10
+hits this day be right here
+
+34
+00:02:12,639 --> 00:02:16,099
+is good come back around to the top do
+until then
+
+35
+00:02:16,099 --> 00:02:19,620
+and if num 1 is not equal to 10
+
+36
+00:02:19,620 --> 00:02:23,759
+that is gonna go ahead and keep looping
+until them one is equal to 10
+
+37
+00:02:23,759 --> 00:02:30,079
+instead go down to the line after the
+loop statement okay so what we want to
+
+38
+00:02:30,080 --> 00:02:31,920
+do and tell them what is it will attend
+
+39
+00:02:31,919 --> 00:02:35,729
+so decide consul to right line
+
+40
+00:02:35,729 --> 00:02:39,639
+no one now
+
+41
+00:02:39,639 --> 00:02:43,229
+if we run this the new we it will print
+out
+
+42
+00:02:43,229 --> 00:02:46,340
+0 over and over and over again because
+we have in committed
+
+43
+00:02:46,340 --> 00:02:50,280
+no more it's always going to be quite a
+zero so it's just you
+
+44
+00:02:50,280 --> 00:02:54,250
+after concert outright line on one was
+typed number one
+
+45
+00:02:54,250 --> 00:02:59,330
+place equals 1 so basically what this is
+gonna do
+
+46
+00:02:59,330 --> 00:03:02,769
+is going to print out no boy this can
+add one to it is your
+
+47
+00:03:02,769 --> 00:03:06,420
+is going to loop until number is
+acquitted is gonna do counsel to
+
+48
+00:03:06,419 --> 00:03:10,509
+relied sega's if you read this
+
+49
+00:03:10,509 --> 00:03:14,560
+egos one 2345
+
+50
+00:03:14,560 --> 00:03:17,849
+6789 now you can see that it stops at
+night
+
+51
+00:03:17,849 --> 00:03:22,609
+the reason it does is is because it does
+it until then one Eagle said
+
+52
+00:03:22,610 --> 00:03:26,790
+so if num what is the quality and is not
+going to do it now if we set the equal
+
+53
+00:03:26,789 --> 00:03:27,409
+to 11
+
+54
+00:03:27,409 --> 00:03:33,539
+that it would turn out all the way up to
+10 now we can also a permit number one
+
+55
+00:03:33,539 --> 00:03:34,620
+in different values
+
+56
+00:03:34,620 --> 00:03:41,620
+so can you know my own place equals two
+a conceive we run this week 02 4628
+
+57
+00:03:41,810 --> 00:03:48,810
+now can also set no mind to a different
+value other than zero at the beginning
+
+58
+00:03:49,030 --> 00:03:55,250
+so be set equal to -20 if we go ahead
+and do until numb one equals 10 is going
+
+59
+00:03:55,250 --> 00:03:55,610
+to do it
+
+60
+00:03:55,610 --> 00:03:59,959
+a different Amanda times says gonna
+start native 20 -18 as
+
+61
+00:03:59,959 --> 00:04:04,459
+it committed by two all the way until he
+gets to 8 so
+
+62
+00:04:04,459 --> 00:04:07,930
+go ahead and practice im a couple do 12
+lives
+
+63
+00:04:07,930 --> 00:04:11,300
+I want you got those down you know
+you're not gonna forget him go ahead and
+
+64
+00:04:11,300 --> 00:04:12,569
+move on to the next tutorial
+
+65
+00:04:12,568 --> 00:04:13,599
+and thanks for watching guys
+

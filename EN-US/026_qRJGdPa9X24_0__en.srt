@@ -1,0 +1,308 @@
+﻿1
+00:00:02,759 --> 00:00:05,580
+hello youtube same here from you to dot
+com slash
+
+2
+00:00:05,580 --> 00:00:08,900
+on live gamer for the New Boston and its
+adjoining
+
+3
+00:00:08,900 --> 00:00:12,000
+when we take a look at a for loop
+
+4
+00:00:12,000 --> 00:00:15,449
+now loops are a very important part of
+programming
+
+5
+00:00:15,449 --> 00:00:18,640
+basically when loops do is it will
+repeat
+
+6
+00:00:18,640 --> 00:00:21,730
+a syriza code or a block of code
+
+7
+00:00:21,730 --> 00:00:25,210
+for you a certain amount of times now
+with the for loop
+
+8
+00:00:25,210 --> 00:00:28,760
+it does that Baku code however many
+times you want it to you
+
+9
+00:00:28,760 --> 00:00:31,810
+in there are going to be using loops
+that will do it based on
+
+10
+00:00:31,809 --> 00:00:37,808
+other things so let's go and get started
+we're gonna go ahead and create a very
+
+11
+00:00:37,808 --> 00:00:38,250
+able
+
+12
+00:00:38,250 --> 00:00:42,009
+and we'll just call it in one
+
+13
+00:00:42,009 --> 00:00:45,369
+as integer now we're going to do
+
+14
+00:00:45,369 --> 00:00:48,659
+is we're going to create are for loop so
+in sarra
+
+15
+00:00:48,659 --> 00:00:52,299
+plays in key word for ever going to
+specify
+
+16
+00:00:52,299 --> 00:00:56,679
+int1 every insect in one equal or
+something because is it
+
+17
+00:00:56,679 --> 00:00:59,829
+it with anything yet so now you can
+start
+
+18
+00:00:59,829 --> 00:01:03,039
+41 and they were going to use the
+keyword to
+
+19
+00:01:03,039 --> 00:01:07,750
+she's 220 and then you can see that
+
+20
+00:01:07,750 --> 00:01:11,118
+it adds and next for us so basically
+what this does
+
+21
+00:01:11,118 --> 00:01:15,259
+is it takes it starts out with for which
+tells it that we're going to be making a
+
+22
+00:01:15,259 --> 00:01:15,709
+loop
+
+23
+00:01:15,709 --> 00:01:19,099
+it takes int1 and says equal to 1
+
+24
+00:01:19,099 --> 00:01:22,679
+and it's going to do it from one to 20
+so
+
+25
+00:01:22,680 --> 00:01:25,770
+the first time around for the it once
+you meet your One
+
+26
+00:01:25,769 --> 00:01:29,239
+it when it comes back up to the top in
+one is going to be equal to 2
+
+27
+00:01:29,239 --> 00:01:32,969
+and in three and then poor and so on and
+so forth
+
+28
+00:01:32,969 --> 00:01:36,310
+so in one is gonna go all the way up to
+20
+
+29
+00:01:36,310 --> 00:01:39,340
+and then once it hits 20 it'll run deep
+
+30
+00:01:39,340 --> 00:01:42,719
+the code the for loop on what time in
+the most secret 21
+
+31
+00:01:42,719 --> 00:01:47,658
+it's not gonna do the for loop again so
+to demonstrate this
+
+32
+00:01:47,659 --> 00:01:50,680
+hours type: consul da right wine
+
+33
+00:01:50,680 --> 00:01:54,070
+int1
+
+34
+00:01:54,069 --> 00:01:59,898
+is equal to and was gonna go ahead and
+use our
+
+35
+00:01:59,899 --> 00:02:03,040
+inside and we're going to type int
+
+36
+00:02:03,040 --> 00:02:06,109
+1 so basically what this does is it says
+
+37
+00:02:06,109 --> 00:02:09,300
+in one is able to and it takes the
+current value it wanted
+
+38
+00:02:09,300 --> 00:02:12,400
+because we don't know what were it one
+is able to witness can
+
+39
+00:02:12,400 --> 00:02:16,530
+to but the variable name there now in a
+new console
+
+40
+00:02:16,530 --> 00:02:22,439
+died redline and if we run this
+
+41
+00:02:22,439 --> 00:02:26,300
+you can see that it says
+
+42
+00:02:26,300 --> 00:02:29,480
+in was equal to 1 in one single to
+
+43
+00:02:29,479 --> 00:02:32,699
+it one is equal to 3 and it'll go all
+the way down
+
+44
+00:02:32,699 --> 00:02:36,649
+until it one is equal to 20 now
+
+45
+00:02:36,650 --> 00:02:39,800
+you can change this number appeared to
+do the
+
+46
+00:02:39,800 --> 00:02:44,219
+for loop as many times as you want so we
+can even do it a hundred times
+
+47
+00:02:44,219 --> 00:02:47,859
+you can see that has
+
+48
+00:02:47,860 --> 00:02:51,790
+100 by Jay here it starts off with one
+
+49
+00:02:51,789 --> 00:02:58,789
+it goes all the way up to 100 but here
+here's one thing
+
+50
+00:02:59,560 --> 00:03:03,189
+that will invalidate are for you and
+keep you from running
+
+51
+00:03:03,189 --> 00:03:06,609
+so if we start out for it in one Eagles
+won
+
+52
+00:03:06,610 --> 00:03:10,970
+in there we go to -1 you can see that
+
+53
+00:03:10,969 --> 00:03:14,370
+it won't print out anything because
+default
+
+54
+00:03:14,370 --> 00:03:19,230
+for loops workout up one value so since
+in one starts at one
+
+55
+00:03:19,229 --> 00:03:23,359
+whenever cuz whenever hits the next
+keyword right here
+
+56
+00:03:23,360 --> 00:03:27,590
+gonna send it back up to this poor is
+going to add 1281
+
+57
+00:03:27,590 --> 00:03:31,848
+it says it at one ads want it one in one
+is now equal to 2
+
+58
+00:03:31,848 --> 00:03:34,969
+in our through for that goes to -1
+
+59
+00:03:34,969 --> 00:03:41,969
+so stuck in a rut all said I'll you've
+learned a little bit about four lives
+
+60
+00:03:42,610 --> 00:03:47,299
+you can go ahead and make your own for
+the and they're very useful
+
+61
+00:03:47,299 --> 00:03:50,780
+and we're gonna be using them a lot
+later on in programming there's a lot of
+
+62
+00:03:50,780 --> 00:03:53,199
+other lives here milling about you gonna
+be learning about
+
+63
+00:03:53,199 --> 00:03:56,369
+on so far within for each
+
+64
+00:03:56,370 --> 00:04:00,810
+they were going to learn do until do
+while there's year while loops
+
+65
+00:04:00,810 --> 00:04:04,938
+and and there's a lot of other loops
+that a very useful in programming
+
+66
+00:04:04,938 --> 00:04:07,519
+so thanks for watching and stay tuned to
+the next tutorial
+

@@ -1,0 +1,290 @@
+﻿1
+00:00:01,740 --> 00:00:04,459
+hello youtube same here from you to dot
+com slash
+
+2
+00:00:04,459 --> 00:00:07,980
+on live gamer for the New Boston in this
+tutorial
+
+3
+00:00:07,980 --> 00:00:11,169
+we're going to be taking a look at
+exiting a for loop
+
+4
+00:00:11,169 --> 00:00:16,170
+early now it's going to get started
+
+5
+00:00:16,170 --> 00:00:20,760
+will create a new project liked consul
+application
+
+6
+00:00:20,760 --> 00:00:26,410
+and we'll just name it exit for Lou and
+then click OK
+
+7
+00:00:26,410 --> 00:00:31,550
+now is wait for to our project and zoom
+in a bit here
+
+8
+00:00:31,550 --> 00:00:36,549
+okay so now let's go ahead
+
+9
+00:00:36,549 --> 00:00:40,839
+and creator for versus type
+
+10
+00:00:40,840 --> 00:00:45,129
+cancelled outright lied immodest label
+this one
+
+11
+00:00:45,128 --> 00:00:52,128
+as normal for loop now let's go ahead
+and create
+
+12
+00:00:53,119 --> 00:00:58,429
+a simple for them so for no Moines
+
+13
+00:00:58,429 --> 00:01:03,698
+equals 1 to 30 let's go ahead
+
+14
+00:01:03,698 --> 00:01:07,438
+and printout num 1 so canceled our
+
+15
+00:01:07,438 --> 00:01:10,529
+right line no wine
+
+16
+00:01:10,530 --> 00:01:13,849
+so this is a very
+
+17
+00:01:13,849 --> 00:01:17,169
+fairly simple for the now she's at a
+space here
+
+18
+00:01:17,170 --> 00:01:21,840
+so they're being empty line announced
+tell them
+
+19
+00:01:21,840 --> 00:01:26,290
+that this is a for loop that is exited
+went numb one is equal to a certain
+
+20
+00:01:26,290 --> 00:01:26,859
+value
+
+21
+00:01:26,859 --> 00:01:33,859
+so consul to right line for a loop
+
+22
+00:01:34,540 --> 00:01:41,540
+that exits before it's finished
+
+23
+00:01:44,019 --> 00:01:47,459
+so now it's great another for the so for
+now I'm one
+
+24
+00:01:47,459 --> 00:01:52,750
+equals 1 230 let's go ahead and do
+console dar
+
+25
+00:01:52,750 --> 00:01:56,230
+right line no
+
+26
+00:01:56,230 --> 00:01:59,570
+white okay so now we're gonna do
+
+27
+00:01:59,569 --> 00:02:02,759
+is we're going to test the value of Nome
+wine
+
+28
+00:02:02,760 --> 00:02:07,350
+to see if it's equal or something and if
+it is they were gonna go ahead and exit
+
+29
+00:02:07,349 --> 00:02:09,879
+before that so we gonna do this by using
+a simple
+
+30
+00:02:09,879 --> 00:02:14,079
+a statement so if no Moines equals
+
+31
+00:02:14,080 --> 00:02:17,560
+23 then
+
+32
+00:02:17,560 --> 00:02:21,640
+what are we gonna do which can use the
+keyword exit which is
+
+33
+00:02:21,639 --> 00:02:25,329
+exit procedure a block in chance for his
+execution immediately to the statement
+
+34
+00:02:25,330 --> 00:02:26,670
+following the procedure call
+
+35
+00:02:26,669 --> 00:02:30,759
+or block definition so basically what
+that means
+
+36
+00:02:30,759 --> 00:02:34,609
+is that if no more physical 23 is gonna
+hit is
+
+37
+00:02:34,610 --> 00:02:38,650
+exit statement its gonna skip all the
+way down to this I'm right here I'm
+
+38
+00:02:38,650 --> 00:02:39,939
+typing is coming
+
+39
+00:02:39,939 --> 00:02:43,150
+because that is
+
+40
+00:02:43,150 --> 00:02:48,039
+after the if statement and after the for
+that so now if we go ahead and run this
+
+41
+00:02:48,039 --> 00:02:51,780
+see it closes their
+
+42
+00:02:51,780 --> 00:02:55,209
+go ahead and Yukon so I
+
+43
+00:02:55,209 --> 00:03:01,468
+redline
+
+44
+00:03:01,468 --> 00:03:05,579
+cases going to go to the top agencies as
+normal for the
+
+45
+00:03:05,579 --> 00:03:08,859
+he says one two three four five and so
+on
+
+46
+00:03:08,859 --> 00:03:12,730
+all the way down into it gets the value
+30 announces
+
+47
+00:03:12,729 --> 00:03:16,289
+for the exits before it's finished it
+started the value or in
+
+48
+00:03:16,289 --> 00:03:19,590
+he goes all the way down to the value 23
+and
+
+49
+00:03:19,590 --> 00:03:25,348
+exits the former now we can also do this
+
+50
+00:03:25,348 --> 00:03:29,699
+if we step the value so for number one
+
+51
+00:03:29,699 --> 00:03:33,128
+Eagles 12 30 as we step by for
+
+52
+00:03:33,128 --> 00:03:37,798
+then you can see that
+
+53
+00:03:37,799 --> 00:03:41,379
+is this is Damon is never gonna rent so
+if we run this
+
+54
+00:03:41,378 --> 00:03:45,870
+using its always 29 and it doesn't stop
+at 24
+
+55
+00:03:45,870 --> 00:03:49,819
+so we can do is we can do if num 1
+
+56
+00:03:49,818 --> 00:03:56,818
+is a load here
+
+57
+00:03:59,669 --> 00:04:03,909
+okay so if num 1 is greater than 23
+
+58
+00:04:03,909 --> 00:04:10,909
+then exit the for loop see can see that
+egos 159 1317
+
+59
+00:04:11,349 --> 00:04:14,590
+2125 and then exits for the
+
+60
+00:04:14,590 --> 00:04:19,069
+because now I'm one is greater than 23
+so
+
+61
+00:04:19,069 --> 00:04:22,459
+go ahead and make a couple for loops
+that exit
+
+62
+00:04:22,459 --> 00:04:25,899
+under certain condition in what you got
+that down
+
+63
+00:04:25,899 --> 00:04:29,589
+in you remember it go ahead and move on
+to the next tutorial so thanks for
+
+64
+00:04:29,589 --> 00:04:29,909
+watching
+

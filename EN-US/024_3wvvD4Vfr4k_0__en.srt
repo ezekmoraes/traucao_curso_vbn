@@ -1,0 +1,283 @@
+﻿1
+00:00:01,169 --> 00:00:05,200
+hello youtube same here from you to dot
+com slash on live gamer for the New
+
+2
+00:00:05,200 --> 00:00:05,890
+Boston
+
+3
+00:00:05,889 --> 00:00:09,070
+in this tutorial we'll be taking a look
+at the
+
+4
+00:00:09,070 --> 00:00:14,469
+Select Case statement now this like a
+safe statement is very similar to the
+
+5
+00:00:14,468 --> 00:00:19,009
+if statement but sometimes you need to
+use a slight case instead
+
+6
+00:00:19,010 --> 00:00:22,630
+if because it's a lot more efficient and
+arts wat
+
+7
+00:00:22,629 --> 00:00:25,919
+this to you as we start programming so
+it's going to get started
+
+8
+00:00:25,920 --> 00:00:30,519
+we're gonna create a variable and we'll
+call it my int
+
+9
+00:00:30,518 --> 00:00:35,289
+and we're just going to make any integer
+it's now Roy
+
+10
+00:00:35,289 --> 00:00:40,070
+what we're gonna do is work going to you
+get the integer from the user
+
+11
+00:00:40,070 --> 00:00:43,289
+such as ask them for an integer
+
+12
+00:00:43,289 --> 00:00:46,769
+please
+
+13
+00:00:46,770 --> 00:00:53,770
+inter integer nodes can get with the
+typing
+
+14
+00:00:57,929 --> 00:01:00,929
+and now we're going to do is we're going
+to create Arcelik
+
+15
+00:01:00,929 --> 00:01:05,769
+Select Case statement so you start off
+by typing select it says
+
+16
+00:01:05,769 --> 00:01:09,700
+runs one of several groups statements
+depending on the value of an expression
+
+17
+00:01:09,700 --> 00:01:12,750
+so actor select where type
+
+18
+00:01:12,750 --> 00:01:15,959
+case there says the same thing
+
+19
+00:01:15,959 --> 00:01:20,679
+in our unity is we're going to type in
+our variable that we can use for the
+
+20
+00:01:20,680 --> 00:01:21,618
+Select Case
+
+21
+00:01:21,618 --> 00:01:24,899
+statement so in our case we can use my
+int
+
+22
+00:01:24,899 --> 00:01:28,390
+any Zune Press inter iMac the ads
+
+23
+00:01:28,390 --> 00:01:33,069
+and select for you so what it's like a
+statement does
+
+24
+00:01:33,069 --> 00:01:36,700
+is that it starts off by checking the
+first case
+
+25
+00:01:36,700 --> 00:01:41,289
+so let's just do case 0 console dot
+right line
+
+26
+00:01:41,289 --> 00:01:44,859
+hello
+
+27
+00:01:44,859 --> 00:01:48,189
+in with you case
+
+28
+00:01:48,189 --> 00:01:52,509
+wide agency there that whenever you
+create a case
+
+29
+00:01:52,509 --> 00:01:57,200
+you go into start by using the keyword
+case
+
+30
+00:01:57,200 --> 00:02:01,109
+you can add whichever whatever you want
+it to be so
+
+31
+00:02:01,109 --> 00:02:05,149
+in our case raising it suggests over the
+integers equal to 0 thing I do this
+
+32
+00:02:05,149 --> 00:02:08,159
+and you can do this industry surveys
+showing
+
+33
+00:02:08,159 --> 00:02:12,989
+is equal to this story here go ahead and
+do whatever's in here
+
+34
+00:02:12,989 --> 00:02:16,930
+now as I saying I can in a row to myself
+there
+
+35
+00:02:16,930 --> 00:02:21,069
+by with us like a statement the reason
+it's more efficient than an if statement
+
+36
+00:02:21,068 --> 00:02:25,289
+is that ill go through and the start
+
+37
+00:02:25,289 --> 00:02:28,709
+it's like a statement in a case 0 is
+true
+
+38
+00:02:28,709 --> 00:02:31,989
+in its gonna go ahead and in this led
+k-state for you
+
+39
+00:02:31,989 --> 00:02:35,890
+diving it take a look at any other cases
+you have see could have hundreds and
+
+40
+00:02:35,889 --> 00:02:37,018
+hundreds of cases
+
+41
+00:02:37,019 --> 00:02:40,269
+but as soon as it reaches the the one
+case is looking for
+
+42
+00:02:40,269 --> 00:02:43,700
+you know exit your select k-state me now
+if you use
+
+43
+00:02:43,699 --> 00:02:46,958
+if and else here then is going to
+
+44
+00:02:46,959 --> 00:02:50,408
+even though or excuse because it's going
+to look at all the ALCS
+
+45
+00:02:50,408 --> 00:02:53,429
+and that's a reason you do when you
+select case
+
+46
+00:02:53,430 --> 00:02:57,069
+over if Chelsea so
+
+47
+00:02:57,068 --> 00:03:04,068
+with us to case one will add a couple
+more cases here
+
+48
+00:03:21,949 --> 00:03:25,939
+okay so now that we have three cases
+we're gonna go ahead and run our program
+
+49
+00:03:25,939 --> 00:03:30,909
+yeah let's not forget to do cancelled
+out remind so it's Rustin put something
+
+50
+00:03:30,909 --> 00:03:32,530
+for the program closes
+
+51
+00:03:32,530 --> 00:03:35,640
+and if we run this
+
+52
+00:03:35,639 --> 00:03:39,199
+it'll say please enter an integer
+
+53
+00:03:39,199 --> 00:03:42,699
+sofa type: 0 is gonna say hello
+
+54
+00:03:42,699 --> 00:03:47,149
+and will run this a couple more times
+and go through each case
+
+55
+00:03:47,150 --> 00:03:52,170
+if we type 1 you know say bye and then
+
+56
+00:03:52,169 --> 00:03:55,829
+if we typed to you ill say good morning
+
+57
+00:03:55,830 --> 00:03:59,260
+so a site case statement
+
+58
+00:03:59,259 --> 00:04:03,229
+is fairly simple its quite similar to
+the
+
+59
+00:04:03,229 --> 00:04:06,429
+else here and what you know that down
+
+60
+00:04:06,430 --> 00:04:09,810
+go ahead and move on to the next 20 and
+we're gonna be learning more about us
+
+61
+00:04:09,810 --> 00:04:11,289
+like case and thanks for watching
+

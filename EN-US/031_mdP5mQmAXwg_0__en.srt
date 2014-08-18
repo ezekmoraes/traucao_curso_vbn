@@ -1,0 +1,295 @@
+﻿1
+00:00:02,020 --> 00:00:04,980
+hello youtube same here from YouTube dot
+com slash
+
+2
+00:00:04,980 --> 00:00:08,790
+on life gamer for the New Boston
+anticipatory ok we're going to be taking
+
+3
+00:00:08,789 --> 00:00:09,388
+a look
+
+4
+00:00:09,388 --> 00:00:13,449
+at the do while loop so basically what
+to do while loop is
+
+5
+00:00:13,449 --> 00:00:16,989
+is its sounds very similar to do until
+loop
+
+6
+00:00:16,989 --> 00:00:20,778
+but the concept of the is completely
+opposite
+
+7
+00:00:20,778 --> 00:00:24,480
+now I mean by this is that the do until
+you
+
+8
+00:00:24,480 --> 00:00:28,518
+will perform ace said code
+
+9
+00:00:28,518 --> 00:00:31,809
+until a value or until something is true
+
+10
+00:00:31,809 --> 00:00:35,280
+now the do while loop is completely
+opposite
+
+11
+00:00:35,280 --> 00:00:39,050
+it will perform a block of code
+
+12
+00:00:39,049 --> 00:00:43,409
+while a value is true and that was that
+value is false its gonna stop
+
+13
+00:00:43,409 --> 00:00:46,839
+so this go ahead and make a couple
+demoss this
+
+14
+00:00:46,840 --> 00:00:51,879
+so go ahead and make a new project we
+will call it
+
+15
+00:00:51,878 --> 00:00:58,878
+do while loop make sure you've selected
+consul application
+
+16
+00:00:59,619 --> 00:01:03,269
+and go ahead and click okay
+
+17
+00:01:03,270 --> 00:01:06,650
+so does give their second to load here
+
+18
+00:01:06,650 --> 00:01:11,780
+assume in a bit
+
+19
+00:01:11,780 --> 00:01:15,759
+does go ahead and add
+
+20
+00:01:15,759 --> 00:01:19,540
+console dot redline so I don't forget to
+retire on our program
+
+21
+00:01:19,540 --> 00:01:23,729
+announced come up right about that we're
+going to create a variable
+
+22
+00:01:23,728 --> 00:01:28,359
+so we use the dim keyword was caught
+number one
+
+23
+00:01:28,359 --> 00:01:32,489
+as integer and we'll set it equal to 0
+
+24
+00:01:32,489 --> 00:01:36,709
+us go ahead and make our do while loop
+
+25
+00:01:36,709 --> 00:01:40,500
+so we're Sarah by using the do keyword
+which
+
+26
+00:01:40,500 --> 00:01:43,828
+the description says a pizza box
+statement into a balloon
+
+27
+00:01:43,828 --> 00:01:47,889
+billion condition is true so now we're
+going to add
+
+28
+00:01:47,890 --> 00:01:51,290
+while so repeats a blog statements while
+able
+
+29
+00:01:51,290 --> 00:01:55,670
+boo the condition is true so do while
+
+30
+00:01:55,670 --> 00:01:59,100
+downwind is less than or equal to
+
+31
+00:01:59,099 --> 00:02:04,269
+15 now you can see that as the loop for
+us so they're a loop back up to do while
+
+32
+00:02:04,269 --> 00:02:04,899
+statement
+
+33
+00:02:04,899 --> 00:02:09,429
+and after every iteration of the loop
+you can see we did less than or equal to
+
+34
+00:02:09,429 --> 00:02:10,310
+15% in this
+
+35
+00:02:10,310 --> 00:02:14,878
+now if we just did lesson 15 did it
+would trade out until I got to 14
+
+36
+00:02:14,878 --> 00:02:18,000
+and it would stop so we did at the equal
+so
+
+37
+00:02:18,000 --> 00:02:22,639
+corporate all the way to fifteen so wish
+to cancel
+
+38
+00:02:22,639 --> 00:02:26,378
+to right line no
+
+39
+00:02:26,378 --> 00:02:31,899
+1 okay so now we're going to take a
+minute numb one
+
+40
+00:02:31,900 --> 00:02:36,050
+because we don't is just gonna run
+forever so
+
+41
+00:02:36,050 --> 00:02:39,360
+will go ahead and you know I'm one plus
+equals 1
+
+42
+00:02:39,360 --> 00:02:43,670
+now you can see that if we run this we
+get
+
+43
+00:02:43,669 --> 00:02:50,669
+0 215 sweetness love you
+
+44
+00:02:55,740 --> 00:02:59,210
+I don't know why it's been doing this to
+me lately but on this go ahead
+
+45
+00:02:59,210 --> 00:03:04,990
+and we'll take this table right here
+number one place equals 1
+
+46
+00:03:04,990 --> 00:03:11,020
+well cut that out and they were at it
+before our print statement or outright
+
+47
+00:03:11,020 --> 00:03:14,230
+lied statement so basically what it's
+going to do is connect
+
+48
+00:03:14,229 --> 00:03:17,799
+at 12 noon first to name one first and
+that is going to bring it out
+
+49
+00:03:17,800 --> 00:03:21,680
+so we're gonna start at the value wind
+into all the way to
+
+50
+00:03:21,680 --> 00:03:27,490
+sixty now you may be wondering why is a
+go to 16
+
+51
+00:03:27,490 --> 00:03:31,810
+well because in the last one we had no
+one possible swine
+
+52
+00:03:31,810 --> 00:03:36,110
+after our costs a lot right line so it
+was equal to 16
+
+53
+00:03:36,110 --> 00:03:41,970
+actually pointed out 15 ended up back to
+top it said ok no its not less than
+
+54
+00:03:41,969 --> 00:03:44,370
+equal to 15 so it's going quite out of
+this
+
+55
+00:03:44,370 --> 00:03:47,390
+okay
+
+56
+00:03:47,389 --> 00:03:50,719
+so if we do no more impossible's on
+before
+
+57
+00:03:50,719 --> 00:03:55,490
+it will go to 16 and then it'll come
+back up and say oh it's a lot less
+
+58
+00:03:55,490 --> 00:03:56,040
+illegal
+
+59
+00:03:56,039 --> 00:04:01,129
+15 let's go ahead and exit out here so
+I'm
+
+60
+00:04:01,129 --> 00:04:04,169
+that was a quick tutorial on how to do
+
+61
+00:04:04,169 --> 00:04:09,019
+do while lives go ahead practice and do
+I live some doing to loosen the tutorial
+
+62
+00:04:09,020 --> 00:04:13,590
+before this too what you got us down go
+ahead and devices next tutorial
+
+63
+00:04:13,590 --> 00:04:14,310
+and thanks for watching
+

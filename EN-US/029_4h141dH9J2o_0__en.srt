@@ -1,0 +1,301 @@
+﻿1
+00:00:01,770 --> 00:00:06,250
+hello youtube same here from youtube.com
+size on live gamer for the New Boston
+
+2
+00:00:06,250 --> 00:00:10,189
+and St George we're gonna be taking work
+at the continue statement
+
+3
+00:00:10,189 --> 00:00:14,048
+now what this does is let's say you
+making for the
+
+4
+00:00:14,048 --> 00:00:17,278
+and it's for GNOME one equals 1 230
+
+5
+00:00:17,278 --> 00:00:20,640
+now let's say if no more days ago 23
+
+6
+00:00:20,640 --> 00:00:24,420
+in you don't want it to run that
+iteration of the for the
+
+7
+00:00:24,420 --> 00:00:27,929
+so it will print out assay would have
+cancelled outright
+
+8
+00:00:27,929 --> 00:00:31,660
+I know one and you don't want 23 to
+print out
+
+9
+00:00:31,660 --> 00:00:35,130
+you would use if number one equals 23
+
+10
+00:00:35,130 --> 00:00:38,359
+then continue for so basically what that
+does is it
+
+11
+00:00:38,359 --> 00:00:41,539
+skips that iteration the for loop moves
+on to the next one
+
+12
+00:00:41,539 --> 00:00:46,929
+so I let's go ahead and make some
+examples of this so what type cancelled
+
+13
+00:00:46,929 --> 00:00:47,960
+outright lied
+
+14
+00:00:47,960 --> 00:00:54,960
+normal for the it will make up for the
+
+15
+00:01:00,710 --> 00:01:04,129
+Asus 215 you cancelled I
+
+16
+00:01:04,129 --> 00:01:08,560
+right line nom
+
+17
+00:01:08,560 --> 00:01:12,969
+1 so basically where this is going to do
+is just gonna write out 13 15
+
+18
+00:01:12,969 --> 00:01:19,969
+on our consul now it's at a space here
+
+19
+00:01:23,929 --> 00:01:25,579
+and ice to you
+
+20
+00:01:25,579 --> 00:01:31,789
+continue statement a case and asked
+maker for the
+
+21
+00:01:31,790 --> 00:01:36,719
+that has the continue statement it so to
+start off by using the four key word
+
+22
+00:01:36,719 --> 00:01:42,349
+will create a random one variable and
+we'll go to 15
+
+23
+00:01:42,349 --> 00:01:45,409
+that number one can only be accessed
+inside this for the
+
+24
+00:01:45,409 --> 00:01:51,039
+and nowhere else because we didn't
+actually declared says go ahead
+
+25
+00:01:51,040 --> 00:01:54,250
+and type a simple if statement so
+
+26
+00:01:54,250 --> 00:01:58,040
+if number one is
+
+27
+00:01:58,040 --> 00:02:01,330
+equal to 5 then what we want to do
+
+28
+00:02:01,329 --> 00:02:04,549
+was typed continue for
+
+29
+00:02:04,549 --> 00:02:08,219
+so this is going to do is is gonna skip
+the iteration
+
+30
+00:02:08,219 --> 00:02:13,319
+no more if numb 105 its gonna skip
+whatever code comes after this
+
+31
+00:02:13,319 --> 00:02:18,129
+now his here's a check that I wanna
+teach you guys in the city were
+
+32
+00:02:18,129 --> 00:02:21,240
+if you haven't if statement with only
+one might have
+
+33
+00:02:21,240 --> 00:02:26,460
+might occur in between in India you can
+just go ahead and take out India
+
+34
+00:02:26,460 --> 00:02:29,629
+in do this instead so
+
+35
+00:02:29,629 --> 00:02:33,530
+if num 1 equals five dead continue
+
+36
+00:02:33,530 --> 00:02:37,840
+for by doing this you don't have to have
+
+37
+00:02:37,840 --> 00:02:41,680
+the in if statement and your code is a
+lot and neater
+
+38
+00:02:41,680 --> 00:02:45,300
+and easier to read so
+
+39
+00:02:45,300 --> 00:02:48,430
+now that we have a if statement and with
+just you console
+
+40
+00:02:48,430 --> 00:02:53,200
+da right line no
+
+41
+00:02:53,199 --> 00:02:56,979
+1 so if we go and run this
+
+42
+00:02:56,979 --> 00:03:00,250
+we're going to get
+
+43
+00:03:00,250 --> 00:03:03,900
+in our normal for the it says one
+
+44
+00:03:03,900 --> 00:03:07,590
+2345 6789 10
+
+45
+00:03:07,590 --> 00:03:11,400
+11 12 13 14 15 you can see that all the
+numbers are there
+
+46
+00:03:11,400 --> 00:03:14,450
+benefit cannot hear the car continues
+David
+
+47
+00:03:14,449 --> 00:03:18,439
+you can see it looks like other numbers
+there but we're missing a five-minute in
+
+48
+00:03:18,439 --> 00:03:19,359
+between for
+
+49
+00:03:19,360 --> 00:03:22,620
+and six now
+
+50
+00:03:22,620 --> 00:03:29,489
+let's do this for a couple other values
+so let's go ahead
+
+51
+00:03:29,489 --> 00:03:33,170
+and create a multiplied if statement so
+
+52
+00:03:33,169 --> 00:03:38,629
+if no money aside then continue 4 that's
+just sad
+
+53
+00:03:38,629 --> 00:03:41,959
+and or operator so
+
+54
+00:03:41,959 --> 00:03:45,819
+if someone Eagles 5 or no more in is
+equal to you
+
+55
+00:03:45,819 --> 00:03:49,858
+8 or numb one is
+
+56
+00:03:49,859 --> 00:03:55,530
+equal to you let's say 12 so
+
+57
+00:03:55,530 --> 00:03:58,870
+we can really have to make that will
+delight will just go ahead and put this
+
+58
+00:03:58,870 --> 00:03:59,780
+right after that
+
+59
+00:03:59,780 --> 00:04:04,069
+okay said I was gonna do
+
+60
+00:04:04,069 --> 00:04:09,129
+is gonna skip to number five 8 in 12 so
+if we run this
+
+61
+00:04:09,129 --> 00:04:12,789
+we're going to get 12 346
+
+62
+00:04:12,789 --> 00:04:15,849
+7 its gonna skip a is easy if I
+
+63
+00:04:15,849 --> 00:04:21,689
+any of the skipped 12 so go ahead
+
+64
+00:04:21,689 --> 00:04:24,819
+and practice some continue for statement
+you can
+
+65
+00:04:24,819 --> 00:04:29,060
+come up with different ways to use it
+within your program and I want you know
+
+66
+00:04:29,060 --> 00:04:30,399
+how to do that United forget it
+
+67
+00:04:30,399 --> 00:04:32,519
+the go ahead and move on to the next
+tutorial
+

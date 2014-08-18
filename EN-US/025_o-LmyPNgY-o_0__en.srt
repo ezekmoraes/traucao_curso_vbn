@@ -1,0 +1,293 @@
+﻿1
+00:00:01,879 --> 00:00:05,650
+hello youtube same here from you to dot
+com slash on live gamer for the New
+
+2
+00:00:05,650 --> 00:00:06,359
+Boston
+
+3
+00:00:06,359 --> 00:00:10,019
+and this tutorial we can be taking
+another look at the Select Case
+
+4
+00:00:10,019 --> 00:00:12,169
+statement so
+
+5
+00:00:12,169 --> 00:00:15,279
+this time instead of using integer we're
+going to use
+
+6
+00:00:15,279 --> 00:00:20,299
+a string so we're gonna start off by
+creating a string
+
+7
+00:00:20,300 --> 00:00:23,618
+sodium my string as string
+
+8
+00:00:23,618 --> 00:00:28,809
+said that you were nothing now we're
+going to do is we're going to
+
+9
+00:00:28,809 --> 00:00:34,850
+get my stream from the user so is gonna
+ask them
+
+10
+00:00:34,850 --> 00:00:39,439
+two interesting in my string
+
+11
+00:00:39,439 --> 00:00:42,808
+it's going to be equal to console die
+
+12
+00:00:42,808 --> 00:00:48,369
+read line and now we're going to do is
+restart
+
+13
+00:00:48,369 --> 00:00:51,750
+are select case statement so select
+
+14
+00:00:51,750 --> 00:00:56,469
+case my string gonna do it case
+
+15
+00:00:56,469 --> 00:01:02,948
+hello and wish to console died
+
+16
+00:01:02,948 --> 00:01:07,469
+right line could buy
+
+17
+00:01:07,469 --> 00:01:12,140
+and will do two more cases for the case
+
+18
+00:01:12,140 --> 00:01:19,140
+could buy then cancelled outright line
+hello
+
+19
+00:01:27,250 --> 00:01:30,170
+now in a new case I'm
+
+20
+00:01:30,170 --> 00:01:35,090
+message to you fishing
+
+21
+00:01:35,090 --> 00:01:38,728
+and the Yukon so died right line
+
+22
+00:01:38,728 --> 00:01:44,819
+boat okay so now if we run this
+
+23
+00:01:44,819 --> 00:01:49,589
+it going to close out right before
+
+24
+00:01:49,590 --> 00:01:52,640
+it's done so you had cancelled out
+redline
+
+25
+00:01:52,640 --> 00:01:56,368
+now in summer I very first tutorials I
+said that
+
+26
+00:01:56,368 --> 00:02:00,700
+this will let you read the line or the
+the program before it closes out
+
+27
+00:02:00,700 --> 00:02:04,549
+and that is true but what he actually
+really does
+
+28
+00:02:04,549 --> 00:02:07,590
+is that it waits for you to press enter
+
+29
+00:02:07,590 --> 00:02:12,319
+so whatever's you type in there in the
+line that it's reading
+
+30
+00:02:12,319 --> 00:02:19,319
+it's going to you I'm move on to the
+next eight min 20 press ENTER so
+
+31
+00:02:19,509 --> 00:02:20,919
+depressed nothing press Enter
+
+32
+00:02:20,919 --> 00:02:24,280
+then to go ahead and in our case exit
+the program because there's nothing
+
+33
+00:02:24,280 --> 00:02:25,090
+after this
+
+34
+00:02:25,090 --> 00:02:29,959
+let's go and run this and if we type
+
+35
+00:02:29,959 --> 00:02:34,599
+fishing is gonna say boat we have one
+problem
+
+36
+00:02:34,599 --> 00:02:37,889
+problem with this if we typed fishing
+
+37
+00:02:37,889 --> 00:02:42,139
+with a capital have it's not going to
+give us anything
+
+38
+00:02:42,139 --> 00:02:45,599
+so what we need to do is make this
+case-insensitive
+
+39
+00:02:45,599 --> 00:02:49,549
+so to do this which can type
+
+40
+00:02:49,549 --> 00:02:52,640
+my string died to
+
+41
+00:02:52,639 --> 00:02:56,539
+lower and
+
+42
+00:02:56,539 --> 00:03:01,699
+we need to make sure that all OVR
+strings in terror cases are lower case
+
+43
+00:03:01,699 --> 00:03:05,589
+and you can see they are we at hello
+goodbye and fishing and they're all
+
+44
+00:03:05,590 --> 00:03:06,379
+lower case
+
+45
+00:03:06,379 --> 00:03:09,989
+now we run this we can type
+
+46
+00:03:09,989 --> 00:03:13,599
+fishing in
+
+47
+00:03:13,599 --> 00:03:18,659
+anyway we want is going to give us both
+back now what other thing we need to
+
+48
+00:03:18,659 --> 00:03:19,259
+cover
+
+49
+00:03:19,259 --> 00:03:22,389
+is what happened to the type in
+something that's not a nice like a
+
+50
+00:03:22,389 --> 00:03:23,798
+statement such as
+
+51
+00:03:23,799 --> 00:03:28,379
+dark it's not to return anything so
+
+52
+00:03:28,379 --> 00:03:31,409
+to deal with this we're going to use
+what's called
+
+53
+00:03:31,409 --> 00:03:36,370
+case Ellis and this is very similar to
+the
+
+54
+00:03:36,370 --> 00:03:40,379
+else in the Italian statement is going
+to cover anything that you don't have in
+
+55
+00:03:40,378 --> 00:03:41,139
+your cases
+
+56
+00:03:41,139 --> 00:03:44,919
+so if my sing that to lower is equal to
+anything
+
+57
+00:03:44,919 --> 00:03:47,929
+other than hello goodbye or fishing
+
+58
+00:03:47,930 --> 00:03:52,409
+it's going go ahead and we'll have it
+right
+
+59
+00:03:52,409 --> 00:03:59,409
+consul dot right line I don't know what
+you're talking about
+
+60
+00:04:04,229 --> 00:04:09,949
+so now we run this we can type in
+anything in here
+
+61
+00:04:09,949 --> 00:04:16,000
+an assay I don't know what you're
+talking about so this is a very
+
+62
+00:04:16,000 --> 00:04:19,920
+fairly simple tutorial but the stuff
+attaching this is very usefull
+
+63
+00:04:19,920 --> 00:04:23,860
+and I'm going back to some so I K
+statements when you have that now down
+
+64
+00:04:23,860 --> 00:04:24,379
+to have it
+
+65
+00:04:24,379 --> 00:04:27,159
+go ahead and move on to the next
+tutorial and thanks for watching
+

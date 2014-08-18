@@ -1,0 +1,272 @@
+﻿1
+00:00:01,629 --> 00:00:04,230
+hello youtube Sam hear from you to dot
+com size
+
+2
+00:00:04,230 --> 00:00:09,030
+on my game if the New Boston initiatory
+we take another look at strings
+
+3
+00:00:09,029 --> 00:00:12,798
+now E look to change the last tutorial
+after the next
+
+4
+00:00:12,798 --> 00:00:16,149
+couple up coming to us we are asking a
+look at some other stuff that you can do
+
+5
+00:00:16,149 --> 00:00:16,839
+with strings
+
+6
+00:00:16,839 --> 00:00:21,028
+so let's go ahead and get started now it
+come up here
+
+7
+00:00:21,028 --> 00:00:24,259
+and we're going to declare a variable so
+let's go ahead
+
+8
+00:00:24,260 --> 00:00:27,880
+and im username
+
+9
+00:00:27,879 --> 00:00:32,769
+as string now or gonna do
+
+10
+00:00:32,770 --> 00:00:38,200
+is real prompt the user to enter in
+their username soldiers to cancelled
+
+11
+00:00:38,200 --> 00:00:39,020
+outright line
+
+12
+00:00:39,020 --> 00:00:42,260
+what is
+
+13
+00:00:42,259 --> 00:00:48,628
+your username now username
+
+14
+00:00:48,628 --> 00:00:51,909
+is going to be equal to you console dot
+
+15
+00:00:51,909 --> 00:00:56,709
+redline so basically just get with eight
+active now we're gonna do
+
+16
+00:00:56,710 --> 00:01:01,140
+is a unit test to see if the user name
+is a certainly so is gonna make it
+
+17
+00:01:01,140 --> 00:01:02,119
+simple is saving
+
+18
+00:01:02,119 --> 00:01:07,759
+so if username in our gonna do is win at
+a
+
+19
+00:01:07,760 --> 00:01:11,520
+period so if use named I
+
+20
+00:01:11,519 --> 00:01:14,899
+and you can see here the intellisense
+pops up with a whole buncha stuff that
+
+21
+00:01:14,900 --> 00:01:15,530
+we can do
+
+22
+00:01:15,530 --> 00:01:18,820
+and you can copy you can
+
+23
+00:01:18,819 --> 00:01:21,899
+dudack contains there's a whole bunch of
+stuff that you can use
+
+24
+00:01:21,900 --> 00:01:25,478
+I'm with strings in this is very usefull
+
+25
+00:01:25,478 --> 00:01:29,000
+so or what we're going to use is
+
+26
+00:01:29,000 --> 00:01:32,868
+username dot Lee now he read a
+description for this
+
+27
+00:01:32,868 --> 00:01:35,938
+is gonna say gets the number of
+characters
+
+28
+00:01:35,938 --> 00:01:39,679
+in the current system dusting object so
+
+29
+00:01:39,680 --> 00:01:43,270
+if username dot linked equals
+
+30
+00:01:43,269 --> 00:01:47,379
+10 did go ahead and do something
+
+31
+00:01:47,379 --> 00:01:50,879
+soldiers to console dot right line
+
+32
+00:01:50,879 --> 00:01:57,879
+you have been granted access
+
+33
+00:02:02,090 --> 00:02:04,640
+now we're going to do is we're going to
+add
+
+34
+00:02:04,640 --> 00:02:09,840
+cancelled out read 9 so that our program
+will close at one word
+
+35
+00:02:09,840 --> 00:02:13,520
+now say was your username
+
+36
+00:02:13,520 --> 00:02:18,959
+if I type in so this in carriages on so
+as to say one two three four five
+
+37
+00:02:18,959 --> 00:02:23,670
+6789 10 every prayer
+
+38
+00:02:23,669 --> 00:02:28,829
+press enter into say you have been
+granted access now fleet I
+
+39
+00:02:28,830 --> 00:02:32,010
+anything else that's not equal to 10
+
+40
+00:02:32,009 --> 00:02:36,099
+so it's just easier the more than 10
+it's not going to say anything
+
+41
+00:02:36,099 --> 00:02:39,519
+such as go back in here and at a simple
+
+42
+00:02:39,519 --> 00:02:42,569
+else know you do
+
+43
+00:02:42,569 --> 00:02:49,569
+is when a new console dot right line
+your username
+
+44
+00:02:50,669 --> 00:02:57,669
+is not the right Lee
+
+45
+00:03:02,580 --> 00:03:07,580
+so now we run this you know say what is
+your username
+
+46
+00:03:07,580 --> 00:03:11,190
+so we type something that's not 10
+catches on it was a
+
+47
+00:03:11,189 --> 00:03:16,710
+your username is not the right lead now
+we can also do it said abusing
+
+48
+00:03:16,710 --> 00:03:20,409
+if username dot link equals Ted we use
+go ahead
+
+49
+00:03:20,409 --> 00:03:23,810
+in do if he is not username startling
+
+50
+00:03:23,810 --> 00:03:29,640
+dot equals inside the arguments for
+equals
+
+51
+00:03:29,639 --> 00:03:32,649
+you know ask us for and object as
+integer
+
+52
+00:03:32,650 --> 00:03:37,520
+so we'll go ahead and do 10 right there
+this is just another way that you could
+
+53
+00:03:37,520 --> 00:03:38,780
+test the leaked value
+
+54
+00:03:38,780 --> 00:03:42,120
+views in a and I equals can be used for
+a lot of others
+
+55
+00:03:42,120 --> 00:03:46,659
+other things in Visual Basic so if you
+read this it should work so
+
+56
+00:03:46,659 --> 00:03:50,030
+1,2,3,4,5,6,7 a 9
+
+57
+00:03:50,030 --> 00:03:53,150
+10 you know say you have been great
+granted access
+
+58
+00:03:53,150 --> 00:03:56,810
+now this is a really simple to simple
+tutorial
+
+59
+00:03:56,810 --> 00:04:01,590
+annisten after practice it and go ahead
+and stay tuned for the next tutorial and
+
+60
+00:04:01,590 --> 00:04:02,229
+exhorted
+

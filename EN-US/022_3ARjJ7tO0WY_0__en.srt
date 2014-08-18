@@ -1,0 +1,256 @@
+﻿1
+00:00:02,279 --> 00:00:05,028
+hello youtube same here from YouTube dot
+com slash
+
+2
+00:00:05,028 --> 00:00:09,169
+on live gamer for the New Boston an
+initiatory we'll be taking a look
+
+3
+00:00:09,169 --> 00:00:13,179
+at replacing parts a mystery so let's go
+ahead and get started
+
+4
+00:00:13,179 --> 00:00:20,179
+we come over here to new project it was
+opens our new project window for going
+
+5
+00:00:21,640 --> 00:00:22,219
+to select
+
+6
+00:00:22,219 --> 00:00:25,899
+a consul application am skinny carmine
+
+7
+00:00:25,899 --> 00:00:32,899
+replacing substrings
+
+8
+00:00:34,689 --> 00:00:38,689
+and the police appear a bit Athens go
+ahead and click OK
+
+9
+00:00:38,689 --> 00:00:45,689
+initial our project
+
+10
+00:00:49,950 --> 00:00:54,030
+a case another project is loaded let me
+go ahead and zoom in here bit
+
+11
+00:00:54,030 --> 00:00:59,270
+a case another project has voted
+
+12
+00:00:59,270 --> 00:01:03,960
+we're gonna go ahead and create a new
+variable so was caught my string
+
+13
+00:01:03,960 --> 00:01:08,689
+ever going to create
+
+14
+00:01:08,689 --> 00:01:13,079
+a second able I wanna call it final
+string
+
+15
+00:01:13,079 --> 00:01:20,079
+okay so now or gonna do
+
+16
+00:01:20,239 --> 00:01:23,640
+is we're going to prompt the user to
+injury in any string
+
+17
+00:01:23,640 --> 00:01:27,329
+so which is going to tie
+
+18
+00:01:27,329 --> 00:01:32,969
+console die right by please
+
+19
+00:01:32,969 --> 00:01:39,228
+enter a strain now or gonna do is really
+get what they typed in
+
+20
+00:01:39,228 --> 00:01:42,409
+so my string equals console dot
+
+21
+00:01:42,409 --> 00:01:49,409
+redline okay so after we get what they
+typed in
+
+22
+00:01:51,390 --> 00:01:55,280
+we're gonna go ahead and remove part
+that string
+
+23
+00:01:55,280 --> 00:01:59,609
+or replace that part gnashing with
+another string so we're gonna type
+
+24
+00:01:59,609 --> 00:02:02,629
+final string equals
+
+25
+00:02:02,629 --> 00:02:07,868
+my stream if there were any news dot to
+see what we can use for my string
+
+26
+00:02:07,868 --> 00:02:11,800
+they see it as a whole bunch stuff here
+we're gonna type
+
+27
+00:02:11,800 --> 00:02:15,870
+replace now we're gonna do
+
+28
+00:02:15,870 --> 00:02:19,640
+is very go we're gonna go through here
+and
+
+29
+00:02:19,639 --> 00:02:24,429
+we will just type in the first argument
+a inside quotes
+
+30
+00:02:24,430 --> 00:02:28,230
+which is the all that I the value that
+we want to replace
+
+31
+00:02:28,229 --> 00:02:31,269
+ever gonna replace a with the new value
+
+32
+00:02:31,270 --> 00:02:35,580
+so let's just do and and it finally
+
+33
+00:02:35,580 --> 00:02:42,580
+we will write that out on the console
+and they were just Yukon sadat
+
+34
+00:02:45,050 --> 00:02:48,879
+read by so wat stressed input something
+for it closes
+
+35
+00:02:48,878 --> 00:02:54,939
+and I are going to start running this
+program its gonna say please enter
+
+36
+00:02:54,939 --> 00:02:55,530
+string
+
+37
+00:02:55,530 --> 00:03:00,270
+so I types and a.m. dog
+
+38
+00:03:00,270 --> 00:03:03,490
+cat Cal
+
+39
+00:03:03,490 --> 00:03:06,689
+astronomy
+
+40
+00:03:06,689 --> 00:03:10,539
+now for press enter
+
+41
+00:03:10,539 --> 00:03:13,929
+you can see that of the A's room were
+replaced with an in
+
+42
+00:03:13,930 --> 00:03:17,050
+so here we have Sam and you can see down
+here its
+
+43
+00:03:17,050 --> 00:03:20,480
+s im a cat was replaced with an N
+
+44
+00:03:20,479 --> 00:03:23,849
+and this is in shock to me it said
+astronomy
+
+45
+00:03:23,849 --> 00:03:27,310
+so we can also do this with something
+
+46
+00:03:27,310 --> 00:03:31,360
+larger than just one character supply
+type: hello in here
+
+47
+00:03:31,360 --> 00:03:35,270
+we can replace it with say goodbye
+
+48
+00:03:35,270 --> 00:03:39,890
+now if I type in something like
+
+49
+00:03:39,889 --> 00:03:44,369
+hello our live gamer
+
+50
+00:03:44,370 --> 00:03:48,379
+is to replace it with goodbye on that
+game now
+
+51
+00:03:48,379 --> 00:03:52,870
+if you don't type hello in the first
+rain it's not going to replace it at all
+
+52
+00:03:52,870 --> 00:03:59,870
+and I just so you know i right here
+serve I just typed the New Boston here
+
+53
+00:04:00,240 --> 00:04:04,930
+it is going to give me the New Boston
+back because didn't find
+
+54
+00:04:04,930 --> 00:04:09,439
+hello anyways I that's tree so this is a
+pretty
+
+55
+00:04:09,439 --> 00:04:13,550
+a simple tutorial thanks for watching
+what you guys have this
+
+56
+00:04:13,550 --> 00:04:18,079
+and nail down you know how to do it go
+ahead and move on to the next tutorial
+

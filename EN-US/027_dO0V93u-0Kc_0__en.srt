@@ -1,0 +1,324 @@
+﻿1
+00:00:01,800 --> 00:00:05,419
+hello youtube same here from you to dot
+com slash on live gamer
+
+2
+00:00:05,419 --> 00:00:09,370
+for the New Boston and in this tutorial
+we'll be taking a look at
+
+3
+00:00:09,369 --> 00:00:13,779
+step operators now the last tutorial we
+did a simple for loop
+
+4
+00:00:13,779 --> 00:00:17,460
+and in that for the loop it
+automatically
+
+5
+00:00:17,460 --> 00:00:21,330
+stepped it up by one each time the for
+loop ran now
+
+6
+00:00:21,329 --> 00:00:25,669
+sometimes you won't want to do that
+maybe you want to step it by
+
+7
+00:00:25,670 --> 00:00:28,900
+by or step by even 100
+
+8
+00:00:28,899 --> 00:00:32,558
+there's an easy way to do this by using
+what's called the step operator
+
+9
+00:00:32,558 --> 00:00:36,988
+and you can also step negative numbers
+to says go ahead and create a little
+
+10
+00:00:36,988 --> 00:00:38,339
+demo application for this
+
+11
+00:00:38,340 --> 00:00:41,370
+going up to new project
+
+12
+00:00:41,369 --> 00:00:46,308
+were consul application and we will
+discard
+
+13
+00:00:46,308 --> 00:00:51,229
+step operator and we'll just go ahead
+and click
+
+14
+00:00:51,229 --> 00:00:58,229
+okay that's two men to be here
+
+15
+00:01:03,149 --> 00:01:06,549
+okay sources add console dot
+
+16
+00:01:06,549 --> 00:01:10,600
+redline so waits for us to press ENTER
+or closer to the program
+
+17
+00:01:10,599 --> 00:01:13,618
+for it to em close the window before
+
+18
+00:01:13,618 --> 00:01:17,859
+I'm we're done reading so I'm let's go
+ahead and create
+
+19
+00:01:17,859 --> 00:01:21,509
+a for the sewing 24 no more I'm
+
+20
+00:01:21,509 --> 00:01:28,329
+equals 1 to 20 and it was to console
+doubt right line
+
+21
+00:01:28,329 --> 00:01:32,969
+no one now into making a for loop
+
+22
+00:01:32,969 --> 00:01:36,609
+you don't have to declare the variable
+name one I know I did and my last
+
+23
+00:01:36,609 --> 00:01:37,159
+tutorial
+
+24
+00:01:37,159 --> 00:01:40,250
+but it isn't necessary you can if you
+want to you
+
+25
+00:01:40,250 --> 00:01:43,420
+a case and I we got this
+
+26
+00:01:43,420 --> 00:01:48,689
+for the done as go ahead and you consul
+dot right line appear
+
+27
+00:01:48,689 --> 00:01:52,129
+normal for you
+
+28
+00:01:52,129 --> 00:01:56,609
+and let's create
+
+29
+00:01:56,609 --> 00:02:00,590
+another for the so for now I'm one
+
+30
+00:02:00,590 --> 00:02:06,569
+Eagles won 220 and then let's just do
+cancelled outright line
+
+31
+00:02:06,569 --> 00:02:09,679
+no
+
+32
+00:02:09,679 --> 00:02:12,759
+one now these are exactly the same
+
+33
+00:02:12,759 --> 00:02:17,039
+but we can do something very simple to
+make and completely different so for no
+
+34
+00:02:17,039 --> 00:02:18,620
+more niggas 12 20
+
+35
+00:02:18,620 --> 00:02:23,090
+and we just call the step operator
+incest specifies how much to implement
+
+36
+00:02:23,090 --> 00:02:24,969
+between each loop iteration
+
+37
+00:02:24,969 --> 00:02:28,359
+so that basically says whenever he gets
+down to the next
+
+38
+00:02:28,360 --> 00:02:32,180
+you whatever is after stat is going to
+be how much it adds to
+
+39
+00:02:32,180 --> 00:02:35,550
+now I'm one so it's go ahead and let's
+step
+
+40
+00:02:35,550 --> 00:02:39,180
+5 in this for the so
+
+41
+00:02:39,180 --> 00:02:42,879
+less come up here intact cancelled I
+right line
+
+42
+00:02:42,878 --> 00:02:46,810
+and then we'll do another one just saw
+it at the space
+
+43
+00:02:46,810 --> 00:02:53,810
+in between are four leaves and what to
+say step by
+
+44
+00:02:54,739 --> 00:02:59,670
+5 us create one more for them
+
+45
+00:02:59,669 --> 00:03:06,158
+to console dot right line don't do that
+one more time
+
+46
+00:03:06,158 --> 00:03:10,019
+but in this on to say step
+
+47
+00:03:10,019 --> 00:03:13,020
+by negative 4
+
+48
+00:03:13,020 --> 00:03:16,270
+says create one more for the
+
+49
+00:03:16,270 --> 00:03:19,990
+so for now I'm one equals 20
+
+50
+00:03:19,990 --> 00:03:24,330
+to 1 and with this step that
+
+51
+00:03:24,330 --> 00:03:29,830
+by negative for so what this is gonna do
+is gonna start for the past 20
+
+52
+00:03:29,830 --> 00:03:33,130
+and go down for each time into it gets
+21
+
+53
+00:03:33,129 --> 00:03:36,810
+and wish to console dot right line
+
+54
+00:03:36,810 --> 00:03:39,830
+no one
+
+55
+00:03:39,830 --> 00:03:43,400
+says go and run a program
+
+56
+00:03:43,400 --> 00:03:48,240
+and see what happens okay so appear
+
+57
+00:03:48,240 --> 00:03:51,920
+we have are normal for loop which starts
+at one
+
+58
+00:03:51,919 --> 00:03:56,780
+and goes all the way tony An cast by one
+each time in Frisco down a bit
+
+59
+00:03:56,780 --> 00:03:59,860
+we have our step by by starts out at one
+
+60
+00:03:59,860 --> 00:04:03,420
+at five to which Q g6 then gives you 11
+
+61
+00:04:03,419 --> 00:04:07,799
+in is the 16 they can see it in pre
+anything else after sixteen
+
+62
+00:04:07,800 --> 00:04:11,980
+and the reason it does is because if you
+at 5:16 is gonna be 21
+
+63
+00:04:11,979 --> 00:04:18,980
+nashnamie out at the balance the loop
+that we set and here's our step by -4
+
+64
+00:04:19,228 --> 00:04:23,250
+it starts out to any two tracks for from
+it which is
+
+65
+00:04:23,250 --> 00:04:26,259
+which makes 16 niggers and 12 than a
+
+66
+00:04:26,259 --> 00:04:29,569
+then for and it doesn't go down easier
+because once again
+
+67
+00:04:29,569 --> 00:04:35,449
+that would be at the balance that we
+separate the loop now step
+
+68
+00:04:35,449 --> 00:04:39,650
+is a very simple thing to learn and it's
+very useful though
+
+69
+00:04:39,649 --> 00:04:43,899
+and I find myself using a lot when I
+make programs as so go ahead
+
+70
+00:04:43,899 --> 00:04:47,698
+and give it a try make some programs are
+the and then once you get that down
+
+71
+00:04:47,699 --> 00:04:51,270
+go ahead and move on to the next
+tutorial so thanks for watching
+

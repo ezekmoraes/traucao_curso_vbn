@@ -1,432 +1,424 @@
-
-heuhuehuheuheuheuheuhuehuheueue teste teste
 ﻿1
 00:00:00,830 --> 00:00:04,318
-hella YouTube and welcome to your third
-microsoft visual basic tutorial
+Olá pessoal ,bem-vindos ao terceiro
+tutorial de visual basic de Microsoft
 
 2
-00:00:04,318 --> 00:00:08,210
-and this juror we'll be taking a look at
-the iDEN see what has
+00:00:04, 318--> 00:00:08, 210
+Nesta video aula nós vamos dar uma olhada
+no iDEN ver o
 
 3
-00:00:08,210 --> 00:00:12,240
-that we can use to make programs so it's
-not me started
+00:00:08, 210--> 00:00:12, 240
+que podemos usar para fazer programas,
 
 4
-00:00:12,240 --> 00:00:15,250
-appears we have our File menu
+00:00:12, 240--> 15:00:00, 250
+Aqui temos nosso menu arquivo
 
 5
-00:00:15,250 --> 00:00:19,210
-which you see a lot now the program's we
-have under the File
+00:00:15, 250--> 00:00:19, 210
+Veja que para o programa criar um programa 
+temos que criar um arquivo.
 
 6
-00:00:19,210 --> 00:00:22,890
-section we have new project we can
-create a new project
+00:00:19, 210--> 22:00:00, 890
+Temos novo projeto que é o lugar
+onde criamos o arquivo
 
 7
-00:00:22,890 --> 00:00:27,359
-obviously you can open a project you can
-open a file such as a class
+00:00:22, 890--> 00:00:27, 359
+Obviamente você pode abrir um projeto, e você pode
+abrir um arquivo como uma classe
 
 8
-00:00:27,359 --> 00:00:30,929
-or in a solution you can close out it
-was you
+00:00:27, 359--> 00:00:30, 929
+ou em uma solução, você pode fechar fora isso
 
 9
-00:00:30,928 --> 00:00:35,289
-currently working on you can close your
-project save stated I didn't save our
+00:00:30, 928--> 00:00:35, 289
+atualmente trabalhando você 
+pode fechar seu projeto e salvar
 
 10
-00:00:35,289 --> 00:00:39,558
-you can export template know what this
-means is that but say you create
+00:00:35, 289--> 00:00:39, 558
+Você pode exportar o modelo sei o que isto
+significa, mas digamos que você irá criar
 
 11
-00:00:39,558 --> 00:00:44,808
-a Windows Forms or with a spoon and you
-will be able to use that same design
+00:00:39, 558--> 00:00:44, 808
+Com o Windows Forms você
+será capaz de usar esse mesmo design
 
 12
-00:00:44,808 --> 00:00:48,019
-threw out a bunch different product
-products you can
+00:00:44, 808--> 00:00:48, 019
+jogar fora um produto diferente dos outros
+produtos que você pode
 
 13
-00:00:48,020 --> 00:00:51,340
-explore the template and so when you go
-in there to create a new project you can
+00:00:48, 020--> 00:00:51, 340
+explorar o modelo e, portanto, quando você vai
+lá dentro para criar um novo projeto, você pode
 
 14
-00:00:51,340 --> 00:00:54,059
-select that template and everything
-already be made for you
+00:00:51, 340--> 00:00:54, 059
+Selecionar o modelo e tudo
+já está feito para você
 
 15
-00:00:54,058 --> 00:00:57,269
-you could argue recent files the recent
-files
+00:00:54, 058--> 00:00:57, 269
+Você poderia argumentar recentes arquivos 
 
 16
-00:00:57,270 --> 00:01:00,270
-recent projects and solutions and you
-can
+00:00:57, 270--> 00:01:00, 270
+soluções e projetos recentes e você
+pode
 
 17
-00:01:00,270 --> 00:01:03,910
-exit the program I can use a shortcut
-are forced to do that
+00:01:00, 270--> 00:01:03, 910
+sair do programa, pode usar um atalho
+somos obrigados a fazer isso
 
 18
-00:01:03,909 --> 00:01:07,228
-nope you know Edit menu we have I do
+00:01:03, 909--> 00:01:07, 228
+No Menu Editar, podemos fazer
 
 19
-00:01:07,228 --> 00:01:12,090
-redo was pretty self-explanatory cut
-copy paste it into your selection
+00:01:07, 228--> 00:01:12-090
+refazer, corte , 
+cópia colá-lo em sua seleção
 
 20
-00:01:12,090 --> 00:01:15,189
-you can select our you can quick find
-making quick
+00:01:12, 090--> 00:01:15, 189
+Você pode selecionar a localização rápida
+
 
 21
-00:01:15,188 --> 00:01:18,469
-replace know what this is what this does
-is
+00:01:15,--> de 188 00:01:18, 469
+substituir isto faz
+que
 
 22
-00:01:18,469 --> 00:01:23,009
-it pops at this window and you can
-search for a certain
+00:01:18,--> de 469 00:01:23, 009
+Ele aparece na janela e você pode
+Pesquisar por uma determinado
 
 23
-00:01:23,009 --> 00:01:26,478
-string this is very usefull if you
-forget where something is
+00:01:23, 009--> 00:01:26, 478
+seqüência de caracteres é muito útil se você
+Esqueça onde algo é
 
 24
-00:01:26,478 --> 00:01:30,030
-you gotta find it you can also use quick
-replace
+00:01:26, 478--> 00:01:30, 030
+Você tem que encontrá-lo você também pode usar rápido
+substituir
 
 25
-00:01:30,030 --> 00:01:33,019
-to you replace something by searching
-for streaming in replacing it with
+00:01:30, 030--> 00:01:33, 019
+para você substituir algo através de pesquisa
+para streaming em substituí-lo com outra string
 
-26
-00:01:33,019 --> 00:01:33,728
-another string
 
 27
-00:01:33,728 --> 00:01:37,929
-appear in our view we can be the start
-page which is this right here
+00:01:33, 728--> 00:01:37, 929
+Nesse menu View, você pode ver
+página,
 
 28
-00:01:37,930 --> 00:01:43,479
-it gives you the get started and it's
-just some stuff that you can
+00:01:37, 930--> 00:01:43, 479
+Dá-lhe a obter começou e é
+apenas algumas coisas que você pode
 
 29
-00:01:43,478 --> 00:01:48,099
-see other makes us website or teach you
-how to use this you know the latest news
+00:01:43, 478--> 00:01:48, 099
+Ver que outros nos faz site ou te ensinam
+como usar isto que você sabe as últimas notícias
 
 30
-00:01:48,099 --> 00:01:52,530
-you can enable ours RSS feed if you want
-to get news from microsoft
+00:01:48, 099--> 00:01:52, 530
+Você pode habilitar o nosso feed RSS se você quizer
+receber notícias da microsoft
 
 31
-00:01:52,530 --> 00:01:56,899
-I can do other Windows you can view the
-database explore
+00:01:52, 530--> 00:01:56, 899
+Pode fazer outras janelas, você pode visualizar o
+ banco de dados
 
 32
-00:01:56,899 --> 00:02:01,079
-the aerialists which the area this is
-right down here you the Properties
+00:01:56, 899--> 00:02:01, 079
+as acrobatas que a área e
+Bem aqui em baixo você tem a janela
 
 33
-00:02:01,078 --> 00:02:01,559
-window
+00:02:01, 078--> 00:02:01, 559
+propriedades
 
 34
-00:02:01,560 --> 00:02:05,509
-which will show up right here once we
-start making programs Solution Explorer
+00:02:01, 560--> 00:02:05, 509
+Aqui vai aparecer quando 
+começar a fazer programas,Solution Explorer
 
 35
-00:02:05,509 --> 00:02:07,780
-which is all we have open right here
-already
+00:02:05, 509--> 00:02:07, 780
+e você pode
 
 36
-00:02:07,780 --> 00:02:11,509
-and you can view the toolbox which is
-what you use
+00:02:07, 780--> 00:02:11, 509
+exibir a caixa de ferramentas que é
+o que você usa
 
 37
-00:02:11,509 --> 00:02:15,159
-to add controls your forms you can view
+00:02:11,--> de 509 00:02:15, 159
+para adicionar controles a seus formulários e como 
+você pode ver
 
 38
-00:02:15,159 --> 00:02:18,378
-the web browser and you can also find
-results
+00:02:15, 159--> 00:02:18, 378
+o navegador e você também pode encontrar
+resultados
 
 39
-00:02:18,378 --> 00:02:21,399
-so im
+00:02:18,--> de 378 00:02:21, 399
+Então eu estou
 
 40
-00:02:21,400 --> 00:02:26,300
-you can change the options deberg if you
-want you can go and look to these a
+00:02:21, 400--> 00:02:26, 300
+Aqui você pode alterar as opções se você
+Quero que você pode ir e olhar para onde está uma
+
 
 41
-00:02:26,300 --> 00:02:27,360
-message that if you want
+00:02:26,--> de 300 00:02:27, 360
+mensagem que quer
 
 42
-00:02:27,360 --> 00:02:30,489
-and got your tools
+00:02:27,--> de 360 00:02:30, 489
+e tem suas ferramentas
 
 43
-00:02:30,489 --> 00:02:33,628
-you can view extensions for Visual Basic
-we will be using
+00:02:30,--> de 489 00:02:33, 628
+Você pode exibir as extensões para o Visual Basic,
+Nós estaremos usando
 
 44
-00:02:33,628 --> 00:02:37,280
-any extensions you can go to Settings
-you can you basic settings
+00:02:33,--> de 628 00:02:37, 280
+todas as extensões que você pode ir para as
+configurações básicas
 
 45
-00:02:37,280 --> 00:02:40,479
-expert settings reset or import and
-export settings
+00:02:37, 280--> 00:02:40, 479
+especialista em configurações, redefinir ou importar, e
+configurações de exportação
 
 46
-00:02:40,479 --> 00:02:44,259
-if you want to if you'd like to do that
-so you get a setting style
+00:02:40,--> de 479 00:02:44, 259
+poderá fazer isso
+para que você obtenha uma definição de estilo
 
 47
-00:02:44,259 --> 00:02:49,329
-he will use that in good import that
-customize it options as computing
+00:02:44,--> de 259 00:02:49, 329
+Aqui você tem a personalização 
 
 48
-00:02:49,330 --> 00:02:52,719
-options and I just wanna make sure you
-guys have something set
+00:02:49, 330--> 00:02:52, 719
+opções e eu só quero ter certeza que você
+Vocês têm algo definido
 
 49
-00:02:52,719 --> 00:02:58,979
-so go ahead and expand text editor and
-we were all languages
+00:02:52, 719--> 00:02:58, 979
+Então vá em frente e expanda o editor de texto e
+Está em todos os idiomas
 
 50
-00:02:58,979 --> 00:03:02,848
-and general I think it is
+00:02:58, 979--> 00:03:02, 848
+e eu acho que é-geral.
 
 51
-00:03:02,848 --> 00:03:07,799
-Beach so
+00:03:02, 848--> 00:03:07, 799
+vim aqui para básicos
 
 52
-00:03:07,800 --> 00:03:11,379
-come down here to basic and you can see
+00:03:07, 800--> 00:03:11, 379
+e você pode fazer
 
 53
-00:03:11,378 --> 00:03:14,579
-a box right here called my numbers make
-sure that is checked
+00:03:11, 378--> 00:03:14, 579
+uma caixa bem aqui chamada meus números
+Claro que é verificado.
 
 54
-00:03:14,580 --> 00:03:18,400
-now what we wanted why we want to check
-this is so that later on we're making
+00:03:14, 580--> 00:03:18, 400
+Agora é o que queremos, porque verificar
+isso é para que mais tarde quando estivermos fazendo
 
 55
-00:03:18,400 --> 00:03:19,140
-our programs
+00:03:18, 400--> 00:03:19, 140
+nossos programas
 
 56
-00:03:19,139 --> 00:03:23,399
-if we weren't airs the airless is gonna
-tell us what line number that's on
+00:03:19, 139--> 00:03:23, 399
+Se estivéssemos poderiamos
+digitar o número, e ele dirá em que linha está
 
 57
-00:03:23,400 --> 00:03:26,920
-is be very useful to be able to see the
-line numbers right next year code
+00:03:23, 400--> 00:03:26, 920
+é muito útil ser capaz de ver os
+números de linha á direita do código
 
 58
-00:03:26,919 --> 00:03:31,229
-so ago and click OK on that and you're
-so have
+00:03:26, 919--> 00:03:31, 229
+clique em OK
+Então tem
 
 59
-00:03:31,229 --> 00:03:34,949
-under window you can for window so what
-that does
+00:03:31, 229--> 00:03:34, 949
+sobre a janela você 
+pode fazer que
+
+
 
 60
-00:03:34,949 --> 00:03:38,649
-is let's just say which I start a job
-here you start putting
+00:03:34, 949--> 00:03:38, 649
+digamos que é o começo de um trabalho.
+
 
 61
-00:03:38,650 --> 00:03:41,870
-and you can see there we've got several
-boxes to choose from
+00:03:38, 650--> 00:03:41, 870
+e você pode ver lá que temos várias
+caixas para escolher
 
 62
-00:03:41,870 --> 00:03:46,080
-to a create a different sides and
-possible I D E swords can choose the
+00:03:41, 870--> 00:03:46, 080
+para diferentes lados e
+podem escolher o lado
 
 63
-00:03:46,080 --> 00:03:46,700
-central
+00:03:46, 080--> 00:03:46, 700
+Central
 
 64
-00:03:46,699 --> 00:03:50,179
-parts which is where it was before I we
-can also
+00:03:46, 699--> 00:03:50, 179
+que é onde estava antes nós
+comerçarmos
 
 65
-00:03:50,180 --> 00:03:53,400
-doctor we do which is what we did hide a
-weirdo
+00:03:50, 180--> 00:03:53, 400
+Aqui fazemos é nos esconder um
+esquisito
+
 
 66
-00:03:53,400 --> 00:03:57,890
-are our clothes are documents soviet
-more more than one class open
+00:03:53, 400--> 00:03:57, 890
+são de documentos,
+mais de uma classe aberta
 
 67
-00:03:57,889 --> 00:04:02,250
-a or something else you can close all
-those out it shows you the
+00:03:57, 889--> 00:04:02, 250
+uma ou outra coisa você, pode fechar todos
+aqueles que você mostra as
 
 68
-00:04:02,250 --> 00:04:05,949
-windows that open right now any
-compulsory set you lay out if you want
+00:04:02, 250--> 00:04:05, 949
+janelas que se abrem agora qualquer
+conjunto obrigatório
 
 69
-00:04:05,949 --> 00:04:07,679
-now the Help menu
+00:04:05, 949--> 00:04:07, 679
+Agora no menu de ajuda
 
 70
-00:04:07,680 --> 00:04:11,360
-he you have the option to have you help
-manage help settings
+00:04:07, 680--> 00:04:11, 360
+Ele tem a opção de te ajudar,
+Gerenciar configurações de ajuda
 
 71
-00:04:11,360 --> 00:04:16,629
-go to forums or look at samples and
-other stuff like that you can mess out
+00:04:11, 360--> 00:04:16, 629
+ir a fóruns ou analisar amostras e
+gostos que você pode mexer para fora.
 
 72
-00:04:16,629 --> 00:04:19,488
-that if you want now down here in this
-bar
+00:04:16, 629--> 00:04:19, 488
+Temos aqui
 
 73
-00:04:19,488 --> 00:04:22,779
-we have are new project
+00:04:19,--> de 488 00:04:22, 779
+os novos projetos,
 
 74
-00:04:22,779 --> 00:04:26,228
-open file save our and some other things
-like
+00:04:22, 779--> 00:04:26, 228
+Abrir arquivo ,salvar, e algumas outras coisas
+como
 
 75
-00:04:26,228 --> 00:04:30,610
-Solution Explorer properties with the
-toolbox just that that was re-appear
+00:04:26, 228--> 00:04:30, 610
+Propriedades de Explorer solução com o
+caixa de ferramentas,
 
 76
-00:04:30,610 --> 00:04:35,990
-in this menu just down here so that blue
-need to access a quick it's gonna be
+00:04:30, 610--> 00:04:35, 990
+Neste menu tão azul aqui em cima quando
+precisa acessar
 
 77
-00:04:35,990 --> 00:04:36,250
-there
+00:04:35, 990--> 00:04:36, 250
+lá
 
 78
-00:04:36,250 --> 00:04:39,829
-is so the most commonly use controls now
-we also have
+00:04:36, 250--> 00:04:39, 829
+é assim que a maioria usam controles agora
+Temos também,
 
 79
-00:04:39,829 --> 00:04:44,899
-the a realist which also are there is no
-programs also the warnings
+00:04:39, 829--> 00:04:44, 899
+o realista que também são os
+avisos
 
 80
-00:04:44,899 --> 00:04:48,109
-what a warning is is it really it really
-isn't air
+00:04:44, 899--> 00:04:48, 109
+é um aviso de que é realmente
 
 81
-00:04:48,110 --> 00:04:51,990
-but it's something that could cause air
-when you run your program
+00:04:48, 110--> 00:04:51, 990
+Mas é algo que poderá usar
+Quando você executar o programa
 
 82
-00:04:51,990 --> 00:04:55,340
-and over here we have our solution
-explorer which I
+00:04:51, 990--> 00:04:55, 340
+e aqui temos a nossa solução
+Explorer que eu
 
 83
-00:04:55,339 --> 00:04:59,969
-basically we're solution is is it to
-file they can hold a budget projects
+00:04:55,--> de 339 00:04:59, 969
+Basicamente 
+podem prender um projectos de orçamento
 
 84
-00:04:59,970 --> 00:05:04,520
-or one project if you'd like inside the
-Stratus you have classes
+00:04:59, 970--> 00:05:04, 520
+ou um projeto, se quiser dentro do canal
+tem aulas sobre.
 
 85
-00:05:04,519 --> 00:05:07,810
-and I'm forms and other stuff
+00:05:04, 519--> 00:05:07, 810
+e eu uso formulários e outras coisas
 
 86
-00:05:07,810 --> 00:05:12,240
-so I'm if you want to you can go ahead
-and mess around seven this stuff in dide
+00:05:07, 810--> 00:05:12, 240
+Então se você quiser você pode ir em frente
+e mexa,
 
 87
-00:05:12,240 --> 00:05:14,210
-to go ahead and get familiar with that
+00:05:12, 240--> 00:05:14, 210
+Vá em frente e familiarize-se com isso
 
 88
-00:05:14,209 --> 00:05:17,788
-for move on to the next it took tutorial
-and don't forget to comment like and
+00:05:14, 209--> 00:05:17, 788
+para seguir em frente para o outro tutorial
+e não se esqueça de comentar e
 
 89
-00:05:17,788 --> 00:05:18,339
-subscribe
+00:05:17, 788--> 00:05:18, 339
+Se inscrever
 
 90
-00:05:18,339 --> 00:05:19,119
-thanks for watching
-
+00:05:18,--> de 339 00:05:19, 119
+Obrigado por assistir!

@@ -1,297 +1,296 @@
 1
-00: 00: 00710 -> 00: 00: 04040
+00:00:00,710 --> 00:00:04,040
 olá, seja bem-vindo a sua primeira aula de Microsoft Visual Basic
 
 2
-00: 00: 04040 -> 00: 00: 08300
+00:00:04,040 --> 00:00:08,300
 vamos começar dando a introdução a linguagem
 
 3
-00: 00: 08300 -> 00: 00: 11280
+00:00:08,300 --> 00:00:11,280
 há muitos novatos em busca de conhecimento
 
 4
-00: 00: 11279 -> 00: 00: 12279
+00:00:11,279 --> 00:00:12,279
 de uma linguagem
 
 5
-00: 00: 12279 -> 00: 00: 15678
+00:00:12,279 --> 00:00:15,678
 se você não sabe como funciona o Microsoft .NET FrameWork (ou DotNET)
 
 6
-00: 00: 15679 -> 00: 00: 19679
+00:00:15,679 --> 00:00:19,679
 agora você vai saber
 bom, vamos começar
 
 7
-00: 00: 19679 -> 00: 00: 23608
+00:00:19,679 --> 00:00:23,608
 meu nome é Sam e este é meu canal do Youtube
 
 8
-00: 00: 23609 -> 00: 00: 26930
+00:00:23,609 --> 00:00:26,930
 em meu canal estou atualmente com aproximadamente 80 vídeos
 
 9
-00: 00: 26929 -> 00: 00: 30469
+00:00:26,929 --> 00:00:30,469
 eles são mais de Java e Visual Basic
 
 10
-00: 00: 30469 -> 00: 00: 34429
+00:00:30,469 --> 00:00:34,429
 Visual C Plus Plus e C Sharp são outras linguagens interessantes também
 
 11
-00: 00: 34429 -> 00: 00: 34939
+00:00:34,429 --> 00:00:34,939
 para você
 
 12
-00: 00: 34939 -> 00: 00: 38210
+00:00:34,939 --> 00:00:38,210
 poder assistir nossos vídeos com maior facilidade
 
 13
-00: 00: 38210 -> 00: 00: 41590
+00:00:38,210 --> 00:00:41,590
 peço que
 
 14
-00: 00: 41590 -> 00: 00: 45469
+00:00:41,590 --> 00:00:45,469
 se inscreva em meu canal do Youtube
 
 15
-00: 00: 45469 -> 00: 00: 48539
+00:00:45,469 --> 00:00:48,539
 o que é linguagem de programação e o que ela faz?
 
 16
-00: 00: 48539 -> 00: 00: 51640
+00:00:48,539 --> 00:00:51,640
 isso é o que veremos em nosso curso
 17
-00: 00: 51640 -> 00: 00: 55410
-
+00:00:51,640 --> 00:00:55,410
 vamos ver também quais são os direitos de um programador
 
 18
-00: 00: 55409 -> 00: 00: 58509
+00:00:55,409 --> 00:00:58,509
 o que ele pode e não pode fazer
 
 19
-00: 00: 58509 -> 00: 01: 02039
+00:00:58,509 --> 00:01:02,039
 para que o usuário se sinta seguro
 
 20
-00: 01: 02039 -> 00: 01: 06349
+00:01:02,039 --> 00:01:06,349
 toda programação usa de algoritimos
 21
-00: 01: 06349 -> 00: 01: 09408
+00:01:06,349 --> 00:01:09,408
 é preciso o envio de dados através de um algoritmo
 
 22
-00: 01: 09409 -> 00: 01: 14010
+00:01:09,409 --> 00:01:14,010
 compreendendo isso vamos entender um pouco sobre
 
 23
-00: 01: 14010 -> 00: 01: 18460
+00:01:14,010 --> 00:01:18,460
 o DotNET
 
 24
-00: 01: 18459 -> 00: 01: 22809
+00:01:18,459 --> 00:01:22,809
 ele foi feito pela empresa Microsoft
 
 25
-00: 01: 22810 -> 00: 01: 26189
+00:01:22,810 --> 00:01:26,189
 o que eles pretendiam com o DotNET
 
 26
-00: 01: 26188 -> 00: 01: 29649
+00:01:26,188 --> 00:01:29,649
 queriam criar uma linguagem de programação
 
 27
-00: 01: 29650 -> 00: 01: 33210
+00:01:29,650 --> 00:01:33,210
 independente do Windows
 
 28
-00: 01: 33209 -> 00: 01: 36618
+00:01:33,209 --> 00:01:36,618
 porém, quando você cria um programa que é executado no DotNET
 
 29
-00: 01: 36618 -> 00: 01: 37319
+00:01:36,618 --> 00:01:37,319
 o mesmo
 
 30
-00: 01: 37319 -> 00: 01: 40639
+00:01:37,319 --> 00:01:40,639
 é dependente do sistema
 
 31
-00: 01: 40640 -> 00: 01: 44868
+00:01:40,640 --> 00:01:44,868
 você cria uma espécie de máquina virtual
 
 32
-00: 01: 44868 -> 00: 01: 45319
+00:01:44,868 --> 00:01:45,319
 e
 
 33
-00: 01: 45319 -> 00: 01: 49438
+00:01:45,319 --> 00:01:49,438
 o programa é executado dentro dela
 
 34
-00: 01: 49438 -> 00: 01: 53529
+00:01:49,438 --> 00:01:53,529
 é como o Java Virtual Machine, porém ele é independente do computador
 
 35
-00: 01: 53530 -> 00: 01: 54280
+00:01:53,530 --> 00:01:54,280
 um programa executado
 
 36
-00: 01: 54280 -> 00: 01: 58649
+00:01:54,280 --> 00:01:58,649
 na Máquina Virtual Java, na minha opinião é 
 mais eficaz que o DotNET
 
 37
-00: 01: 58649 -> 00: 02: 03280
+00:01:58,649 --> 00:02:03,280
 mas também não podemos esqueçer que o Visual Basic
 
 38
-00: 02: 03280 -> 00: 02: 07640
+00:02:03,280 --> 00:02:07,640
 é uma linguagem de programação de nível alto
 
 39
-00: 02: 07640 -> 00: 02: 12150
+00:02:07,640 --> 00:02:12,150
 e fácil de entender por ser muito parecido com o Inglês
 
 40
-00: 02: 12150 -> 00: 02: 15700
+00:02:12,150 --> 00:02:15,700
 e é mais elevador por ser de alto nível
 
 41
-00: 02: 15699 -> 00: 02: 19318
+00:02:15,699 --> 00:02:19,318
 um exemplor de baixo nível seria o
 
 42
-00: 02: 19318 -> 00: 02: 23219
+00:02:19,318 --> 00:02:23,219
 C Plus Plus ou algo semelhante
 
 43
-00: 02: 23219 -> 00: 02: 26530
+00:02:23,219 --> 00:02:26,530
 o que vamos fazer neste tutorial
 
 44
-00: 02: 26530 -> 00: 02: 30300
+00:02:26,530 --> 00:02:30,300
 não é aprender tudo de uma vez
 
 45
-00: 02: 30300 -> 00: 02: 33439
+00:02:30,300 --> 00:02:33,439
 vamos começar pelas Variáveis
 46
-00: 02: 33439 -> 00: 02: 38259
+00:02:33,439 --> 00:02:38,259
 vamos começar com passos simples
 
 47
-00: 02: 38259 -> 00: 02: 41579
+00:02:38,259 --> 00:02:41,579
 vamos começar com Windows Forms
 
 48
-00: 02: 41580 -> 00: 02: 42910
+00:02:41,580 --> 00:02:42,910
 eu amo Visual Basic pelo motivo
 49
-00: 02: 42909 -> 00: 02: 45939
+00:02:42,909 --> 00:02:45,939
 de ser fácil a criação de Forms
 
 50
-00: 02: 45939 -> 00: 02: 50009
+00:02:45,939 --> 00:02:50,009
 o C Plus Plus ou similar
 
 51
-00: 02: 50009 -> 00: 02: 54399
+00:02:50,009 --> 00:02:54,399
 você precisa de códigos para criar objetos
 
 52
-00: 02: 54400 -> 00: 02: 57590
+00:02:54,400 --> 00:02:57,590
 em Forms
 
 53
-00: 02: 57590 -> 00: 03: 02110
+00:02:57,590 --> 00:03:02,110
 já no Visual Basic é preciso só arrastar os objetos
 
 54
-00: 03: 02110 -> 00: 03: 05909
+00:03:02,110 --> 00:03:05,909
 o IDE vai gerar o código para você
 
 55
-00: 03: 05908 -> 00: 03: 09079
+00:03:05,908 --> 00:03:09,079
 ele cria o Form
 
 56
-00: 03: 09080 -> 00: 03: 13680
+00:03:09,080 --> 00:03:13,680
 quando você executar ele executará o código e ficará da forma exata que estava
 
 57
-00: 03: 13680 -> 00: 03: 14790
+00:03:13,680 --> 00:03:14,790
 linguagem como Java
 
 58
-00: 03: 14789 -> 00: 03: 19120
+00:03:14,789 --> 00:03:19,120
 as vezes é difícil para visualizar o que é elaborado
 
 59
-00: 03: 19120 -> 00: 03: 23599
+00:03:19,120 --> 00:03:23,599
 já o Visual Basic não, é por isso que gosto dele
 
 60
-00: 03: 23598 -> 00: 03: 24158
+00:03:23,598 --> 00:03:24,158
 ele é simples de entender
 
 61
-00: 03: 24158 -> 00: 03: 28139
+00:03:24,158 --> 00:03:28,139
 e vem com o Visual Studio
 62
-00: 03: 28139 -> 00: 03: 31219
+00:03:28,139 --> 00:03:31,219
 Caso tenham dúvidas
 
 63
-00: 03: 31219 -> 00: 03: 34870
+00:03:31,219 --> 00:03:34,870
 deixem um comentário abaixo do player de vídeo
 
 64
-00: 03: 34870 -> 00: 03: 39250
+00:03:34,870 --> 00:03:39,250
 vou tentar responder as perguntas como poder
 
 65
-00: 03: 39250 -> 00: 03: 40848
+00:03:39,250 --> 00:03:40,848
 pois sei que serão muitas
 
 66
-00: 03: 40848 -> 00: 03: 44810
+00:03:40,848 --> 00:03:44,810
 pois meu canal tem muitos assinantes
 
 67
-00: 03: 44810 -> 00: 03: 49989
+00:03:44,810 --> 00:03:49,989
 para o próximo tutorial
 
 68
-00: 03: 49989 -> 00: 03: 53459
+00:03:49,989 --> 00:03:53,459
 vocês vão saber mais sobre
 
 69
-00: 03: 53459 -> 00: 03: 57830
+00:03:53,459 --> 00:03:57,830
 as linguagens que utilizam o DotNET
 
 70
-00: 03: 57830 -> 00: 04: 01830
+00:03:57,830 --> 00:04:01,830
 tendo o conhecimento, você pode
 
 71
-00: 04: 01830 -> 00: 04: 06110
+00:04:01,830 --> 00:04:06,110
 investir em desenvolver para internet também
 
 72
-00: 04: 06110 -> 00: 04: 09909
+00:04:06,110 --> 00:04:09,909
 é importante também saber outras linguagens
 
 73
-00: 04: 09908 -> 00: 04: 13429
+00:04:09,908 --> 00:04:13,429
 pois novos lançamentos e novidades estão a chegar
 
 74
-00: 04: 13430 -> 00: 04: 17590
-aobrigado por assistir a este vídeo, não esqueça de comentar
+00:04:13,430 --> 00:04:17,590
+obrigado por assistir a este vídeo, não esqueça de comentar
 
 75
-00: 04: 17589 -> 00: 04: 17839
-e inscrever-se
+00:04:17,589 --> 00:04:17,839
+inscreva-se
